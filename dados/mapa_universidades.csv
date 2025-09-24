@@ -1,0 +1,2764 @@
+,nome_universidade,codigo
+0,universidade de sao paulo,br_1
+1,universidade federal do rio grande do sul,br_2
+2,universidade federal do rio de janeiro,br_3
+3,universidade federal de minas gerais,br_4
+4,universidade federal de santa catarina,br_5
+5,universidade estadual de campinas,br_6
+6,universidade de brasilia,br_7
+7,universidade estadual paulista julio de mesquita filho sede,br_8
+8,universidade federal do parana,br_9
+9,universidade federal de pernambuco,br_10
+10,universidade federal da bahia,br_11
+11,universidade estadual paulista julio de mesquita filho,br_12
+12,universidade federal fluminense,br_13
+13,universidade federal do ceara,br_14
+14,universidade federal do rio grande do norte,br_15
+15,universidade federal de sao carlos,br_16
+16,pontificia universidade catolica do rio grande do sul,br_17
+17,universidade do estado do rio de janeiro,br_18
+18,universidade federal de vicosa,br_19
+19,universidade federal de lavras,br_20
+20,universidade federal de santa maria,br_21
+21,pontificia universidade catolica do rio de janeiro,br_22
+22,universidade federal do para,br_23
+23,universidade federal de goias,br_24
+24,universidade federal de pelotas,br_25
+25,pontificia universidade catolica de sao paulo,br_26
+26,universidade estadual de maringa,br_27
+27,universidade federal de sao paulo,br_28
+28,universidade federal da paraiba,br_29
+29,fundacao oswaldo cruz fiocruz,br_30
+30,universidade federal de uberlandia,br_31
+31,universidade estadual de londrina,br_32
+32,universidade federal do espirito santo,br_33
+33,universidade do vale do rio dos sinos,br_34
+34,universidade federal de juiz de fora,br_35
+35,universidade federal rural do rio de janeiro,br_36
+36,universidade federal rural de pernambuco,br_37
+37,pontificia universidade catolica do parana,br_38
+38,universidade federal do rio grande,br_39
+39,universidade do estado de santa catarina,br_40
+40,pontificia universidade catolica de minas gerais,br_41
+41,universidade estadual do ceara,br_42
+42,universidade federal do estado do rio de janeiro,br_43
+43,universidade estadual do norte fluminense darcy ribeiro,br_44
+44,universidade federal de ouro preto,br_45
+45,universidade federal do abc,br_46
+46,universidade do vale do itajai,br_47
+47,universidade tecnologica federal do parana,br_48
+48,instituto nacional de pesquisas da amazonia,br_49
+49,universidade federal de mato grosso,br_50
+50,instituto nacional de pesquisas espaciais,br_51
+51,universidade federal de alagoas,br_52
+52,universidade federal de campina grande,br_53
+53,universidade estadual do oeste do parana,br_54
+54,instituto tecnologico de aeronautica,br_55
+55,universidade presbiteriana mackenzie,br_56
+56,universidade federal do amazonas,br_57
+57,universidade estadual de ponta grossa,br_58
+58,fundacao universidade federal de sergipe,br_59
+59,fundacao universidade federal de mato grosso do sul,br_60
+60,universidade estadual de santa cruz,br_61
+61,universidade federal de sergipe,br_62
+62,universidade federal do maranhao,br_63
+63,fundacao getulio vargas rj,br_64
+64,universidade federal da grande dourados,br_65
+65,universidade estadual de feira de santana,br_66
+66,fundacao universidade de passo fundo,br_67
+67,universidade federal de mato grosso do sul,br_68
+69,universidade federal de itajuba,br_69
+70,universidade nove de julho,br_70
+71,universidade catolica de brasilia,br_71
+72,universidade de caxias do sul,br_72
+73,associacao instituto nacional de matematica pura e aplicada,br_73
+75,universidade regional de blumenau,br_74
+76,universidade de pernambuco,br_75
+78,pontificia universidade catolica de campinas,br_76
+79,universidade federal da paraiba joao pessoa,br_77
+80,universidade de santa cruz do sul,br_78
+81,universidade do estado da bahia,br_79
+82,universidade tiradentes,br_80
+83,universidade metodista de sao paulo,br_81
+84,universidade estadual da paraiba,br_82
+85,universidade estadual do sudoeste da bahia,br_83
+87,universidade federal de sao joao del rei,br_84
+88,observatorio nacional,br_85
+89,universidade luterana do brasil,br_86
+90,universidade federal do reconcavo da bahia,br_87
+91,universidade federal rural do semi arido,br_88
+92,universidade metodista de piracicaba,br_89
+93,centro brasileiro de pesquisas fisicas,br_90
+94,fundacao universidade federal de ciencias da saude de porto alegre,br_91
+95,universidade catolica de pelotas,br_92
+97,universidade sao francisco,br_93
+98,universidade de fortaleza,br_94
+99,universidade federal do piaui,br_95
+100,universidade estadual do centro oeste,br_96
+101,universidade federal de alfenas,br_97
+103,instituto militar de engenharia,br_98
+105,universidade do estado do amazonas,br_99
+106,universidade do sul de santa catarina,br_100
+108,universidade federal do triangulo mineiro,br_101
+109,instituto agronomico,br_102
+110,universidade do vale do paraiba,br_103
+111,universidade catolica dom bosco,br_104
+112,universidade de sao paulo sao carlos,br_105
+113,universidade anhanguera de sao paulo,br_106
+114,universidade do estado de mato grosso,br_107
+115,universidade do estado de minas gerais,br_108
+116,instituto nacional de cancer jose alencar gomes da silva,br_109
+117,universidade de franca,br_110
+118,fundacao getulio vargas,br_111
+119,universidade positivo,br_112
+120,centro federal de educacao tecnologica de minas gerais,br_113
+121,universidade federal do tocantins,br_114
+122,escola superior de teologia,br_115
+123,universidade federal dos vales do jequitinhonha e mucuri,br_116
+125,universidade estacio de sa,br_117
+126,universidade cruzeiro do sul,br_118
+127,centro federal de educacao tecnologica celso suckow da fonseca,br_119
+128,universidade feevale,br_120
+129,fundacao vale do taquari de educacao e desenvolvimento social fuvates,br_121
+130,universidade catolica de pernambuco,br_122
+131,fundacao universitaria de cardiologia,br_123
+132,universidade salvador,br_124
+133,universidade do extremo sul catarinense,br_125
+135,univ regional do noroeste do estado do rio grande do sul,br_126
+136,centro universitario de brasilia,br_127
+137,universidade regional do noroeste do estado do rio grande do sul,br_128
+139,universidade de sao paulo ribeirao preto,br_129
+140,instituto de pesquisa jardim botanico do rio de janeiro,br_130
+141,universidade federal rural da amazonia,br_131
+143,instituto de botanica,br_132
+144,universidade catolica do salvador,br_133
+146,instituto universitario de pesquisa do rio de janeiro,br_134
+148,universidade estadual de mato grosso do sul,br_135
+149,fundacao universidade federal do piaui,br_136
+150,universidade federal de rondonia,br_137
+151,universidade estadual do rio grande do sul,br_138
+154,laboratorio nacional de computacao cientifica,br_139
+156,escola superior de propaganda e marketing,br_140
+158,universidade estadual paulista julio de mesquita filho botucatu,br_141
+159,pontificia universidade catolica de goias,br_142
+161,universidade federal do pampa,br_143
+162,universidade federal do oeste do para,br_144
+164,universidade federal do amapa,br_145
+165,fundacao univ federal de ciencias da saude de porto alegre,br_146
+166,fundacao universidade federal do tocantins,br_147
+167,universidade paulista,br_148
+168,universidade estadual paulista julio de mesquita filho sao jose do rio preto,br_149
+169,universidade catolica de santos,br_150
+170,centro de desenvolvimento da tecnologia nuclear,br_151
+172,universidade estadual do maranhao,br_152
+173,universidade estadual paulista julio de mesquita filho araraquara,br_153
+174,universidade estadual de goias,br_154
+175,fundacao universidade federal do pampa,br_155
+177,universidade de mogi das cruzes,br_156
+178,universidade estadual paulista julio de mesquita filho franca,br_157
+179,universidade estadual paulista julio de mesquita filho ilha solteira,br_158
+181,fundacao instituto capixaba de pesquisas em contabilidade economia e financas,br_159
+182,universidade do estado do rio grande do norte,br_160
+183,fundacao antonio prudente hospital a c camargo,br_161
+184,centro universitario da fei,br_162
+185,universidade estadual paulista julio de mesquita filho duplicidade com cod 56,br_163
+186,sociedade brasileira de fisiologia,br_164
+188,universidade franciscana,br_165
+189,universidade estadual de montes claros,br_166
+190,faculdade jesuita de filosofia e teologia,br_167
+191,universidade da regiao de joinville,br_168
+194,universidade vila velha,br_169
+196,universidade cidade de sao paulo,br_170
+197,universidade anhembi morumbi,br_171
+198,centro universitario una,br_172
+200,faculdade de medicina de sao jose do rio preto,br_173
+203,universidade nilton lins,br_174
+204,escola nacional de ciencias estatisticas,br_175
+205,universidade universus veritas guarulhos,br_176
+207,faculdade de ciencias medicas da santa casa de sao paulo,br_177
+208,instituto de pesquisas energeticas e nucleares,br_178
+209,instituto federal de educacao ciencia e tecnologia da bahia,br_179
+210,instituto de medicina integral professor fernando figueira,br_180
+211,instituto federal de educacao ciencia e tecnologia do rio grande do norte,br_181
+213,instituto de pesquisa economica aplicada,br_182
+215,universidade candido mendes,br_183
+216,universidade do oeste paulista,br_184
+220,fiocruz centro de pesquisas rene rachou,br_185
+221,universidade gama filho,br_186
+223,fundacao universidade federal de roraima,br_187
+226,universidad nacional autonoma de mexico,br_188
+240,universidade estadual paulista julio de mesquita filho rio claro,br_189
+241,museu paraense emilio goeldi,br_190
+242,instituto federal de educacao ciencia e tecnologia de sao paulo,br_191
+243,instituto butantan,br_192
+244,universidade estadual de campinas limeira,br_193
+246,universidade la salle,br_194
+248,universidade fumec,br_195
+249,fundacao pio xii hospital de cancer de barretos,br_196
+252,empresa brasileira de pesquisa agropecuaria,br_197
+254,instituto federal de educacao ciencia e tecnologia do espirito santo,br_198
+255,instituto de ensino e pesquisa,br_199
+256,instituto federal de educacao ciencia e tecnologia da paraiba,br_200
+259,universidade estadual paulista julio de mesquita filho presidente prudente,br_201
+263,universidade do grande rio prof jose de souza herdy,br_202
+264,faculdade de medicina do abc,br_203
+265,sociedade brasileira de bioquimica e biologia molecular,br_204
+266,universidade anhanguera,br_205
+269,universidade federal da fronteira sul,br_206
+274,centro universitario fieo,br_207
+278,fundacao oswaldo cruz,br_208
+279,fundacao joao pinheiro escola de governo,br_209
+280,universidade regional integrada do alto uruguai e das missoes,br_210
+281,universidade salgado de oliveira,br_211
+282,faculdades pequeno principe,br_212
+285,universidade de ribeirao preto,br_213
+287,universidade estadual de campinas piracicaba,br_214
+288,hospital de clinicas de porto alegre,br_215
+289,universidade municipal de sao caetano do sul,br_216
+291,instituto biologico,br_217
+292,universidade federal do vale do sao francisco,br_218
+295,universidade tuiuti do parana,br_219
+308,instituto nacional da propriedade industrial,br_220
+309,instituto federal de educacao ciencia e tecnologia de santa catarina,br_221
+311,instituto nacional de metrologia normalizacao e qualidade industrial,br_222
+312,instituto evandro chagas,br_223
+313,universidade federal da paraiba campina grande,br_224
+314,universidade estadual paulista julio de mesquita filho marilia,br_225
+323,universidade federal da paraiba areia,br_226
+324,universidade estadual vale do acarau,br_227
+325,instituto federal de educacao ciencia e tecnologia do rio grande do sul,br_228
+326,instituto federal de educacao ciencia e tecnologia de pernambuco,br_229
+327,universidade estadual do parana,br_230
+328,instituto federal de educacao ciencia e tecnologia do ceara,br_231
+329,instituto federal de educacao ciencia e tecnologia goiano,br_232
+330,instituto de radioprotecao e dosimetria,br_233
+331,fundacao getulio vargas sp,br_234
+332,universidade regional do cariri,br_235
+333,universidade potiguar,br_236
+334,fiocruz centro de pesquisa aggeu magalhaes,br_237
+337,universidade federal do acre,br_238
+338,universidade federal de roraima,br_239
+339,instituto federal de educacao ciencia e tecnologia sul rio grandense,br_240
+340,instituto federal de educacao ciencia e tecnologia do rio de janeiro,br_241
+359,universidade do oeste de santa catarina,br_242
+360,universidade do estado do para,br_243
+363,colegio pedro ii,br_244
+370,centro universitario senac,br_245
+375,banco central do brasil,br_246
+383,instituto carlos chagas,br_247
+385,instit federal de educacao ciencia e tecnologia de goias,br_248
+386,instituto agronomico do parana,br_249
+387,instituto federal de educacao ciencia e tecnologia do maranhao monte castelo,br_250
+388,instituto de pesq tecnologicas do estado de sao paulo,br_251
+389,instituto federal de educacao ciencia e tecnologia de mato grosso,br_252
+390,instituto brasileiro de informacao ciencia e tecnologia,br_253
+391,instituto federal de educacao ciencia e tecnologia de goias,br_254
+395,instituto federal de educacao ciencia e tecnologia de brasilia,br_255
+396,universidade estadual paulista julio de mesquita filho jaboticabal,br_256
+397,universidade estadual paulista julio de mesquita filho bauru,br_257
+398,universidade estadual paulista julio de mesquita filho assis,br_258
+410,universidad autonoma metropolitana,br_259
+414,centro de aperfeicoamento e estudos superiores,br_260
+416,centro de tecnologia minera,br_261
+427,universidade vale do rio doce,br_262
+428,universidade sao judas tadeu,br_263
+430,escola superior dom helder camara,br_264
+431,faculdade casper libero,br_265
+432,escola superior de agricultura luiz de queiroz esalq usp,br_266
+433,faculdade de ciencias medicas de minas gerais,br_267
+440,instituto politecnico nacional,br_268
+441,universidade do vale do sapucai,br_269
+443,fundacao ezequiel dias,br_270
+445,faculdade meridional,br_271
+446,universidade norte do parana,br_272
+447,fundacao brasileira de teatro,br_273
+448,fundacao casa de rui barbosa,br_274
+450,faculdades oswaldo cruz,br_275
+451,instit nac metrologia normalizacao e qualidade industrial,br_276
+457,universidade federal do sul da bahia,br_277
+458,fundacao universidade estadual do piaui fuespi,br_278
+459,instituto do coracao,br_279
+460,instituto metodista isabela hendrix imih,br_280
+461,instituto de aeronautica e espaco ministerio da defesa,br_281
+462,escola bahiana de medicina e saude publica,br_282
+463,empresa de pesquisa agropecuaria de minas gerais,br_283
+476,escola de comando e estado maior do exercito,br_284
+477,escola de administracao de empresas de sao paulo,br_285
+481,universidade de taubate,br_286
+482,universidade de sorocaba,br_287
+485,universidade de vassouras,br_288
+489,universidade veiga de almeida,br_289
+508,universidade da amazonia,br_290
+509,universidade da integracao internacional da lusofonia afro brasileira,br_291
+514,centro universitario fei,br_292
+515,centro universitario euro americano,br_293
+517,coordenadoria controle de doencas da sec est da saude de sp,br_294
+519,consejo nacional de ciencia y tecnologia,br_295
+526,centro universitario de belo horizonte,br_296
+527,centro universitario metodista ipa,br_297
+551,advocacia geral da uniao,br_298
+552,agencia nacional de aguas ana,br_299
+556,agencia nacional de aviacao civil anac,br_300
+558,associacao de ensino unificado do distrito federal,br_301
+559,associacao nacional de matematica pura aplicada,br_302
+578,centro de estudos e sistemas avancados do recife,br_303
+581,centro de tecnologia da informacao renato archer,br_304
+582,centro de tecnologia mineral,br_305
+584,centro regional universitario de espirito santo do pinhal,br_306
+648,universidade braz cubas,br_307
+649,universidade castelo branco,br_308
+653,rede record de televisao,br_309
+688,universidade comunitaria da regiao de chapeco,br_310
+689,universidade de araraquara,br_311
+691,universidade de cruz alta,br_312
+692,universidade de cuiaba,br_313
+693,universidade de marilia,br_314
+698,secretaria de estado da saude de sao paulo,br_315
+699,secretaria de estado de educacao do distrito federal sedf,br_316
+700,secretaria municipal de educacao,br_317
+702,universidade catolica de petropolis,br_318
+703,universidade cesumar,br_319
+708,instituto nacional de tecnologia,br_320
+712,ministerio da agricultura pecuaria e abastecimento,br_321
+713,ministerio do planejamento orcamento e gestao,br_322
+714,ministerio publico federal,br_323
+729,universidade de santo amaro,br_324
+730,universidade do contestado,br_325
+731,universidade do federal do pampa,br_326
+732,universidade do sagrado coracao,br_327
+736,instituto federal de educacao ciencia e tecnologia do amazonas,br_328
+737,instituto federal de educacao ciencia e tecnologia do parana,br_329
+738,instituto federal de educacao ciencia e tecnologia do piaui,br_330
+739,instituto federal de educacao ciencia e tecnologia do sertao pernambucano,br_331
+740,instituto federal de educacao ciencia e tecnologia do sudeste de minas gerais,br_332
+741,instituto federal de educacao ciencia e tecnologia do sul de minas gerais,br_333
+742,instituto federal de educacao ciencia e tecnologia do tocantins,br_334
+743,instituto federal de educacao ciencia e tecnologia do triangulo mineiro,br_335
+744,universidade estadual de alagoas,br_336
+745,universidade estadual de ciencias da saude de alagoas,br_337
+746,universidade estadual de roraima,br_338
+747,universidade estadual do norte do parana,br_339
+748,universidade estadual do parana paranavai fafipa,br_340
+749,universidade estadual do parana reitoria,br_341
+750,instituto federal de educacao ciencia e tecnologia de minas gerais,br_342
+751,instituto federal de educacao ciencia e tecnologia de sergipe,br_343
+768,inst de ensino e pesquisa da santa casa de belo horizonte,br_344
+769,inst de prev dos servidores do estado de minas gerais,br_345
+776,instituto de pesquisas jardim botanico do rio de janeiro,br_346
+777,instituto de previdencia dos servidores do estado de minas gerais,br_347
+778,instituto de tecnologia de alimentos,br_348
+779,instituto do patrimonio historico e artistico nacional,br_349
+780,instituto federal de educacao ciencia e tecnologia catarinense,br_350
+781,universidade estadual paulista julio de mesquita filho sao jose dos campos,br_351
+782,universidade federal da paraiba rio tinto,br_352
+784,instituto de aeronautica e espaco,br_353
+786,instituto de engenharia nuclear,br_354
+787,instituto de ensino e pesquisa da santa casa de belo horizonte,br_355
+788,instituto de ensino superior e pesquisa,br_356
+789,instituto de estudos do mar almirante paulo moreira,br_357
+792,instituto federal de educacao ciencia e tecnologia farroupilha,br_358
+794,instituto internacional de ciencias sociais,br_359
+797,instituto centro de ensino tecnologico,br_360
+798,instituto chico mendes de conservacao da biodiversidade,br_361
+799,instituto d or de pesquisa e ensino,br_362
+803,fund jorge duprat figueiredo de seguranca e med do trabalho,br_363
+804,fundacao armando alvares penteado,br_364
+805,fundacao de amparo a pesquisa do estado de sao paulo,br_365
+806,fundacao de amparo a pesquisa do estado do maranhao,br_366
+807,fundacao de medicina tropical dr heitor vieira dourado,br_367
+816,instituto brasiliense de direito publico,br_368
+817,universidade federal de sao carlos sorocaba,br_369
+818,universidade federal do cariri,br_370
+819,fundacao visconde de cairu,br_371
+820,fundacao zoobotanica do rio grande do sul,br_372
+828,instituto agronomico do parana iapar,br_373
+829,faculdades integradas rio branco,br_374
+830,facultad latinoamericana de ciencias sociales,br_375
+831,federacao de orgaos de assist soc e educacao fase,br_376
+833,fiocruz centro de pesquisa goncalo moniz,br_377
+836,faculdade pitagoras de divinopolis,br_378
+837,faculdade presbiteriana augusto galvao,br_379
+838,faculdade ruy barbosa,br_380
+839,faculdade santa maria,br_381
+840,faculdade tres de maio,br_382
+841,faculdade uniao de campo mourao,br_383
+842,faculdades integradas alcantara machado,br_384
+843,faculdades integradas helio alonso,br_385
+844,universidade pitagoras unopar,br_386
+845,faculdade do vale do ipojuca,br_387
+846,faculdade fortium,br_388
+847,faculdade integrada metropolitana de campinas,br_389
+848,faculdade metropolitana de maringa unifamma,br_390
+849,faculdade municipal professor franco montoro de mogi guacu,br_391
+850,faculdade pernambucana de saude,br_392
+851,faculdade pitagoras de belo horizonte,br_393
+852,fundacao dom cabral,br_394
+853,fundacao escola de sociologia e politica de sao paulo,br_395
+854,fundacao joaquim nabuco,br_396
+855,fundacao municipal de ensino superior de braganca paulista,br_397
+857,universidade jose do rosario vellano,br_398
+859,faculdade de ciencia e tecnologia,br_399
+860,faculdade de ciencias biomedicas de cacoal,br_400
+861,faculdade de direito de vitoria,br_401
+862,faculdade de direito do sul de minas,br_402
+863,faculdade de direito milton campos,br_403
+864,faculdade de engenharia de sorocaba,br_404
+865,faculdade de engenharia quimica de lorena,br_405
+866,faculdade de minas,br_406
+868,faculdade anhanguera de osasco,br_407
+869,faculdade arquidiocesana de mariana,br_408
+870,faculdade asces,br_409
+871,faculdade autonoma de direito,br_410
+872,faculdade borges de mendonca,br_411
+873,faculdade das americas,br_412
+874,faculdade de artes do parana,br_413
+884,universidade presidente antonio carlos,br_414
+915,faculdade de odontologia de bauru usp,br_415
+916,faculdade de ribeirao preto,br_416
+917,faculdade de tecnologia de sao paulo,br_417
+918,faculdade de tecnologia e ciencias de salvador,br_418
+919,faculdade de tecnologia gap,br_419
+923,embrapa recursos geneticos e biotecnologia,br_420
+937,el colegio de mexico,br_421
+938,embrapa gado de leite,br_422
+976,companhia de pesquisa de recursos minerais,br_423
+977,complexo de ensino superior de santa catarina,br_424
+979,centro universitario luterano de manaus,br_425
+980,centro universitario metodista izabela hendrix,br_426
+981,centro universitario moura lacerda,br_427
+982,centro universitario newton paiva,br_428
+983,centro universitario padre anchieta,br_429
+984,centro universitario ritter dos reis,br_430
+985,centro universitario serra dos orgaos,br_431
+986,centro universitario sociesc,br_432
+987,centro universitario do instituto de educacao superior de brasilia,br_433
+988,centro universitario do instituto maua de tecnologia,br_434
+989,centro universitario do leste de minas gerais,br_435
+990,centro universitario fecap,br_436
+991,centro universitario filadelfia,br_437
+992,centro universitario ibmr,br_438
+993,centro universitario internacional,br_439
+994,centro universitario luterano de ji parana,br_440
+997,centro universitario da fundacao herminio ometto,br_441
+998,centro universitario das faculdades metropolitanas unidas,br_442
+999,centro universitario de bauru,br_443
+1000,centro universitario de itajuba,br_444
+1001,centro universitario de maringa,br_445
+1002,centro universitario do espirito santo,br_446
+1034,centro universitario 7 de setembro,br_447
+1035,centro universitario academia,br_448
+1036,centro universitario anhanguera,br_449
+1037,centro universitario carioca,br_450
+1038,centro universitario central paulista,br_451
+1039,centro universitario claretiano,br_452
+1040,centro universitario curitiba,br_453
+1046,uniao metropolitana para o desenvolvimento da educacao e cultura ltda,br_454
+2171,universidade ceuma,br_455
+2284,instituto federal de educacao ciencia e tecn da paraiba,br_456
+2426,instituto nacional de telecomunicacoes,br_457
+68,universidade do porto,ex_1
+74,universidade de coimbra,ex_2
+77,university of london,ex_3
+86,universidade de lisboa,ex_4
+96,universidade de aveiro,ex_5
+102,universitat de barcelona,ex_6
+104,universidade do minho,ex_7
+107,university of california system,ex_8
+124,universite paris nord paris xiii,ex_9
+134,universidade nova de lisboa,ex_10
+138,universite de vincennes a saint denis paris viii,ex_11
+142,universidad de la habana,ex_12
+145,universidad de buenos aires,ex_13
+147,universite pantheon sorbonne paris 1,ex_14
+152,universidad de la republica uruguay,ex_15
+153,university of florida,ex_16
+155,universitat autonoma de barcelona,ex_17
+157,universite grenoble alpes,ex_18
+160,universidad de salamanca,ex_19
+163,universite sorbonne nouvelle paris iii,ex_20
+171,university of texas system,ex_21
+176,university of wisconsin system,ex_22
+180,cornell university,ex_23
+187,universidad de sevilla,ex_24
+192,consejo superior de investigaciones cientificas,ex_25
+193,sapienza universitat di roma,ex_26
+195,universite de montpellier,ex_27
+199,imperial college london,ex_28
+201,universidad de santiago de compostela,ex_29
+202,universidad autonoma de madrid,ex_30
+206,texas a m university system office,ex_31
+212,universite paris diderot paris vii,ex_32
+214,universidad tecnologica de la habana jose antonio echeverria,ex_33
+217,ludwig maximilians universitat munchen,ex_34
+218,universitat politecnica de catalunya,ex_35
+219,universita degli studi di padova,ex_36
+222,university of illinois,ex_37
+224,university of oxford,ex_38
+225,the university of sheffield,ex_39
+227,universite paris descartes paris v,ex_40
+228,universidad de oriente,ex_41
+229,university of british columbia,ex_42
+230,aarhus universitet,ex_43
+231,universidad de granada,ex_44
+232,technische universitat dresden,ex_45
+233,university of dublin trinity college dublin,ex_46
+234,universite paris sorbonne paris iv,ex_47
+235,universidad de zaragoza,ex_48
+236,wageningen university,ex_49
+237,the university of queensland,ex_50
+238,universidad complutense de madrid,ex_51
+239,university of essex,ex_52
+245,universita di bologna,ex_53
+247,freie universitat berlin,ex_54
+250,university of michigan,ex_55
+251,university of georgia,ex_56
+253,universite du quebec,ex_57
+257,universite de montreal,ex_58
+258,universite paris ouest nanterre la defense paris x,ex_59
+260,michigan state university,ex_60
+261,georg august universitat gottingen,ex_61
+262,harvard university,ex_62
+267,brown university,ex_63
+268,universidad de alicante,ex_64
+270,university of toronto,ex_65
+271,boston university,ex_66
+272,university of alberta,ex_67
+273,universite pierre et marie curie paris vi,ex_68
+275,universiteit gent,ex_69
+276,kansas state university,ex_70
+277,johns hopkins university,ex_71
+283,university of guelph,ex_72
+284,mcgill university,ex_73
+286,institut des sciences et technologies de paris,ex_74
+290,humboldt universitat zu berlin,ex_75
+293,new york university,ex_76
+294,universidade de cabo verde,ex_77
+296,universita degli studi di torino,ex_78
+297,universita degli studi di milano milano,ex_79
+298,universite laval,ex_80
+299,universite claude bernard lyon 1,ex_81
+300,universidade da beira interior,ex_82
+301,universidade aberta,ex_83
+302,universidad politecnica de madrid,ex_84
+303,university of cambridge,ex_85
+304,universidade de vigo,ex_86
+305,universidade de tras os montes e alto douro,ex_87
+306,universite de strasbourg,ex_88
+307,consejo nacional de investigaciones cientificas y tecnicas,ex_89
+310,christian albrechts universitat zu kiel,ex_90
+315,university of reading,ex_91
+316,university of salford,ex_92
+317,universidad central marta abreu de las villas,ex_93
+318,utah state university,ex_94
+319,universidad de chile,ex_95
+320,university of exeter,ex_96
+321,university of leeds,ex_97
+322,university of kentucky,ex_98
+335,institut national polytechnique de toulouse,ex_99
+336,indiana university,ex_100
+341,universita degli studi di firenze,ex_101
+342,instituto universitario de lisboa,ex_102
+343,universidade eduardo mondlane,ex_103
+344,johannes gutenberg universitat mainz,ex_104
+345,universite pantheon assas paris ii,ex_105
+346,universite paris est creteil val de marne paris xii,ex_106
+347,durham university,ex_107
+348,eberhard karls universitat tubingen,ex_108
+349,universitat zu koln,ex_109
+350,universite de caen normandie,ex_110
+351,universitat de valencia,ex_111
+352,universitat politecnica de valencia,ex_112
+353,universite de nantes,ex_113
+354,erasmus universiteit rotterdam,ex_114
+355,oregon state university,ex_115
+356,newcastle university,ex_116
+357,universidade de evora,ex_117
+358,national research council canada,ex_118
+361,massachusetts institute of technology,ex_119
+362,louisiana state university system,ex_120
+364,colorado state university system,ex_121
+365,queen s university,ex_122
+366,universidade da coruna,ex_123
+367,universidade catolica portuguesa,ex_124
+368,purdue university,ex_125
+369,university of adelaide,ex_126
+371,universiteit leiden,ex_127
+372,universiteit van amsterdam,ex_128
+373,aix marseille universite,ex_129
+374,aalborg universitet,ex_130
+376,universite de versailles saint quentin en yvelines,ex_131
+377,technische universiteit delft,ex_132
+378,universidad del pais vasco,ex_133
+379,sorbonne universite,ex_134
+380,university of copenhagen,ex_135
+381,the university of edinburgh,ex_136
+382,universidad austral de chile,ex_137
+384,university of glasgow,ex_138
+392,institut de hautes etudes internationales et du developpement,ex_139
+393,the university of manchester,ex_140
+394,the university of tokyo,ex_141
+399,brandenburgische technische universitat cottbus senftenberg,ex_142
+400,university of surrey,ex_143
+401,university of waterloo,ex_144
+402,university of sussex,ex_145
+403,uppsala universitet,ex_146
+404,university of wyoming,ex_147
+405,university of washington,ex_148
+406,university of victoria,ex_149
+407,wake forest university,ex_150
+408,vrije universiteit brussel,ex_151
+409,universidad agraria de la habana,ex_152
+411,university of kent,ex_153
+412,centre de cooperation internationale en recherche agronomique pour le developpement,ex_154
+413,brunel university london,ex_155
+415,centre national de la recherche scientifique,ex_156
+417,university of minnesota,ex_157
+418,university of miami,ex_158
+419,universidad de cantabria,ex_159
+420,universidad de cadiz,ex_160
+421,university of pretoria,ex_161
+422,university of nevada reno,ex_162
+423,university of newcastle,ex_163
+424,university of nottingham,ex_164
+425,university of ontario institute of technology,ex_165
+426,university of massachusetts system,ex_166
+429,universita degli studi di milano bicocca milano,ex_167
+434,universita degli studi di roma la sapienza,ex_168
+435,universita degli studi roma tre,ex_169
+436,universita degli studi di palermo,ex_170
+437,universita della svizzera italiana,ex_171
+438,universita del salento,ex_172
+439,instituto politecnico de leiria,ex_173
+442,lancaster university,ex_174
+444,friedrich schiller universitat jena,ex_175
+449,florida university usa,ex_176
+452,hogskolan i halmstad,ex_177
+453,heriot watt university,ex_178
+454,icahn school of medicine at mount sinai,ex_179
+455,georgia institute of technology,ex_180
+456,globe university woodbury,ex_181
+464,osaka university,ex_182
+465,north carolina state university,ex_183
+466,northeastern university,ex_184
+467,politecnico di torino,ex_185
+468,observatoire de paris,ex_186
+469,universitat pompeu fabra,ex_187
+470,universite de bordeaux,ex_188
+471,universite catholique de louvain,ex_189
+472,universite de bretagne occidentale,ex_190
+473,dalhousie university,ex_191
+474,ecole nationale superieure d architecture de paris la villette,ex_192
+475,ecole polytechnique federale de lausanne,ex_193
+478,pennsylvania state university,ex_194
+479,universidade do algarve,ex_195
+480,ohio university,ex_196
+483,politecnico di milano,ex_197
+484,universidade do mindelo,ex_198
+486,linkopings universitet,ex_199
+487,lunds universitet,ex_200
+488,national academy of sciences of belarus,ex_201
+490,museum national d histoire naturelle,ex_202
+491,universite de rouen,ex_203
+492,universite de poitiers,ex_204
+493,universite jean moulin lyon 3,ex_205
+494,universite francois rabelais de tours,ex_206
+495,universite nice sophia antipolis,ex_207
+496,universitat bremen,ex_208
+497,universite lille 1 sciences et technologies,ex_209
+498,universite lumiere lyon 2,ex_210
+499,universitat bern,ex_211
+500,universitat bielefeld,ex_212
+501,universitat bayreuth,ex_213
+502,universitat bonn,ex_214
+503,universitat salzburg,ex_215
+504,universitat duisburg essen essen,ex_216
+505,universitat konstanz,ex_217
+506,universitat leipzig,ex_218
+507,scuola superiore sant anna,ex_219
+510,university of central florida,ex_220
+511,queensland university of technology,ex_221
+512,university of delhi,ex_222
+513,pontificia universita gregoriana,ex_223
+516,consiglio nazionale delle ricerche,ex_224
+518,columbia university,ex_225
+520,universite de sherbrooke,ex_226
+521,conservatoire national des arts et metiers,ex_227
+522,university of bristol,ex_228
+523,university of bath,ex_229
+524,university of birmingham,ex_230
+525,university of brighton,ex_231
+528,universidad nacional de san martin,ex_232
+529,universite paris sud paris xi,ex_233
+530,technische universitat munchen,ex_234
+531,universidad nacional de colombia,ex_235
+532,state university of new york system,ex_236
+533,stanford university,ex_237
+534,swansea university,ex_238
+535,universidad de valladolid,ex_239
+536,universidad nacional de rosario,ex_240
+537,universite pantheon sorbonne paris i,ex_241
+538,universidad de pinar del rio hermanos saiz montes de oca,ex_242
+539,universidad de oviedo,ex_243
+540,universidad de navarra,ex_244
+541,universidad de cordoba,ex_245
+542,bauhaus universitat weimar,ex_246
+543,akademie vd eske republiky,ex_247
+544,universidad de extremadura,ex_248
+545,universidad de almeria,ex_249
+546,university of st andrews,ex_250
+547,architectural association school of architecture,ex_251
+548,auburn university,ex_252
+549,aston university,ex_253
+550,yale university,ex_254
+553,agrocampus ouest,ex_255
+554,york university,ex_256
+555,aberystwyth university,ex_257
+557,arts et metiers paristech cluny,ex_258
+560,azusa pacific university,ex_259
+561,ball state university,ex_260
+562,bangor university,ex_261
+563,baptist hospitals of southeast texas school of radiologic beaumont,ex_262
+564,bates college,ex_263
+565,benemerita universidad autonoma de puebla,ex_264
+566,bergische universitat wuppertal,ex_265
+567,bilkent universitesi,ex_266
+568,blekinge tekniska hogskola,ex_267
+569,bloomsburg university of pennsylvania,ex_268
+570,bournemouth university,ex_269
+571,university of the arts london,ex_270
+572,university of the western cape,ex_271
+573,university of thessaly,ex_272
+574,university of tsukuba,ex_273
+575,university of utah,ex_274
+576,university of virginia,ex_275
+577,university of waikato,ex_276
+579,centro de investigacion cientifica y de educacion superior d,ex_277
+580,centro de investigaciones energeticas medioambientales y tecnologicas,ex_278
+583,centro nacional de sanidad agropecuaria,ex_279
+585,brunel university,ex_280
+586,cambridge institute of allied health technology,ex_281
+587,carleton university,ex_282
+588,case western reserve university,ex_283
+589,cedars sinai medical center,ex_284
+590,central china normal university,ex_285
+591,centre for agricultural bioscience international,ex_286
+592,university of denver,ex_287
+593,university of east anglia,ex_288
+594,university of helsinki,ex_289
+595,university of iowa,ex_290
+596,university of leicester,ex_291
+597,university of liverpool,ex_292
+598,university of london the london school of economics and po,ex_293
+599,university of manitoba,ex_294
+600,centrum voor studie en documentatie van latijns amerika,ex_295
+601,university of calgary,ex_296
+602,university of central arkansas,ex_297
+603,university of cincinnati,ex_298
+604,university of colorado system administration,ex_299
+605,university of connecticut,ex_300
+606,university of cyprus,ex_301
+607,university of delaware,ex_302
+608,syddansk universitet,ex_303
+609,tampereen teknillinen yliopisto,ex_304
+610,technische universitat berlin,ex_305
+611,technische universitat braunschweig,ex_306
+612,technische universitat chemnitz,ex_307
+613,technische universitat clausthal,ex_308
+614,technische universitat darmstadt,ex_309
+615,technische universitat hamburg harburg,ex_310
+616,sony computer science laboratory paris,ex_311
+617,southern cross university,ex_312
+618,southern illinois university,ex_313
+619,stanford research institute sri international silicon valley,ex_314
+620,stockholms universitet,ex_315
+621,sveriges lantbruksuniversitet,ex_316
+622,swinburne university of technology,ex_317
+623,swiss tropical and public health institute,ex_318
+624,universidad de cienfuegos,ex_319
+625,universidad de deusto,ex_320
+626,universidad de huelva,ex_321
+627,universidad de la laguna,ex_322
+628,universidad de los andes,ex_323
+629,universidad de matanzas camilo cienfuegos,ex_324
+630,smithsonian conservation biology institute front royal,ex_325
+631,sofia university,ex_326
+632,universidad autonoma de baja california,ex_327
+633,universidad autonoma de nuevo leon,ex_328
+634,universidad carlos iii de madrid,ex_329
+635,universidad catolica de valencia san vicente martir,ex_330
+636,universidad central de venezuela,ex_331
+637,universidad de alcala,ex_332
+638,universidad de antioquia,ex_333
+639,universidad de castilla la mancha,ex_334
+640,rijksuniversiteit groningen,ex_335
+641,robert gordon university,ex_336
+642,rush university,ex_337
+643,russian academy of sciences,ex_338
+644,rutgers university,ex_339
+645,saint louis university,ex_340
+646,saint petersburg state polytechnical university,ex_341
+647,sam houston state university,ex_342
+650,universidade catolica de mocambique,ex_343
+651,princeton university,ex_344
+652,queen s university belfast,ex_345
+654,rheinisch westfaelische technische hochschule aachen,ex_346
+655,rice university,ex_347
+656,universidad nacional de la plata,ex_348
+657,universidad nacional de rio negro,ex_349
+658,universidad nacional del centro de la provincia de buenos aires,ex_350
+659,universidad nacional del sur,ex_351
+660,universidad pablo de olavide,ex_352
+661,universidad pontificia de salamanca,ex_353
+662,universidad rey juan carlos,ex_354
+663,universidad san carlos,ex_355
+664,tel aviv university,ex_356
+665,texas tech university,ex_357
+666,the boston conservatory,ex_358
+667,the federal university of technology akure,ex_359
+668,universidad internacional de andalucia,ex_360
+669,universidad nacional agraria la molina,ex_361
+670,universidad nacional de cordoba,ex_362
+671,universidad nacional de educacion a distancia,ex_363
+672,norwegian university of science and technology gjovik,ex_364
+673,oklahoma state university tulsa,ex_365
+674,osterreichische akademie der wissenschaften,ex_366
+675,ostravska univerzita,ex_367
+676,ottawa hospital research institute,ex_368
+677,ottawa university,ex_369
+678,oxford brookes university,ex_370
+679,plymouth university,ex_371
+680,national university of singapore,ex_372
+681,naturhistoriska riksmuseet,ex_373
+682,nederlands instituut voor ecologie,ex_374
+683,new england conservatory of music,ex_375
+684,new saint andrews college,ex_376
+685,nikolaev institute of inorganic chemistry,ex_377
+686,northern illinois university,ex_378
+687,northwestern university,ex_379
+690,universidade de coimbra faculdade de letras,ex_380
+694,national renewable energy laboratory,ex_381
+695,national research university higher school of economics,ex_382
+696,san jose state university,ex_383
+697,sanford burnham prebys medical discovery institute,ex_384
+701,simon fraser university,ex_385
+704,national center for atmospheric research,ex_386
+705,national institute for minamata disease,ex_387
+706,national optical astronomy observatory,ex_388
+707,instituto nacional de saude dr ricardo jorge,ex_389
+709,instituto politecnico de beja,ex_390
+710,instituto politecnico de braganca,ex_391
+711,instituto politecnico de lisboa escola superior de educaca,ex_392
+715,minneapolis community and technical college,ex_393
+716,missouri botanical garden,ex_394
+717,missouri department of transportation st louis area district ue,ex_395
+718,musik akademie basel,ex_396
+719,national aeronautics and space administration,ex_397
+720,liverpool john moores university,ex_398
+721,loughborough university,ex_399
+722,lulea tekniska universitet,ex_400
+723,marie selby botanical gardens,ex_401
+724,massey university,ex_402
+725,mayo clinic,ex_403
+726,mcmaster university,ex_404
+727,miami university,ex_405
+728,politecnico di bari,ex_406
+733,leibniz gemeinschaft,ex_407
+734,leuphana universitat luneburg,ex_408
+735,lingnan university,ex_409
+752,jyvaskylan yliopisto,ex_410
+753,katholieke universiteit leuven,ex_411
+754,korea advanced institute of science and technology,ex_412
+755,kunstuniversitat linz,ex_413
+756,kyushu institute of technology,ex_414
+757,laboratoire d informatique de robotique et de microelectronique de montpellier,ex_415
+758,laboratorio de instrumentacao e fisica experimental de particulas,ex_416
+759,lawrence berkeley national laboratory,ex_417
+760,instituto superior de tecnologias y ciencias aplicadas,ex_418
+761,interdaf leipzig el,ex_419
+762,international iberian nanotechnology laboratory,ex_420
+763,istituti di ricovero e cura a carattere scientifico,ex_421
+764,istituto universitario europeo,ex_422
+765,jindal global university,ex_423
+766,johns hopkins health system,ex_424
+767,joint research centre,ex_425
+770,institut d etudes politiques de paris,ex_426
+771,institut de ciencies fotoniques,ex_427
+772,institut de recherche pour le developpement bondy,ex_428
+773,institut de recherche pour le developpement montpellier,ex_429
+774,institut francais des sciences et technologies des transports de l amenagement et des reseaux,ex_430
+775,institut national de la recherche agronomique,ex_431
+783,indian institute of technology council system,ex_432
+785,instituto de ciencia animal,ex_433
+790,instituto de investigacao cientifica tropical,ex_434
+791,instituto de investigaciones fundamentales en agricultura tropical alejandro de humboldt,ex_435
+793,instituto gulbenkian de ciencia,ex_436
+795,instituto nacional de ciencias agricolas,ex_437
+796,instituto nacional de estudos e pesquisa,ex_438
+800,hochschule ostwestfalen lippe,ex_439
+801,hokkaido university,ex_440
+802,illinois institute of technology,ex_441
+808,griffith university,ex_442
+809,hacettepe universitesi,ex_443
+810,hanyang university,ex_444
+811,helmholtz zentrum geesthacht,ex_445
+812,hiroshima university,ex_446
+813,hochschule fur angewandte wissenschaften hamburg,ex_447
+814,hochschule fur kunste bremen,ex_448
+815,instituto agronomico mediterraneo de zaragoza,ex_449
+821,george washington university,ex_450
+822,goethe universitat frankfurt am main,ex_451
+823,institut national de la recherche agronomique clermont ferrand,ex_452
+824,institut national de recherche en informatique et automatique,ex_453
+825,institut nationale de la sante et de le recherche medicale,ex_454
+826,institut pasteur paris,ex_455
+827,institut sophia agrobiotech ue,ex_456
+832,finlandia university,ex_457
+834,florida state university,ex_458
+835,fordham university,ex_459
+856,universidade fernando pessoa,ex_460
+858,universidade lusofona do porto,ex_461
+867,fachhochschule oberosterreich,ex_462
+875,universita degli studi di camerino,ex_463
+876,universita degli studi di cassino e del lazio meridionale,ex_464
+877,universita degli studi di catania,ex_465
+878,universita degli studi di genova,ex_466
+879,universita degli studi di messina,ex_467
+880,universita degli studi di modena e reggio emilia,ex_468
+881,escola superior de enfermagem de coimbra,ex_469
+882,escola superior de musica e artes do espetaculo,ex_470
+883,freie universitat berlin fachbereich biologie chemie pharmazie,ex_471
+885,universita ca foscari di venezia,ex_472
+886,universita degli studi del molise,ex_473
+887,universita degli studi del piemonte orientale amedeo avogadro,ex_474
+888,universita degli studi dell aquila,ex_475
+889,universita degli studi di bari aldo moro,ex_476
+890,universita degli studi di bergamo,ex_477
+891,universite d artois,ex_478
+892,universite d orleans,ex_479
+893,universite de bordeaux talence,ex_480
+894,universite de bourgogne,ex_481
+895,universite de cergy pontoise,ex_482
+896,universite de fribourg,ex_483
+897,universite de geneve,ex_484
+898,universite de la rochelle,ex_485
+899,universitat jaume i,ex_486
+900,universitat kassel,ex_487
+901,universitat regensburg,ex_488
+902,universitat rovira i virgili,ex_489
+903,universitat ulm,ex_490
+904,universitat wien,ex_491
+905,universite bourgogne franche comte,ex_492
+906,universite d angers,ex_493
+907,universita degli studi di trento,ex_494
+908,universita degli studi di verona,ex_495
+909,universita di pisa,ex_496
+910,universitair medisch centrum groningen,ex_497
+911,universitat basel,ex_498
+912,universitat de girona,ex_499
+913,universitat de les illes balears,ex_500
+914,universitat de vic,ex_501
+920,universita degli studi di napoli federico ii,ex_502
+921,universita degli studi di napoli l orientale napoli,ex_503
+922,universita degli studi di perugia,ex_504
+924,epilepsihospitalet,ex_505
+925,cespu instituto superior de ciencias da saude gandra,ex_506
+926,chalmers tekniska hogskola,ex_507
+927,city colleges of chicago,ex_508
+928,city university of new york system,ex_509
+929,coastal carolina university,ex_510
+930,colaiste rioga na mainlea in eirinn,ex_511
+931,ecole des hautes etudes commerciales de montreal,ex_512
+932,ecole nationale de l aviation civile,ex_513
+933,ecole normale superieure paris,ex_514
+934,ecole superieure d ingenieurs en electronique et electrotechnique,ex_515
+935,eidgenossische technische hochschule zurich,ex_516
+936,el colegio de la frontera sur,ex_517
+939,curtin university,ex_518
+940,czech technical university,ex_519
+941,deutsches zentrum fur luft und raumfahrt,ex_520
+942,donau universitat krems,ex_521
+943,duke university,ex_522
+944,eastern illinois university,ex_523
+945,eastern west virginia community and technical college,ex_524
+946,ecole centrale paris,ex_525
+947,universite de lausanne,ex_526
+948,universite de liege,ex_527
+949,universite de limoges,ex_528
+950,universite de lorraine,ex_529
+951,universite de lyon,ex_530
+952,universite de moncton,ex_531
+953,council of scientific and industrial research north east institute of science and technology,ex_532
+954,cranfield university,ex_533
+955,universite paris saclay,ex_534
+956,universite paul valery montpellier,ex_535
+957,universite rennes ii,ex_536
+958,universite stendhal grenoble iii,ex_537
+959,universite toulouse ii jean jaures,ex_538
+960,universiteit antwerpen,ex_539
+961,universiteit maastricht,ex_540
+962,universite de picardie jules verne,ex_541
+963,universite de technologie de compiegne,ex_542
+964,universite de valenciennes et du hainaut cambresis,ex_543
+965,universite joseph fourier grenoble i,ex_544
+966,universite lille 2 centre detude des arts contemporains,ex_545
+967,universite lille 2 droit et sante,ex_546
+968,universite lille 3 sciences humaines et sociales,ex_547
+969,conservatoire de musique de geneve,ex_548
+970,consiglio per la ricerca e la sperimentazione in agricoltura,ex_549
+971,cornell college,ex_550
+972,universite de pau et des pays de l adour,ex_551
+973,collegeamerica,ex_552
+974,commissariat a l energie atomique et aux energies alternatives grenoble,ex_553
+975,commonwealth science and industrial research organization,ex_554
+978,concordia university,ex_555
+995,university of belgrade,ex_556
+996,university of bucharest,ex_557
+1003,universiteit van tilburg,ex_558
+1004,universitetet i oslo,ex_559
+1005,university college dublin,ex_560
+1006,university medical center rotterdam,ex_561
+1007,university of aberdeen,ex_562
+1008,university of alabama tuscaloosa,ex_563
+1009,university of alaska anchorage,ex_564
+1010,university of arizona,ex_565
+1011,university of stirling,ex_566
+1012,wayne state university,ex_567
+1013,weizmann institute of science,ex_568
+1014,west virginia university,ex_569
+1015,westfalische wilhelms universitat munster,ex_570
+1016,yokohama national university,ex_571
+1017,university of western sydney,ex_572
+1018,university of pennsylvania,ex_573
+1019,university of pittsburgh,ex_574
+1020,university of rhode island,ex_575
+1021,university of saskatchewan,ex_576
+1022,university of south africa,ex_577
+1023,university of south florida,ex_578
+1024,university of southampton,ex_579
+1025,university of southern california,ex_580
+1026,university of minnesota twin cities campus department of civil environmental and geo engineering,ex_581
+1027,university of mississippi oxford,ex_582
+1028,university of missouri columbia,ex_583
+1029,university of new brunswick,ex_584
+1030,university of new england portland,ex_585
+1031,university of new south wales,ex_586
+1032,university of otago,ex_587
+1033,university of oulu,ex_588
+1041,university of maryland system,ex_589
+1042,tulane university,ex_590
+1043,turun yliopisto,ex_591
+1044,tuskegee university,ex_592
+1045,umea universitet,ex_593
+1047,unite mixte de physique cnrs thales,ex_594
+1048,united states department of agriculture,ex_595
+1049,universidad autonoma de asuncion,ex_596
+1050,the ohio state university,ex_597
+1051,the smith kettlewell eye research institute,ex_598
+1052,the university of auckland,ex_599
+1053,the university of melbourne,ex_600
+1054,the university of sydney,ex_601
+1055,the university of western australia,ex_602
+1056,tokyo institute of technology,ex_603
+1057,tokyo university of marine science and technology,ex_604
+1058,virginia state university,ex_605
+1059,virginia tech,ex_606
+1060,vrije universiteit amsterdam,ex_607
+1061,the francis crick institute,ex_608
+1062,the hebrew university of jerusalem,ex_609
+1063,the london college university college kensington,ex_610
+1064,the new school,ex_611
+1065,the new school for social research,ex_612
+1066,university of westminster,ex_613
+1067,university of wollongong,ex_614
+1068,university of york,ex_615
+1069,univerzita pavla jozefa afarika v koiciach,ex_616
+1070,uniwersytet mikoaja kopernika w toruniu,ex_617
+1071,uniwersytet warszawski,ex_618
+1072,ural federal university,ex_619
+1073,victoria university,ex_620
+1074,max planck gesellschaft,ex_621
+1075,university of ottawa,ex_622
+1076,university of nebraska lincoln,ex_623
+1077,royal botanic gardens,ex_624
+1078,universite libre de bruxelles,ex_625
+1079,universidad de murcia,ex_626
+1080,university of north carolina,ex_627
+1081,national institutes of health,ex_628
+1082,iowa state university,ex_629
+1083,albert ludwigs universitat freiburg,ex_630
+1084,karlsruher institut fur technologie,ex_631
+1085,western university,ex_632
+1086,universite de rennes i,ex_633
+1087,universite toulouse iii paul sabatier,ex_634
+1088,university of tennessee system,ex_635
+1089,radboud universiteit nijmegen,ex_636
+1090,university of chicago,ex_637
+1091,universiteit utrecht,ex_638
+1092,universitat hamburg,ex_639
+1093,danmarks tekniske universitet,ex_640
+1094,agriculture and agri food canada,ex_641
+1095,university of arkansas fayetteville,ex_642
+1096,fraunhofer gesellschaft,ex_643
+1097,friedrich alexander universitat erlangen nurnberg,ex_644
+1098,georgetown university,ex_645
+1099,universidade lusofona de humanidades e tecnologias,ex_646
+1100,universidad de malaga,ex_647
+1101,smithsonian national museum of natural history,ex_648
+1102,monash university,ex_649
+1103,cardiff university,ex_650
+1104,leibniz universitat hannover,ex_651
+1105,tufts university,ex_652
+1106,julius maximilians universitat wurzburg,ex_653
+1107,ruhr universitat bochum,ex_654
+1108,university of strathclyde,ex_655
+1109,karolinska institutet,ex_656
+1110,universitat hohenheim,ex_657
+1111,university of warwick,ex_658
+1112,the university of kansas,ex_659
+1113,washington state university,ex_660
+1114,universite montpellier ii,ex_661
+1115,universita degli studi di roma tor vergata,ex_662
+1116,escola superior de enfermagem do porto,ex_663
+1117,australian national university,ex_664
+1118,university of hawaii system,ex_665
+1119,university of gothenburg,ex_666
+1120,universitat des saarlandes,ex_667
+1121,generalitat de catalunya,ex_668
+1122,universitat de lleida,ex_669
+1123,smithsonian institution,ex_670
+1124,carnegie mellon university,ex_671
+1125,universite paris est marne la vallee paris xiv,ex_672
+1126,university of new mexico,ex_673
+1127,ecole pratique des hautes etudes,ex_674
+1128,new york botanical garden,ex_675
+1129,pontificia universidad catolica de chile,ex_676
+1130,universidad nacional del litoral,ex_677
+1131,open university,ex_678
+1132,justus liebig universitat giessen,ex_679
+1133,university of dundee,ex_680
+1134,technische universitat kaiserslautern,ex_681
+1135,universitat zurich,ex_682
+1136,universitat potsdam,ex_683
+1137,florida international university,ex_684
+1138,universidade de lisboa instituto de ciencias sociais lisboa,ex_685
+1139,arizona state university,ex_686
+1140,academisch centrum tandheelkunde amsterdam,ex_687
+1141,kungliga tekniska hogskolan,ex_688
+1142,european organization for nuclear research,ex_689
+1143,university of notre dame,ex_690
+1144,universidad nacional de rio cuarto,ex_691
+1145,universitat stuttgart,ex_692
+1146,universidad nacional de cuyo,ex_693
+1147,institut national des sciences appliquees,ex_694
+1148,universita degli studi di ferrara,ex_695
+1149,instituto de engenharia de sistemas e computadores,ex_696
+1150,university of portsmouth,ex_697
+1151,vanderbilt university,ex_698
+1152,ruprecht karls universitat heidelberg,ex_699
+1153,universite clermont auvergne,ex_700
+1154,martin luther universitat halle wittenberg,ex_701
+1155,macquarie university,ex_702
+1156,clemson university,ex_703
+1157,generalitat valenciana,ex_704
+1158,emory university,ex_705
+1159,universita degli studi di parma,ex_706
+1160,universidad de leon,ex_707
+1161,universita degli studi di pavia,ex_708
+1162,drexel university,ex_709
+1163,technishe universiteit eindhoven,ex_710
+1164,universitat heidelberg,ex_711
+1165,deakin university,ex_712
+1166,james cook university,ex_713
+1167,university of cape town,ex_714
+1168,universite du maine,ex_715
+1169,rothamsted research,ex_716
+1170,university of oklahoma norman,ex_717
+1171,nhtv internationaal hoger onderwijs breda,ex_718
+1172,universite toulouse i capitole,ex_719
+1173,american museum of natural history,ex_720
+1174,norges teknisk naturvitenskapelige universitet,ex_721
+1175,washington university in st louis,ex_722
+1176,centers for disease control and prevention,ex_723
+1177,yeshiva university,ex_724
+1178,universidade nova de lisboa faculdade de ciencias sociais e humanas,ex_725
+1179,oe gaillimh,ex_726
+1180,commissariat a l energie atomique et aux energies alternatives,ex_727
+1181,colorado school of mines,ex_728
+1182,oregon health science university,ex_729
+1183,universidad nacional de quilmes,ex_730
+1184,ryerson university,ex_731
+1185,universidade pedagogica,ex_732
+1186,boston college,ex_733
+1187,forschungszentrum julich,ex_734
+1188,san diego state university,ex_735
+1189,hanzehogeschool groningen,ex_736
+1190,universite pierre mendes france grenoble ii,ex_737
+1191,universiteit twente,ex_738
+1192,university of north texas denton,ex_739
+1193,cleveland clinic foundation,ex_740
+1194,university of technology sydney,ex_741
+1195,coventry university,ex_742
+1196,american university,ex_743
+1197,scripps research institute,ex_744
+1198,bundesanstalt fur materialforschung und prufung,ex_745
+1199,instituto politecnico de lisboa,ex_746
+1200,philipps universitat marburg,ex_747
+1201,kent state university,ex_748
+1202,universitat fur bodenkultur wien,ex_749
+1203,united states geological survey,ex_750
+1204,international institute for applied systems analysis,ex_751
+1205,universite paris dauphine paris ix,ex_752
+1206,universita degli studi di trieste,ex_753
+1207,georgia state university,ex_754
+1208,laboratorio nacional de energia e geologia,ex_755
+1209,university of south carolina,ex_756
+1210,mississippi state university,ex_757
+1211,instituto politecnico do porto,ex_758
+1212,universite de reims champagne ardenne,ex_759
+1213,temple university,ex_760
+1214,university of new hampshire,ex_761
+1215,university of tasmania,ex_762
+1216,universidad publica de navarra,ex_763
+1217,institut national de la recherche scientifique,ex_764
+1218,universite d avignon et des pays de vaucluse,ex_765
+1219,george mason university,ex_766
+1220,universitat ramon llull,ex_767
+1221,syracuse university,ex_768
+1222,institut national des sciences appliquees de toulouse,ex_769
+1223,universidad nacional de san luis,ex_770
+1224,virginia commonwealth university,ex_771
+1225,technische universitat dortmund,ex_772
+1226,universidad nacional de mar del plata,ex_773
+1227,university of new england armidale,ex_774
+1228,oklahoma state university stillwater,ex_775
+1229,ollscoil chathair bhaile atha cliath,ex_776
+1230,north dakota state university,ex_777
+1231,aalto yliopisto,ex_778
+1232,instituto superior miguel torga,ex_779
+1233,university of roehampton,ex_780
+1234,universidad de guadalajara,ex_781
+1235,universita degli studi di salerno,ex_782
+1236,koninklijke nederlandse akademie van wetenschappen,ex_783
+1237,laboratorio nacional de engenharia civil,ex_784
+1238,rensselaer polytechnic institute,ex_785
+1239,universita degli studi di udine,ex_786
+1240,georgia regents university,ex_787
+1241,university of vermont,ex_788
+1242,manchester metropolitan university,ex_789
+1243,universite bordeaux montaigne,ex_790
+1244,universitat tubingen,ex_791
+1245,universita degli studi g d annunzio pescara,ex_792
+1246,university of huddersfield,ex_793
+1247,ollscoil luimnigh,ex_794
+1248,colaiste na hollscoile corcaigh,ex_795
+1249,universidade nacional timor lorosa e,ex_796
+1250,rockefeller university,ex_797
+1251,universite lyon 2,ex_798
+1252,city university of london cass business school,ex_799
+1253,forsyth institute,ex_800
+1254,universidad politecnica de cartagena,ex_801
+1255,the university of memphis,ex_802
+1256,universitat rostock,ex_803
+1257,vetagro sup lempdes,ex_804
+1258,assistance publique hopitaux de paris,ex_805
+1259,university of rochester,ex_806
+1260,jacobs university bremen,ex_807
+1261,university of south australia,ex_808
+1262,heinrich heine universitat dusseldorf,ex_809
+1263,crown research institutes,ex_810
+1264,university of missouri saint louis,ex_811
+1265,universitat innsbruck,ex_812
+1266,universitat siegen,ex_813
+1267,fondazione edmund mach di san michele all adige,ex_814
+1268,instituto de salud carlos iii,ex_815
+1269,royal botanic garden edinburgh,ex_816
+1270,technische universitat bergakademie freiberg,ex_817
+1271,universita cattolica del sacro cuore,ex_818
+1272,scotland s rural college,ex_819
+1273,universitat augsburg,ex_820
+1274,universidad nacional de san juan,ex_821
+1275,iowa state university ames,ex_822
+1276,universitetet i bergen,ex_823
+1277,charite universitatsmedizin berlin,ex_824
+1278,universita degli studi di siena,ex_825
+1279,universidad de santiago de chile,ex_826
+1280,dartmouth college,ex_827
+1281,california academy of sciences,ex_828
+1282,california state university system,ex_829
+1283,college de france,ex_830
+1284,integrated ocean drilling program united states,ex_831
+1285,universitat greifswald,ex_832
+1286,goddard space flight center nasa greenbelt,ex_833
+1287,universite de perpignan via domitia,ex_834
+1288,the university of kansas medical center kansas,ex_835
+1289,instituto nacional de investigacao agraria e veterinaria,ex_836
+1290,assistance publiquehopitaux de paris,ex_837
+1291,university of windsor,ex_838
+1292,florida institute of technology,ex_839
+1293,europa universitat viadrina frankfurt oder,ex_840
+1294,albert einstein college of medicine ue,ex_841
+1295,universite savoie mont blanc,ex_842
+1296,interuniversitair micro electronica centrum,ex_843
+1297,iscte instituto universitario de lisboa,ex_844
+1298,universite de toulon,ex_845
+1299,institutes of technology ireland,ex_846
+1300,universidade do algarve gambelas faro,ex_847
+1301,flinders university,ex_848
+1302,senckenberg gesellschaft fur naturforschung,ex_849
+1303,universitat der kunste berlin,ex_850
+1304,universita della calabria,ex_851
+1305,university of mississippi medical center jackson,ex_852
+1306,university of oregon,ex_853
+1307,institut gustave roussy,ex_854
+1308,universidade nova de lisboa instituto de higiene e medicina tropical lisboa,ex_855
+1309,university of houston,ex_856
+1310,northern arizona university flagstaff,ex_857
+1311,field museum of natural history,ex_858
+1312,faculdade de ciencias sociais e humanas,ex_859
+1313,liverpool school of tropical medicine,ex_860
+1314,chinese academy of sciences,ex_861
+1315,the university of northampton,ex_862
+1316,universitat osnabruck,ex_863
+1317,brigham young university,ex_864
+1318,universidad de burgos,ex_865
+1319,trent university,ex_866
+1320,united nations educational scientific and cultural organization,ex_867
+1321,karl franzens universitat graz,ex_868
+1322,argonne national laboratory,ex_869
+1323,university of california hastings college of the law san francisco,ex_870
+1324,the james hutton institute,ex_871
+1325,university of oxford latin american centre oxford,ex_872
+1326,universidad pedagogica nacional de colombia,ex_873
+1327,california institute of technology,ex_874
+1328,technische universitat wien,ex_875
+1329,university of louisville,ex_876
+1330,synchrotron soleil,ex_877
+1331,institut de recherche pour le developpement marseille,ex_878
+1332,national institute of allergy and infectious diseases,ex_879
+1333,university of the west of england,ex_880
+1334,medizinische universitat wien,ex_881
+1335,wirtschaftsuniversitat wien,ex_882
+1336,uniformed services university,ex_883
+1337,moredun research institut,ex_884
+1338,national health service management office,ex_885
+1339,m d anderson cancer center,ex_886
+1340,naturalis biodiversity center,ex_887
+1341,akademie ved ceske republiky,ex_888
+1342,university of lincoln,ex_889
+1343,university of iowa carver college of medicine,ex_890
+1344,universidad nacional de general sarmiento,ex_891
+1345,brock university,ex_892
+1346,institut d investigacions biomediques august pi i sunyer,ex_893
+1347,smithsonian conservation biology institute ue,ex_894
+1348,scuola normale superiore,ex_895
+1349,deutsches krebsforschungszentrum,ex_896
+1350,tampereen yliopisto,ex_897
+1351,institut de science des materiaux de mulhouse,ex_898
+1352,universidad de jaen,ex_899
+1353,copenhagen business school,ex_900
+1354,universitat oberta de catalunya,ex_901
+1355,universidade de lurio,ex_902
+1356,universidade agostinho neto,ex_903
+1357,universita degli studi di sassari,ex_904
+1358,centro de investigacion y tecnologia agroalimentaria de aragon,ex_905
+1359,lakehead university,ex_906
+1360,universite du luxembourg,ex_907
+1361,old dominion university,ex_908
+1362,penn state university,ex_909
+1363,pontificia universidad catolica del peru,ex_910
+1364,oregon university system,ex_911
+1365,jawaharlal nehru university,ex_912
+1366,worcester polytechnic institute,ex_913
+1367,bernhard nocht institut fur tropenmedizin,ex_914
+1368,texas a m international university,ex_915
+1369,hochschule fur grafik und buchkunst leipzig,ex_916
+1370,universidad autonoma del estado de mexico,ex_917
+1371,universita politecnica delle marche,ex_918
+1372,universitat trier,ex_919
+1373,nova southeastern university,ex_920
+1374,washington and lee university,ex_921
+1375,universitat koblenz landau,ex_922
+1376,middlesex university london,ex_923
+1377,technische universitat ilmenau,ex_924
+1378,the university of maine,ex_925
+1379,san francisco state university,ex_926
+1380,universidad nacional de lanus,ex_927
+1381,la trobe university,ex_928
+1382,the university of hong kong,ex_929
+1383,universitat paderborn,ex_930
+1384,university of missouri kansas city,ex_931
+1385,memorial sloan kettering cancer center,ex_932
+1386,malmo hogskola,ex_933
+1387,stellenbosch university,ex_934
+1388,fermilab fermi national accelerator laboratory,ex_935
+1389,salk institute for biological studies,ex_936
+1390,otto von guericke universitat magdeburg,ex_937
+1391,ecole superieure d electricite,ex_938
+1392,fox chase cancer center,ex_939
+1393,universidade dos acores,ex_940
+1394,university of athens,ex_941
+1395,university of colorado,ex_942
+1396,florida atlantic university,ex_943
+1397,universita degli studi di cagliari,ex_944
+1398,carl von ossietzky universitat oldenburg,ex_945
+1399,university of alabama birmingham,ex_946
+1400,university of canberra,ex_947
+1401,universite bordeaux iii,ex_948
+1402,universite de franche comte,ex_949
+1403,universiteit hasselt,ex_950
+1404,universidad de las palmas de gran canaria,ex_951
+1405,university of the sunshine coast,ex_952
+1406,john innes centre,ex_953
+1407,universitatsklinikum heidelberg,ex_954
+1408,consejo superior de investigaciones cientificas centro de ciencias humanas y sociales madrid,ex_955
+1409,zoologisches forschungsmuseum alexander koenig,ex_956
+1410,washington university in st louis school of medicine saint louis,ex_957
+1411,the hospital for sick children,ex_958
+1412,univerzita karlova v praze,ex_959
+1413,joslin diabetes center and joslin clinic,ex_960
+1414,glasgow caledonian university,ex_961
+1415,universidad nacional de lujan,ex_962
+1416,university of kwazulu natal,ex_963
+1417,universidad pontificia comillas,ex_964
+1418,universidad michoacana de san nicolas de hidalgo,ex_965
+1419,london south bank university,ex_966
+1420,baylor college of medicine,ex_967
+1421,university of montana missoula,ex_968
+1422,universidad de la frontera,ex_969
+1423,universitat flensburg,ex_970
+1424,pace university,ex_971
+1425,oe gaillimh maynooth,ex_972
+1426,masarykova univerzita,ex_973
+1427,paul drude institut fur festkorperelektronik,ex_974
+1428,east carolina university,ex_975
+1429,memorial university of newfoundland,ex_976
+1430,stiftung institut fur werkstofftechnik,ex_977
+1431,universidade de coimbra centro de estudos de linguistica geral e aplicada,ex_978
+1432,universidad pedagogica nacional,ex_979
+1433,universita iuav di venezia,ex_980
+1434,medizinische hochschule hannover,ex_981
+1435,bremer institut fur produktion und logistik,ex_982
+1436,universidad nacional de tucuman,ex_983
+1437,stiftung tierarztliche hochschule hannover,ex_984
+1438,universidad catolica san antonio de murcia,ex_985
+1439,universidad de talca,ex_986
+1440,universidad de costa rica,ex_987
+1441,universidad de holguin,ex_988
+1442,technische universitat graz,ex_989
+1443,institiuid teicneolaiochta bhaile atha cliath,ex_990
+1444,the university of akron,ex_991
+1445,lincoln university christchurch,ex_992
+1446,libera universita di bolzano,ex_993
+1447,institut francais de recherche pour l exploitation de la mer,ex_994
+1448,institut national de recherche en sciences et technologies pour l environement et l agriculture,ex_995
+1449,university of hertfordshire,ex_996
+1450,mount sinai medical center,ex_997
+1451,university health network,ex_998
+1452,instituto superior de psicologia aplicada,ex_999
+1453,centre international de recherche sur le cancer,ex_1000
+1454,universidad veracruzana,ex_1001
+1455,roskilde universitet,ex_1002
+1456,royal college of art,ex_1003
+1457,qimr berghofer medical research institute,ex_1004
+1458,universitetet i stavanger,ex_1005
+1459,universitat mannheim,ex_1006
+1460,universite d avignon,ex_1007
+1461,nottingham trent university,ex_1008
+1462,universitat autonoma de barcelona institut catala de nanociencia y nanotecnologia,ex_1009
+1463,de montfort university,ex_1010
+1464,columbia university teachers college,ex_1011
+1465,instituto nacional de investigacion y tecnologia agraria y alimentaria,ex_1012
+1466,universite catholique de lille,ex_1013
+1467,veterinarmedizinische universitat wien,ex_1014
+1468,instituto nacional de antropologia e historia,ex_1015
+1469,national institute of standards and technology,ex_1016
+1470,universidad autonoma de yucatan,ex_1017
+1471,u s food and drug administration,ex_1018
+1472,university of wolverhampton,ex_1019
+1473,wits university,ex_1020
+1474,united nations university,ex_1021
+1475,antoni van leeuwenhoek nederlands kanker instituut,ex_1022
+1476,university of winnipeg,ex_1023
+1477,universite du littoral cote d opale,ex_1024
+1478,it universitetet i kbenhavn,ex_1025
+1479,university of the pacific,ex_1026
+1480,bayer group,ex_1027
+1481,woods hole research center,ex_1028
+1482,clark university,ex_1029
+1483,universitatsklinikum jena,ex_1030
+1484,universitatsklinikum munster,ex_1031
+1485,universitat passau,ex_1032
+1486,instituto politecnico de portalegre,ex_1033
+1487,montana state university bozeman,ex_1034
+1488,missouri university of science and technology,ex_1035
+1489,universite de neuchatel,ex_1036
+1490,universite de mons,ex_1037
+1491,commissariat a l energie atomique,ex_1038
+1492,murdoch university,ex_1039
+1493,nsw government nsw department of primary industries,ex_1040
+1494,northumbria university newcastle,ex_1041
+1495,norges milj og biovitenskapelige universitet,ex_1042
+1496,universitat vechta,ex_1043
+1497,universita degli studi di urbino,ex_1044
+1498,university of greenwich,ex_1045
+1499,universidade onze de novembro,ex_1046
+1500,escola superior de enfermagem de lisboa,ex_1047
+1501,universidade nova de lisboa faculdade de ciencias e tecnologia caparica,ex_1048
+1502,edinburgh napier university,ex_1049
+1503,edith cowan university,ex_1050
+1504,universitetet i troms,ex_1051
+1505,nagoya university,ex_1052
+1506,pontificia universita lateranense,ex_1053
+1507,instituto de arte design e empresa,ex_1054
+1508,florida agricultural and mechanical university,ex_1055
+1509,princeton theological seminary,ex_1056
+1510,universidade lusiada de lisboa,ex_1057
+1511,universidade lusiada de porto,ex_1058
+1512,leeds beckett university leeds,ex_1059
+1513,royal ontario museum,ex_1060
+1514,university of canterbury,ex_1061
+1515,university of chichester,ex_1062
+1516,university of bedfordshire,ex_1063
+1517,university of east london,ex_1064
+1518,universita degli studi di brescia,ex_1065
+1519,observatoire de la cote d azur,ex_1066
+1520,universitat hildesheim,ex_1067
+1521,medizinische universitat innsbruck,ex_1068
+1522,physikalisch technische bundesanstalt berlin,ex_1069
+1523,centre wallon de recherches agronomiques,ex_1070
+1524,centro agronomico tropical de investigacion y ensenanza,ex_1071
+1525,universite paris sud faculte de pharmacie chatenay malabry,ex_1072
+1526,royal melbourne institute of technology university,ex_1073
+1527,pontificia universidad javeriana,ex_1074
+1528,birmingham city university,ex_1075
+1529,universidade da madeira,ex_1076
+1530,universidade de coimbra faculdade de direito de coimbra,ex_1077
+1531,suomen ymparistokeskus,ex_1078
+1532,kyoto university,ex_1079
+1533,keele university,ex_1080
+1534,h lee moffitt cancer center research institute,ex_1081
+1535,scuola internazionale superiore di studi avanzati,ex_1082
+1536,university of louisiana lafayette,ex_1083
+1537,infectious disease research institute,ex_1084
+1538,universidad nacional de costa rica campus omar dengo heredia,ex_1085
+1539,the pirbright institute,ex_1086
+1540,institut curie,ex_1087
+1541,istituto di ricerche farmacologiche mario negri,ex_1088
+1542,istituto di scienza e tecnologie dell informazione alessandro faedo,ex_1089
+1543,telefonaktiebolaget lm ericsson ue,ex_1090
+1544,bentley university,ex_1091
+1545,istituto italiano di tecnologia,ex_1092
+1546,universidad de magallanes,ex_1093
+1547,the catholic university of america,ex_1094
+1548,birkbeck university of london,ex_1095
+1549,polska akademia nauk,ex_1096
+1550,universidad de camaguey ignacio agramonte loynaz,ex_1097
+1551,hgskolen i oslo og akershus,ex_1098
+1552,ibm research yorktown heights,ex_1099
+1553,university of north texas health science center fort worth,ex_1100
+1554,universidad autonoma metropolitana unidad azcapotzalco,ex_1101
+1555,agroscope,ex_1102
+1556,the royal botanic gardens,ex_1103
+1557,the texas state university system,ex_1104
+1558,hochschule osnabruck,ex_1105
+1559,auckland university of technology,ex_1106
+1560,univerza v ljubljani,ex_1107
+1561,univerzita palackeho v olomouci,ex_1108
+1562,universita di macerata,ex_1109
+1563,vysoka kola chemicko technologicka v praze,ex_1110
+1564,the national hellenic research foundation,ex_1111
+1565,the methodist hospital research institute,ex_1112
+1566,western michigan university,ex_1113
+1567,acreo ab electrum,ex_1114
+1568,zentrum fur literatur und kulturforschung berlin,ex_1115
+1569,agence nationale de securite sanitaire de l alimentation de l environnement et du travail,ex_1116
+1570,university of new orleans,ex_1117
+1571,the george institute for global health,ex_1118
+1572,ti food and nutrition,ex_1119
+1573,istituti fisioterapici ospitalieri istituto nazionale tumori regina elena ue,ex_1120
+1574,baylor university,ex_1121
+1575,bard college,ex_1122
+1576,university of plymouth,ex_1123
+1577,university of north florida,ex_1124
+1578,istituto di studi ecumenici san bernardino,ex_1125
+1579,universite de bordeaux pessac,ex_1126
+1580,universitatsklinikum freiburg,ex_1127
+1581,instituto nacional de tecnologia agropecuaria,ex_1128
+1582,consejo superior de investigaciones cientificas instituto de biologia molecular y celular de plantas valencia,ex_1129
+1583,virginia institute of marine science,ex_1130
+1584,universidad autonoma de queretaro,ex_1131
+1585,woods hole oceanographic institution,ex_1132
+1586,wright state university,ex_1133
+1587,universidad autonoma del estado de hidalgo,ex_1134
+1588,universidad de la rioja,ex_1135
+1589,istituto nazionale di fisica nucleare amministrazione centrale,ex_1136
+1590,howard university,ex_1137
+1591,ibero amerikanische institut preuischer kulturbesitz,ex_1138
+1592,universidad del norte,ex_1139
+1593,universidad de concepcion,ex_1140
+1594,universidad miguel hernandez de elche,ex_1141
+1595,universidad nacional de asuncion,ex_1142
+1596,universidad mayor de san andres,ex_1143
+1597,swiss federal research institute wsl birmensdorf,ex_1144
+1598,kreftregisteret ue,ex_1145
+1599,technische hochschule koln,ex_1146
+1600,boise state university,ex_1147
+1601,bowling green state university,ex_1148
+1602,brandeis university,ex_1149
+1603,university of nebraska medical center omaha,ex_1150
+1604,universite de namur,ex_1151
+1605,universite vincennes saint denis paris 8,ex_1152
+1606,new mexico state university,ex_1153
+1607,nihon university,ex_1154
+1608,universite de la reunion,ex_1155
+1609,national institutes of health national cancer institute,ex_1156
+1610,national museum of nature and science,ex_1157
+1611,universite de bretagne sud,ex_1158
+1612,national center for genetic resources preservation,ex_1159
+1613,university of michigan dearborn,ex_1160
+1614,kingston university,ex_1161
+1615,california polytechnic state university san luis obispo,ex_1162
+1616,south dakota state university,ex_1163
+1617,bryant university,ex_1164
+1618,laurentian university,ex_1165
+1619,university of lethbridge,ex_1166
+1620,fondazione bruno kessler,ex_1167
+1621,sanofi en france ue,ex_1168
+1622,garvan institute,ex_1169
+1623,scuola universitaria professionale della svizzera italiana,ex_1170
+1624,discourse unit,ex_1171
+1625,paul scherrer institut,ex_1172
+1626,pennington biomedical research center,ex_1173
+1627,otto friedrich universitat bamberg,ex_1174
+1628,oulun yliopisto,ex_1175
+1629,universita degli studi della basilicata,ex_1176
+1630,plymouth marine laboratory,ex_1177
+1631,handelshogskolan i stockholm,ex_1178
+1632,harper adams university college,ex_1179
+1633,universidad nacional mayor de san marcos,ex_1180
+1634,hafencity universitat hamburg,ex_1181
+1635,university of hull,ex_1182
+1636,university of idaho,ex_1183
+1637,rutgers the state university of new jersey,ex_1184
+1638,leeds metropolitan university,ex_1185
+1639,university of central lancashire,ex_1186
+1640,university of baltimore,ex_1187
+1641,institut superieur de gestion,ex_1188
+1642,universidade de lisboa faculdade de arquitetura,ex_1189
+1643,state university of new york buffalo,ex_1190
+1644,university of florida range cattle research and education center ona,ex_1191
+1645,institut national d histoire de l art,ex_1192
+1646,institut national de recherche en informatique et automatiqu,ex_1193
+1647,institut protestant de theologie paris,ex_1194
+1648,royal military college of canada,ex_1195
+1649,universita commerciale luigi bocconi,ex_1196
+1650,ecole nationale veterinaire agroalimentaire et de l alimentation nantes atlantique,ex_1197
+1651,ecole nationale veterinaire d alfort,ex_1198
+1652,ecole normale superieure paris saclay,ex_1199
+1653,medizinische universitat graz,ex_1200
+1654,ecole nationale veterinaire agroalimentaire et de l aliment,ex_1201
+1655,centre tecnologic de telecomunicacions de catalunya,ex_1202
+1656,universita degli studi di teramo,ex_1203
+1657,ecole superieure d ingenieurs en electronique et electrotechnique amiens,ex_1204
+1658,orebro universitet,ex_1205
+1659,universitat zu lubeck,ex_1206
+1660,universitat zurich vetsuisse fakultat,ex_1207
+1661,universidade do porto faculdade de psicologia e de ciencias da educacao,ex_1208
+1662,faculdade de psicologia e de ciencias da educacao ue,ex_1209
+1663,instituto portugues do mar e da atmosfera ue,ex_1210
+1664,integrated ocean drilling program,ex_1211
+1665,eidgenossische anstalt fur wasserversorgung abwasserreinigung und gewasserschutz dubendorf,ex_1212
+1666,centre de recherche sur le travail et le developpement,ex_1213
+1667,centre for addiction and mental health,ex_1214
+1668,international centre for genetic engineering and biotechnology,ex_1215
+1669,medical college of wisconsin,ex_1216
+1670,medical university of south carolina,ex_1217
+1671,instituto de telecomunicacoes,ex_1218
+1672,instituto espanol de oceanografia,ex_1219
+1673,natural history museum of los angeles,ex_1220
+1674,manchester business school,ex_1221
+1675,marquette university,ex_1222
+1676,centre de recherche medecine sciences sante sante mentale societe,ex_1223
+1677,international livestock research institute,ex_1224
+1678,jiho eska univerzita v eskych bud jovicich,ex_1225
+1679,universidad autonoma de san luis potosi,ex_1226
+1680,algoma university,ex_1227
+1681,universidad de artes y ciencias sociales,ex_1228
+1682,universidad catolica de cordoba,ex_1229
+1683,universidad catolica del norte,ex_1230
+1684,hochschule fur musik franz liszt weimar,ex_1231
+1685,hochschule fur musik theater und medien hannover,ex_1232
+1686,bath spa university,ex_1233
+1687,agriculture and food development authority,ex_1234
+1688,united states department of agriculture fort collins,ex_1235
+1689,ulster university,ex_1236
+1690,agresearch ltd invermay ue,ex_1237
+1691,at t labs research,ex_1238
+1692,hochschule mannheim,ex_1239
+1693,agricultural research organization the volcani center,ex_1240
+1694,yamaguchi university,ex_1241
+1695,artesis plantijn hogeschool antwerpen,ex_1242
+1696,university of worcester,ex_1243
+1697,aristotle university of thessaloniki,ex_1244
+1698,universidad andina simon bolivar,ex_1245
+1699,johannes kepler universitat linz,ex_1246
+1700,istituto superiore di sanita,ex_1247
+1701,istituto universitario sophia,ex_1248
+1702,istituto zooprofilattico sperimentale dell abruzzo e del molise g caporale,ex_1249
+1703,istituto nazionale di oceanografia e di geofisica sperimentale,ex_1250
+1704,national institute for bioprocessing research and training,ex_1251
+1705,national institute of agricultural botany,ex_1252
+1706,nasjonalt institutt for ernrings og sjmatforskning,ex_1253
+1707,abo akademi turku,ex_1254
+1708,university of the west of scotland,ex_1255
+1709,instituto nacional de neurologia y neurocirugia,ex_1256
+1710,instituto nacional de recursos biologicos,ex_1257
+1711,naval postgraduate school,ex_1258
+1712,instituto madrileno de estudios avanzados en materiales,ex_1259
+1713,national centers for environmental prediction,ex_1260
+1714,national defense university,ex_1261
+1715,universite catholique de paris institut catholique de paris,ex_1262
+1716,london metropolitan university,ex_1263
+1717,victoria university of wellington,ex_1264
+1718,instituto politecnico de setubal,ex_1265
+1719,instituto politecnico de viana do castelo,ex_1266
+1720,instituto politecnico de viana do castelo escola superior de tecnologia e gestao,ex_1267
+1721,new jersey institute of technology,ex_1268
+1722,padagogische hochschule karlsruhe,ex_1269
+1723,kagawa university,ex_1270
+1724,ben gurion university of the negev,ex_1271
+1725,loma linda university,ex_1272
+1726,tsinghua university,ex_1273
+1727,world health organization geneva,ex_1274
+1728,universidad antonio de nebrija dehesa de la villa,ex_1275
+1729,universidad autonoma chapingo,ex_1276
+1730,universidad autonoma de aguascalientes,ex_1277
+1731,ie business school madrid,ex_1278
+1732,hospital universitari vall d hebron institut de recerca,ex_1279
+1733,beuth hochschule fur technik berlin,ex_1280
+1734,university of nebraska,ex_1281
+1735,universidad de guanajuato,ex_1282
+1736,the buck institute for research on aging,ex_1283
+1737,the center for forensic science research and education,ex_1284
+1738,universidad de los lagos,ex_1285
+1739,fachhochschule frankfurt am main,ex_1286
+1740,lehigh university,ex_1287
+1741,leibniz institut fur alternsforschung fritz lipmann institute ev,ex_1288
+1742,rijksinstituut voor volksgezondheid en milieu,ex_1289
+1743,european molecular biology laboratory,ex_1290
+1744,universidade politecnica,ex_1291
+1745,escola tecnica superior d arquitectura de barcelona,ex_1292
+1746,escuela andaluza de salud publica,ex_1293
+1747,instituto portugues de oncologia do porto fg,ex_1294
+1748,european university institute,ex_1295
+1749,exeter college,ex_1296
+1750,fachhochschule aachen,ex_1297
+1751,cardiff metropolitan university,ex_1298
+1752,instituto superior de ciencias da educacao,ex_1299
+1753,university of haifa,ex_1300
+1754,international centre for the study of the preservation and r,ex_1301
+1755,loyola university,ex_1302
+1756,instituut voor landbouw en visserijonderzoek,ex_1303
+1757,internationaal instituut voor sociale geschiedenis,ex_1304
+1758,instituto de tecnologia quimica e biologica antonio xavier,ex_1305
+1759,institutet for livsmedel och bioteknik ab,ex_1306
+1760,university of alaska fairbanks,ex_1307
+1761,museum d histoire naturelle geneve,ex_1308
+1762,museum fur naturkunde berlin ue,ex_1309
+1763,nanyang technological university,ex_1310
+1764,professionshjskolen kbenhavn,ex_1311
+1765,russian state university for the humanities,ex_1312
+1766,universita cattolica del sacro cuore roma,ex_1313
+1767,universidade jean piaget de cabo verde,ex_1314
+1768,universidade lueji a nkonde,ex_1315
+1769,universidade mandume ya ndemufayo instituto superior politecnico da huila,ex_1316
+1770,saint petersburg state university,ex_1317
+1771,ecole nationale superieure des industries chimiques nancy,ex_1318
+1772,universite saint louis bruxelles,ex_1319
+1773,centre pompidou,ex_1320
+1774,cincinnati children s hospital medical center,ex_1321
+1775,city university of london,ex_1322
+1776,chiba university,ex_1323
+1777,oak ridge national laboratory,ex_1324
+1778,oakland university,ex_1325
+1779,universitair medisch centrum utrecht,ex_1326
+1780,universitat berlim,ex_1327
+1781,universitat internacional de catalunya,ex_1328
+1782,institute for systems biology,ex_1329
+1783,royal college of music,ex_1330
+1784,queen margaret university,ex_1331
+1785,renal research institute,ex_1332
+1786,private universitat fur gesundheitswissenschaften medizinis,ex_1333
+1787,osservatorio astrofisico di catania,ex_1334
+1788,universitat erfurt,ex_1335
+1789,haute ecole specialisee de suisse occidentale,ex_1336
+1790,universidad nacional de tres de febrero,ex_1337
+1791,gymnastik och idrottshogskolan,ex_1338
+1792,friedrich loeffler institut bundesforschungsinstitut fur tiergesundheit,ex_1339
+1793,forest products laboratory,ex_1340
+1794,centro internacional de estudios superiores de comunicacion para america latina,ex_1341
+1795,centro de investigaciones energeticas medioambientales y tec,ex_1342
+1796,libera universita di lingue e comunicazione,ex_1343
+1797,linneuniversitetet,ex_1344
+1798,universidad torcuato di tella,ex_1345
+1799,universidad nacional del comahue,ex_1346
+1800,universidad nacional del nordeste,ex_1347
+1801,kennedy krieger institute,ex_1348
+1802,sanford burnham medical research institute orlando,ex_1349
+1803,british columbia cancer agency ue,ex_1350
+1804,leibniz institut fur werkstofforientierte technologien,ex_1351
+1805,leiden universitair medisch centrum,ex_1352
+1806,langston university,ex_1353
+1807,lappeenrannan teknillinen yliopisto,ex_1354
+1808,los alamos national laboratory,ex_1355
+1809,salem state university,ex_1356
+1810,institut polytechnique lasalle beauvais,ex_1357
+1811,institut national d etudes demographiques,ex_1358
+1812,faculdade de letras,ex_1359
+1813,faculdade de motricidade humana,ex_1360
+1814,saint mary s university,ex_1361
+1815,university of arizona college of agriculture and life sciences,ex_1362
+1816,saxion university of applied sciences,ex_1363
+1817,fraunhofer institut fur umwelt sicherheits und energietechnik,ex_1364
+1818,fred hutchinson cancer research center,ex_1365
+1819,florida institute for human and machine cognition,ex_1366
+1820,fondazione istituto gramsci,ex_1367
+1821,ecole des hautes etudes en sciences de l information et de la communication,ex_1368
+1822,ecole francaise de rome,ex_1369
+1823,ecole nationale superieure d architecture de paris la vill,ex_1370
+1824,depaul university,ex_1371
+1825,det nationale forskningscenter for arbejdsmilj,ex_1372
+1826,universita per stranieri di siena,ex_1373
+1827,santa clara university,ex_1374
+1828,consejo superior de investigaciones cientificas instituto de quimica avanzada de cataluna,ex_1375
+1829,conservatoire et jardin botaniques de la ville de geneve,ex_1376
+1830,pittsburg state university pittsburg,ex_1377
+1831,politechnika gdanska,ex_1378
+1832,pecsi tudomanyegyetem,ex_1379
+1833,max planck instituut,ex_1380
+1834,ontario institute for cancer research,ex_1381
+1835,ecole des hautes etudes en sante publique,ex_1382
+1836,montanuniversitat leoben,ex_1383
+1837,padagogische hochschule weingarten,ex_1384
+1838,pan american health organization,ex_1385
+1839,ostbayerische technische hochschule regensburg,ex_1386
+1840,universitatsklinikum carl gustav carus,ex_1387
+1841,universitatsklinikum essen,ex_1388
+1842,creighton university,ex_1389
+1843,missouri state university,ex_1390
+1844,commonwealth scientific and industrial research organisation,ex_1391
+1845,centrum wiskunde informatica,ex_1392
+1846,consiglio nazionale delle ricerche istituto di scienze applicate e sistemi intelligenti unita di lecce,ex_1393
+1847,universite toulouse jean jaures,ex_1394
+1848,centro de investigaciones y estudios superiores en antropolo,ex_1395
+1849,university of johannesburg,ex_1396
+1850,budapesti muszaki es gazdasagtudomanyi egyetem,ex_1397
+1851,national research council montreal,ex_1398
+1852,universite de technologie troyes,ex_1399
+1853,universite de caen basse normandie,ex_1400
+1854,north carolina agricultural and technical state university,ex_1401
+1855,czech academy of sciences,ex_1402
+1856,montclair state university,ex_1403
+1857,morgan state university,ex_1404
+1858,fundacion medina,ex_1405
+1859,koninklijk museum voor midden afrika,ex_1406
+1860,universitatsklinikum hamburg eppendorf,ex_1407
+1861,universitatsklinikum schleswig holstein,ex_1408
+1862,colegio de postgraduados,ex_1409
+1863,cleveland state university,ex_1410
+1864,universite evry val d essonne,ex_1411
+1865,universite jean monnet,ex_1412
+1866,fundacion fernando ortiz,ex_1413
+1867,southern methodist university,ex_1414
+1868,st boniface hospital research,ex_1415
+1869,st lawrence river institute of environmental sciences,ex_1416
+1870,international centre for genetic engineering and biotechnology cape town,ex_1417
+1871,university of macau,ex_1418
+1872,california institute of the arts,ex_1419
+1873,geodeettinen laitos,ex_1420
+1874,universidad de valparaiso,ex_1421
+1875,universidad del cauca,ex_1422
+1876,universidad del salvador,ex_1423
+1877,universidad del valle,ex_1424
+1878,the wellcome trust sanger institute,ex_1425
+1879,thomas jefferson university,ex_1426
+1880,institiuid teicneolaiochta dhun dealgan,ex_1427
+1881,instituit nacional de recherche agronomique centre de poitou charentes lusignan ue,ex_1428
+1882,universidad de mendoza,ex_1429
+1883,universidad de puerto rico,ex_1430
+1884,universidad diego portales,ex_1431
+1885,universidad juarez autonoma de tabasco,ex_1432
+1886,sodertorns hogskola,ex_1433
+1887,sophia university,ex_1434
+1888,texas state university san marcos,ex_1435
+1889,tennessee technological university,ex_1436
+1890,technion israel institute of technology,ex_1437
+1891,istituto di scienze e tecnologie della cognizione,ex_1438
+1892,illinois state university,ex_1439
+1893,institut de recherches sur la catalyse et l environnement de lyon,ex_1440
+1894,butler university,ex_1441
+1895,britsh museum natural history,ex_1442
+1896,bioversity international,ex_1443
+1897,university of north carolina at charlotte,ex_1444
+1898,la jolla institute,ex_1445
+1899,the children s hospital of philadelphia springfield,ex_1446
+1900,texas a m university texas agrilife research amarillo,ex_1447
+1901,hochschule rhein waal,ex_1448
+1902,the jikei university school of medicine,ex_1449
+1903,alcatel thales iii v lab,ex_1450
+1904,the murray darling freshwater research centre,ex_1451
+1905,the nathan s kline institute for psychiatric research,ex_1452
+1906,acadia university,ex_1453
+1907,vlaams instituut voor biotechnologie,ex_1454
+1908,university of toledo,ex_1455
+1909,university of tampa,ex_1456
+1910,at t labs research new york city,ex_1457
+1911,hogskolan i boras,ex_1458
+1912,hogskolan i jonkoping,ex_1459
+1913,agence nationale de securite sanitaire de lalimentation de lenvironnement et du travail,ex_1460
+1914,zoological society of london,ex_1461
+1915,wilfrid laurier university,ex_1462
+1916,hochschule hannover,ex_1463
+1917,university of northern colorado,ex_1464
+1918,university of oklahoma health sciences center oklahoma,ex_1465
+1919,university of pennsylvania school of dental medicine,ex_1466
+1920,university of nevada las vegas,ex_1467
+1921,long island university,ex_1468
+1922,blood systems research institute,ex_1469
+1923,international rice research institute,ex_1470
+1924,interuniversity research centre,ex_1471
+1925,balsillie school of international affairs,ex_1472
+1926,university of san francisco,ex_1473
+1927,alanus hochschule,ex_1474
+1928,arkansas state university jonesboro,ex_1475
+1929,vancouver island university,ex_1476
+1930,national severe storms laboratory,ex_1477
+1931,luxembourg institute of science and technology,ex_1478
+1932,university of british columbia okanagan campus,ex_1479
+1933,max rubner institut,ex_1480
+1934,carnegie museum of natural history,ex_1481
+1935,zurcher hochschulen fur angewandte wissenschaften,ex_1482
+1936,aix marseille universite faculte des sciences marseille,ex_1483
+1937,zoologische staatssammlung munchen,ex_1484
+1938,international centre for theoretical physics,ex_1485
+1939,international maize and wheat improvement center,ex_1486
+1940,jihoeska univerzita v eskych budjovicich,ex_1487
+1941,hochschule fur fernsehen und film munchen,ex_1488
+1942,universidad ceu cardenal herrera,ex_1489
+1943,universidad ceu san pablo,ex_1490
+1944,ames research center nasa mountain view,ex_1491
+1945,anglia ruskin university,ex_1492
+1946,accademia di belle arti di firenze,ex_1493
+1947,university of tulsa,ex_1494
+1948,university of wales trinity saint david,ex_1495
+1949,basf the chemical company ue,ex_1496
+1950,uniwersytet jagiellonski,ex_1497
+1951,uniwersytet wroclawski,ex_1498
+1952,tokyo medical and dental university,ex_1499
+1953,hogskolan i skovde,ex_1500
+1954,universidad de ciencias y artes de chiapas,ex_1501
+1955,accademia della crusca,ex_1502
+1956,winthrop university,ex_1503
+1957,istituto nazionale di geofisica e vulcanologia,ex_1504
+1958,istituto nazionale di oceanografia e di geofisica sperimenta,ex_1505
+1959,istituto nazionale di ottica,ex_1506
+1960,istituto nazionale di ricerca metrologica,ex_1507
+1961,istituto zooprofilattico sperimentale delle venezie,ex_1508
+1962,ita suomen yliopisto,ex_1509
+1963,ithaca college,ex_1510
+1964,basf se ue,ex_1511
+1965,basque center of applied mathematics,ex_1512
+1966,basque center on cognition brain and language,ex_1513
+1967,beijing university of chinese medicine,ex_1514
+1968,university of the free state,ex_1515
+1969,university of the ryukyus,ex_1516
+1970,william paterson university of new jersey,ex_1517
+1971,williams college,ex_1518
+1972,avans hogeschool,ex_1519
+1973,azti tecnalia,ex_1520
+1974,babson college,ex_1521
+1975,banaras hindu university,ex_1522
+1976,bantry marine research station,ex_1523
+1977,barcelona graduate school of economics,ex_1524
+1978,barry university,ex_1525
+1979,katolicka univerzita v ruzomberku,ex_1526
+1980,kbenhavns universitet,ex_1527
+1981,kedge business school,ex_1528
+1982,augustana hochschule neuendettelsau,ex_1529
+1983,australian catholic university,ex_1530
+1984,australian institute of marine science,ex_1531
+1985,australian museum,ex_1532
+1986,australian water quality centre,ex_1533
+1987,universidad autonoma de campeche,ex_1534
+1988,universidad autonoma de chiapas,ex_1535
+1989,universidad autonoma de ciudad juarez,ex_1536
+1990,universidad autonoma de la ciudad de mexico,ex_1537
+1991,universidad autonoma de sinaloa,ex_1538
+1992,universidad autonoma de zacatecas,ex_1539
+1993,universidad autonoma del estado de morelos,ex_1540
+1994,universidad autonoma metropolitana iztapalapa,ex_1541
+1995,united nations university institute on comparative regional integration studies,ex_1542
+1996,united states department of agriculture horticultural crops research corvallis,ex_1543
+1997,united states environmental protection agency,ex_1544
+1998,universidad adolfo ibanez,ex_1545
+1999,universidad alberto hurtado,ex_1546
+2000,universidad andres bello,ex_1547
+2001,tyoterveyslaitos,ex_1548
+2002,u s department of health human services,ex_1549
+2003,ultradent products inc ue,ex_1550
+2004,unfallkrankenhaus berlin,ex_1551
+2005,united kingdom astronomy technology centre,ex_1552
+2006,united nations convention to combat desertification,ex_1553
+2007,yahoo research lab,ex_1554
+2008,tohoku university,ex_1555
+2009,tokyo gakugei university,ex_1556
+2010,tomsk state university,ex_1557
+2011,toyohashi university of technology,ex_1558
+2012,tufts university friedman school of nutrition science and policy,ex_1559
+2013,heidelberg institut fur theoretische studien,ex_1560
+2014,heidelberg university,ex_1561
+2015,hgskolen pa vestlandet,ex_1562
+2016,hgskulen i sogn og fjordane,ex_1563
+2017,hirosaki university,ex_1564
+2018,hochschule bonn rhein sieg,ex_1565
+2019,hochschule bremen,ex_1566
+2020,hochschule bremerhaven,ex_1567
+2021,hudsonalpha institute for biotechnology,ex_1568
+2022,humber college,ex_1569
+2023,ifakara health institute,ex_1570
+2024,the university of winchester,ex_1571
+2025,the walter and eliza hall institute of medical research,ex_1572
+2026,thomas jefferson school of law,ex_1573
+2027,thomson reuters markets norge,ex_1574
+2028,thunderbird school of global management,ex_1575
+2029,hopital edouard herriot lyon,ex_1576
+2030,hopital femme mere enfant ue,ex_1577
+2031,hopital kirchberg hopitaux robert schuman,ex_1578
+2032,hospital de la santa creu i sant pau,ex_1579
+2033,hospital general universitario gregorio maranon,ex_1580
+2034,hospital regional universitario de malaga,ex_1581
+2035,hospital universitario marques de valdecilla,ex_1582
+2036,howard hughes medical institute,ex_1583
+2037,universidad bernardo o higgins,ex_1584
+2038,universidad catolica de santa fe,ex_1585
+2039,universidad centroamericana,ex_1586
+2040,hogeschool inholland,ex_1587
+2041,hogeschool voor de kunsten utrecht,ex_1588
+2042,holy family university philadelphia,ex_1589
+2043,homo ludens laboratoire de recherche en medias socionumeriques et ludification,ex_1590
+2044,hong kong baptist university,ex_1591
+2045,hochschule trier,ex_1592
+2046,hochschule weihenstephan triesdorf,ex_1593
+2047,hofstra university,ex_1594
+2048,technical university of varna,ex_1595
+2049,technion international,ex_1596
+2050,technische hochschule wildau,ex_1597
+2051,technophage,ex_1598
+2052,teesside university middlesbrough,ex_1599
+2053,the jackson laboratory,ex_1600
+2054,the oliver zangwill centre,ex_1601
+2055,the royal central school of speech and drama,ex_1602
+2056,the royal melbourne hospital,ex_1603
+2057,the samuel roberts noble foundation,ex_1604
+2058,the university health network,ex_1605
+2059,the university of alabama system,ex_1606
+2060,hochschule schmalkalden,ex_1607
+2061,hochschule fur technik und wirtschaft,ex_1608
+2062,hochschule ruhr west,ex_1609
+2063,universidad de ciego de avila,ex_1610
+2064,the european graduate school leuk stadt,ex_1611
+2065,the fraunhofer center for experimental software engineering,ex_1612
+2066,the glasgow school of art,ex_1613
+2067,the hong kong polytechnic university,ex_1614
+2068,the hong kong university of science and technology,ex_1615
+2069,hochschule der bildenden kunste saar,ex_1616
+2070,hochschule der medien stuttgart,ex_1617
+2071,hochschule emden leer,ex_1618
+2072,hochschule fulda fulda university of applied sciences,ex_1619
+2073,hochschule fur angewandte wissenschaften munchen,ex_1620
+2074,hochschule fur film und fernsehen,ex_1621
+2075,hochschule fur musik und darstellende kunst frankfurt am main,ex_1622
+2076,hochschule fur musik und tanz koln,ex_1623
+2077,universidad externado de colombia,ex_1624
+2078,universidad francisco de vitoria,ex_1625
+2079,universidad industrial de santander,ex_1626
+2080,universidad jesuita de guadalajara,ex_1627
+2081,universidad la salle mexico,ex_1628
+2082,universidad marista de merida,ex_1629
+2083,universidad nacional de avellaneda,ex_1630
+2084,universidad de medellin,ex_1631
+2085,universidad de oriente venezuela,ex_1632
+2086,universidad de san martin de porres,ex_1633
+2087,universidad de santiago de compostela facultad de farmacia santiago de compostela,ex_1634
+2088,universidad del bio bio,ex_1635
+2089,universidad del pais vasco leioa,ex_1636
+2090,universidad del rosario,ex_1637
+2091,universidad europea de madrid,ex_1638
+2092,the center for kinesthetic education,ex_1639
+2093,the connecticut agricultural experiment station,ex_1640
+2094,the cooper union,ex_1641
+2095,the defiance college,ex_1642
+2096,universidad de colima,ex_1643
+2097,universidad de la serena,ex_1644
+2098,universidad de las artes,ex_1645
+2099,universidad de las ciencias informaticas,ex_1646
+2100,teknologian tutkimuskeskus,ex_1647
+2101,tennessee state university,ex_1648
+2102,texas a m agrilife research extension center,ex_1649
+2103,texas a m university college of liberal arts department of communication college station,ex_1650
+2104,texas a m university texas agrilife research stephenville,ex_1651
+2105,texas biomedical research institute,ex_1652
+2106,texas christian university,ex_1653
+2107,the british school at rome,ex_1654
+2108,institut des hautes etudes sur la justice,ex_1655
+2109,tallinn university of technology,ex_1656
+2110,tampa general hospital,ex_1657
+2111,tata institute of fundamental research,ex_1658
+2112,tavistock clinic,ex_1659
+2113,technical university of crete,ex_1660
+2114,graduate theological union,ex_1661
+2115,institut armand frappier research centre,ex_1662
+2116,institut catala d investigacio quimica,ex_1663
+2117,institut clement ader ue,ex_1664
+2118,institut d etudes avancees de paris,ex_1665
+2119,institut de hautes etudes internationales et du developpemen,ex_1666
+2120,institut de la vision centre de recherche,ex_1667
+2121,institut de recherche en sante environnement et travail equipe d epidemiologie en sante au travail et ergonomie,ex_1668
+2122,institut del teatre,ex_1669
+2123,german institute of human nutrition potsdam rehbruecke,ex_1670
+2124,getty center j paul getty museum,ex_1671
+2125,gifu university,ex_1672
+2126,glaxosmithkline ue,ex_1673
+2127,goteborgs universitet,ex_1674
+2128,indiana state university terre haute,ex_1675
+2129,insitituto superior de estudios humanisticos y filosoficos san francisco javier ue,ex_1676
+2130,universidad nacional de costa rica campus omar dengo here,ex_1677
+2131,universidad nacional de entre rios,ex_1678
+2132,universidad nacional de la amazonia peruana,ex_1679
+2133,universidad nacional de la patagonia san juan bosco,ex_1680
+2134,universidad nacional de la plata facultad de bellas artes,ex_1681
+2135,universidad nacional de las artes,ex_1682
+2136,universidad nacional de misiones,ex_1683
+2137,universidad nacional de rio quarto,ex_1684
+2138,fundacion instituto leloir,ex_1685
+2139,fundacion miguel lillo,ex_1686
+2140,fundacion para investigaciones biologicas aplicadas,ex_1687
+2141,fundacion publica galega de medicina xenomica,ex_1688
+2142,gabbett performance solutions ue,ex_1689
+2143,gallaudet university,ex_1690
+2144,gemini observatory southern operations center,ex_1691
+2145,geoparkea,ex_1692
+2146,universidad nacional experimental simon rodriguez,ex_1693
+2147,universidad pedagogica experimental libertador,ex_1694
+2148,universidad peruana cayetano heredia,ex_1695
+2149,universidad santo tomas,ex_1696
+2150,universidad tecnica federico santa maria,ex_1697
+2151,universidad tecnologica nacional,ex_1698
+2152,fundacion escuela venezolana de planificacion,ex_1699
+2153,haskoli islands,ex_1700
+2154,haute ecole specialisee de suisse occidentale haute ecole du paysage d ingenierie et d architecture de geneve,ex_1701
+2155,havforskningsinstituttet,ex_1702
+2156,hawaii pacific university,ex_1703
+2157,health economics and health technology assessment,ex_1704
+2158,universidad nacional de salta,ex_1705
+2159,universidad nacional de san antonio abad del cusco,ex_1706
+2160,universidad nacional de villa maria,ex_1707
+2161,greenwood genetic center,ex_1708
+2162,groupe eac paris,ex_1709
+2163,haigazian university,ex_1710
+2164,hamburger institut fur sozialforschung,ex_1711
+2165,hartford hospital,ex_1712
+2166,hartford seminary,ex_1713
+2167,harvey mudd college,ex_1714
+2168,sveucilite u zagrebu,ex_1715
+2169,swarthmore college,ex_1716
+2170,universidade autonoma de lisboa,ex_1717
+2172,universidade de lisboa faculdade de belas artes,ex_1718
+2173,fondazione don carlo gnocchi,ex_1719
+2174,staffordshire university,ex_1720
+2175,stanford graduate school of business,ex_1721
+2176,statens serum institut,ex_1722
+2177,stazione zoologica anton dohrn,ex_1723
+2178,stevens institute of technology,ex_1724
+2179,stiftelsen for industriell og teknisk forskning ue,ex_1725
+2180,studiecentrum voor kernenergie,ex_1726
+2181,sveuciliste u zagrebu,ex_1727
+2182,south australian research and development institute,ex_1728
+2183,south carolina state university,ex_1729
+2184,south china university of technology,ex_1730
+2185,south dakota school of mines and technology,ex_1731
+2186,southeast missouri state university,ex_1732
+2187,southern oregon university,ex_1733
+2188,southwest fisheries science center mississippi labs pascagoula ue,ex_1734
+2189,st olaf college,ex_1735
+2190,george washington university foggy bottom washington,ex_1736
+2191,geotop,ex_1737
+2192,german centre for integrative biodiversity research idiv halle jena leipzig,ex_1738
+2193,universidade aberta delegacao do porto porto,ex_1739
+2194,universidade amilcar cabral,ex_1740
+2195,solabia group,ex_1741
+2196,soproni egyetem,ex_1742
+2197,sorbonne universite laboratoire de biologie du developpement,ex_1743
+2198,shizuoka university,ex_1744
+2199,silver lake college of the holy family,ex_1745
+2200,singapore botanic gardens,ex_1746
+2201,sir alister hardy foundation for ocean science,ex_1747
+2202,skema business school,ex_1748
+2203,skidmore college,ex_1749
+2204,smithsonian tropical research institute,ex_1750
+2205,semmelweis egyetem,ex_1751
+2206,seoul national university,ex_1752
+2207,servicio de hidrografia naval ue,ex_1753
+2208,servicio regional investigacion desarrollo agroalimentario,ex_1754
+2209,seton hall university,ex_1755
+2210,shanghai university,ex_1756
+2211,sheffield hallam university,ex_1757
+2212,shinshu university,ex_1758
+2213,fuller theological seminary,ex_1759
+2214,sandvik coromant sverige ab ue,ex_1760
+2215,sciensano institut,ex_1761
+2216,scottish universities environmental research centre,ex_1762
+2217,seattle biomedical research institute,ex_1763
+2218,seattle university,ex_1764
+2219,fondazione poliambulanza istituto ospedaliero,ex_1765
+2220,food and agriculture organization of the united nations,ex_1766
+2221,forschungsinstitut zur zukunft der arbeit,ex_1767
+2222,forschungszentrum borstel,ex_1768
+2223,friedrich loeffler institut bundesforschungsinstitut fur tie,ex_1769
+2224,fritz haber institut der max planck gesellschaft,ex_1770
+2225,fudan university,ex_1771
+2226,institut pasteur,ex_1772
+2227,institut superieur de mecanique de paris saint ouen,ex_1773
+2228,saint petersburg state conservatory,ex_1774
+2229,salisbury university,ex_1775
+2230,salud madrid,ex_1776
+2231,san diego zoo,ex_1777
+2232,institut des sciences de la terre d orleans,ex_1778
+2233,institut fur deutsche sprache el,ex_1779
+2234,institut laue langevin,ex_1780
+2235,institut mines telecom business school,ex_1781
+2236,institut national de recherche en sciences et technologies,ex_1782
+2237,institut national des langues et civilisations orientales,ex_1783
+2238,institut national du patrimoine,ex_1784
+2239,institut paoli calmettes centre de lutte contre le cancer,ex_1785
+2240,fachhochschule salzburg puch urstein salzburg,ex_1786
+2241,faculdade de belas artes,ex_1787
+2242,facultad de medicina,ex_1788
+2243,facultad de teologia de granada,ex_1789
+2244,rutgers university new brunswick,ex_1790
+2245,sa pathology,ex_1791
+2246,saint joseph s university,ex_1792
+2247,universidade do porto faculdade de medicina,ex_1793
+2248,european space research and technology centre,ex_1794
+2249,european synchrotron radiation facility,ex_1795
+2250,evangelische hochschule freiburg,ex_1796
+2251,fachhochschule nordwestschweiz,ex_1797
+2252,rhode island school of design,ex_1798
+2253,robert koch institut,ex_1799
+2254,rochester institute of technology,ex_1800
+2255,rosalind franklin university of medicine and science,ex_1801
+2256,royal roads university,ex_1802
+2257,russian state institute of performing arts,ex_1803
+2258,ecole superieure de commerce de grenoble,ex_1804
+2259,edge hill university ormskirk,ex_1805
+2260,private universitat fur gesundheitswissenschaften medizinische informatik und technik tirol,ex_1806
+2261,private universitat witten herdecke ggmbh,ex_1807
+2262,public health england,ex_1808
+2263,ramapo college of new jersey,ex_1809
+2264,real escuela superior de arte dramatico,ex_1810
+2265,reed college,ex_1811
+2266,renmin university of china,ex_1812
+2267,rheinische fachhochschule koln,ex_1813
+2268,universidade europeia campus de santos,ex_1814
+2269,universidade kimpa vita,ex_1815
+2270,universidade metodista de angola,ex_1816
+2271,presbyterian college,ex_1817
+2272,faculte de medecine paris descartes,ex_1818
+2273,faculte de sciences humaines et sociales sorbonne,ex_1819
+2274,federal aviation administration,ex_1820
+2275,federazione italiana giuoco calcio ue,ex_1821
+2276,filmakademie baden wurttemberg,ex_1822
+2277,flatiron institute,ex_1823
+2278,instituto de investigacion en biomedicina de buenos aires,ex_1824
+2279,instituto de investigacion sanitaria de la fundacion jimenez diaz,ex_1825
+2280,instituto de investigacion y formacion agraria y pesquera,ex_1826
+2281,instituto de medicina tropical pedro kouri,ex_1827
+2282,instituto de reproduccion animal uruguay,ex_1828
+2283,instituto de soldadura e qualidade,ex_1829
+2285,instituto interamericano de cooperacion para la agricultura mexico,ex_1830
+2286,institutionen for livsmedelsteknik,ex_1831
+2287,instituto cubano de investigacion cultural juan marinello,ex_1832
+2288,instituto de biologia experimental e tecnologica,ex_1833
+2289,instituto de ciencias de la vid y del vino,ex_1834
+2290,instituto de desarrollo economico y social,ex_1835
+2291,instituto de estudos sociais e economicos,ex_1836
+2292,escuela internacional de cine y television,ex_1837
+2293,escuela nacional de salud publica de cuba,ex_1838
+2294,estacion biologia de donana,ex_1839
+2295,european association for education law and policy,ex_1840
+2296,universidade portucalense infante dom henrique,ex_1841
+2297,institute of food research,ex_1842
+2298,institute of medical and veterinary science,ex_1843
+2299,el colegio de tlaxcala a c,ex_1844
+2300,el colegio mexiquense a c,ex_1845
+2301,emerson college,ex_1846
+2302,environment and climate change canada,ex_1847
+2303,eotvos lorand tudomanyegyetem,ex_1848
+2304,eps ville evrard,ex_1849
+2305,escola superior de artes e design,ex_1850
+2306,escola superior de educacao de paula frassinetti,ex_1851
+2307,parco tecnologico padano,ex_1852
+2308,peking university,ex_1853
+2309,pennsylvania state system of higher education,ex_1854
+2310,perimeter institute for theoretical physics,ex_1855
+2311,petrified forest national park ue,ex_1856
+2312,physikalisch meteorologisches observatorium davos und weltstrahlungszentrum,ex_1857
+2313,plantentuin meise,ex_1858
+2314,politechnika krakowska im tadeusza kociuszki,ex_1859
+2315,east china normal university,ex_1860
+2316,east tennessee state university,ex_1861
+2317,eastern institute of technology,ex_1862
+2318,eastern oregon university,ex_1863
+2319,ecole d ingenieurs la rochelle lagord,ex_1864
+2320,ecole nat sup d infor et de mathema appliq de grenoble,ex_1865
+2321,ecole nationale superieure d architecture paris malaquais,ex_1866
+2322,pannon egyetem,ex_1867
+2323,universita degli studi dell insubria,ex_1868
+2324,universita degli studi della campania luigi vanvitelli,ex_1869
+2325,universita degli studi di foggia,ex_1870
+2326,earlham institute,ex_1871
+2327,pontificia universita urbaniana,ex_1872
+2328,pontificio istituto biblico,ex_1873
+2329,pontificio istituto orientale,ex_1874
+2330,portland state university,ex_1875
+2331,potsdam institut fur klimafolgenforschung,ex_1876
+2332,poundbury cancer institute,ex_1877
+2333,prairie view a m university,ex_1878
+2334,dartmouth college geisel school of medicine,ex_1879
+2335,davis college,ex_1880
+2336,de nationale geologiske undersgelser for danmark og grnland,ex_1881
+2337,debreceni egyetem,ex_1882
+2338,delaware state university,ex_1883
+2339,deltares,ex_1884
+2340,department of agriculture and food,ex_1885
+2341,det kongelige danske kunstakademis skoler for arkitektur design og konservering,ex_1886
+2342,universita degli studi di scienze gastronomiche di pollenzo,ex_1887
+2343,universita di corsica pasquale paoli,ex_1888
+2344,universita mediterranea di reggio calabria,ex_1889
+2345,universita per stranieri di perugia,ex_1890
+2346,universitat autonoma de barcelona fundacio institut catala de farmacologia,ex_1891
+2347,universitat bonn rheinische friedrich wilhelms,ex_1892
+2348,universitat der bundeswehr munchen,ex_1893
+2349,danmarks tekniske universitet institut for akvastiske ressourcer,ex_1894
+2350,institute for defence studies and analyses,ex_1895
+2351,institute for human centered design,ex_1896
+2352,ecole nationale superieure d architecture paris val de seine,ex_1897
+2353,ecole nationale superieure de chimie de rennes,ex_1898
+2354,ecole nationale superieure des technologies et industries du bois,ex_1899
+2355,ecole superieure d art d avignon,ex_1900
+2356,universita degli studi di modena e reggio emilia reggio emilia,ex_1901
+2357,universita degli studi di roma foro italico,ex_1902
+2358,politechnika warszawska,ex_1903
+2359,pomona college,ex_1904
+2360,pontificia facolta teologica dell italia meridionale,ex_1905
+2361,pontificia universidad catolica argentina,ex_1906
+2362,pontificia universidad catolica de valparaiso,ex_1907
+2363,pontificia universidad catolica del ecuador,ex_1908
+2364,pacific university,ex_1909
+2365,padagogische hochschule freiburg,ex_1910
+2366,padagogische hochschule schwabisch gmund,ex_1911
+2367,universitat st gallen,ex_1912
+2368,consejo superior de investigaciones cientificas instituto de agricultura sostenible,ex_1913
+2369,consejo superior de investigaciones cientificas instituto de investigaciones marinas,ex_1914
+2370,consiglio nazionale delle ricerche istituto di chimica del riconoscimento molecolare,ex_1915
+2371,okinawa institute of science and technology graduate university,ex_1916
+2372,open universiteit nederland,ex_1917
+2373,oslomet storbyuniversitetet,ex_1918
+2374,ospedale pediatrico bambino gesu,ex_1919
+2375,ostbayerische technische hochschule amberg weiden,ex_1920
+2376,pacific ecoinformatics and computational ecology lab,ex_1921
+2377,pacific northwest national laboratory,ex_1922
+2378,doshisha university,ex_1923
+2379,dr margarete fischer bosch institut fur klinische pharmakologie,ex_1924
+2380,drake university,ex_1925
+2381,dupont agricultural products,ex_1926
+2382,observatoire oceanologique de villefranche sur mer ue,ex_1927
+2383,occidental college,ex_1928
+2384,office national d etudes et de recherches aerospatiales chatillon,ex_1929
+2385,ohio wesleyan university,ex_1930
+2386,deutsche sporthochschule koln,ex_1931
+2387,deutsches institut fur entwicklungspolitik,ex_1932
+2388,deutsches institut fur kautschuktechnologie,ex_1933
+2389,deutsches zentrum fur integrative biodiversitatsforschung,ex_1934
+2390,deutsches zentrum fur neurodegenerative erkrankungen,ex_1935
+2391,diakonhjemmet hogskole,ex_1936
+2392,dokkyo medical university,ex_1937
+2393,donostia international physics center,ex_1938
+2394,norwegian institute of bioeconomy research,ex_1939
+2395,nova school of business and economics,ex_1940
+2396,novartis vaccines diagnostics,ex_1941
+2397,nxp semiconductors holanda ue,ex_1942
+2398,obafemi awolowo university,ex_1943
+2399,oberlin college,ex_1944
+2400,obihiro university of agriculture and veterinary medicine,ex_1945
+2401,universitatsklinikum giessen und marburg,ex_1946
+2402,norsk institutt for biokonomi,ex_1947
+2403,norsk institutt for luftforskning,ex_1948
+2404,norsk institutt for vannforskning,ex_1949
+2405,north carolina central university,ex_1950
+2406,north shore lij the feinstein institute for medical resear,ex_1951
+2407,northeastern university united states,ex_1952
+2408,northwest hydraulic consultants,ex_1953
+2409,northwest research associates,ex_1954
+2410,cours de civilisation francaise de la sorbonne el,ex_1955
+2411,cubaeduca,ex_1956
+2412,new mexico state university las cruces,ex_1957
+2413,new york eye and ear infirmary of mount sinai,ex_1958
+2414,new york institute of technology,ex_1959
+2415,nhl hogeschool,ex_1960
+2416,niagara college,ex_1961
+2417,norges idrettshgskole,ex_1962
+2418,consiglio nazionale delle ricerche istituto di ricerche sulla popolazione e le politiche sociali salerno,ex_1963
+2419,consiglio nazionale delle ricerche istituto di scienze dell atmosfera e del clima bologna,ex_1964
+2420,consiglio nazionale delle ricerche istituto di scienze marine bologna,ex_1965
+2421,consiglio nazionale delle ricerche istituto per i polimeri compositi e biomateriali catania,ex_1966
+2422,consiglio nazionale delle ricerche istituto per la protezione sostenibile delle piante portici,ex_1967
+2423,consiglio per la ricerca in agricoltura e l analisi dell ecnomia agraria centro di ricerca agricoltura e ambiente,ex_1968
+2424,consorci de salut i social de catalunya,ex_1969
+2425,consorcio sanitario del maresme hospital de mataro,ex_1970
+2427,instituto nacional del carbon,ex_1971
+2428,instituto politecnico da guarda escola superior de saude,ex_1972
+2429,instituto politecnico de coimbra,ex_1973
+2430,instituto politecnico de viana do castelo escola superior agraria,ex_1974
+2431,new mexico highlands university,ex_1975
+2432,new mexico museum of natural history and science,ex_1976
+2433,nederlandse organisatie voor wetenschappelijk onderzoek,ex_1977
+2434,instituto latinoamericano y del caribe deplanificacion economica y social,ex_1978
+2435,instituto madrileno de estudios avanzados en alimentacion,ex_1979
+2436,instituto mexicano de investigaciones cinematograficas y hum,ex_1980
+2437,instituto milenio para la investigacion en depresion y personalidad,ex_1981
+2438,instituto nacional de higiene epidemiologia y microbiologia,ex_1982
+2439,instituto nacional de investigaciones forestales agricolas,ex_1983
+2440,instituto nacional de saude doutor ricardo jorge lisboa,ex_1984
+2441,cognosco anexa animal health fvc ue,ex_1985
+2442,colby college,ex_1986
+2443,cold spring harbor laboratory,ex_1987
+2444,colgate university,ex_1988
+2445,college of charleston,ex_1989
+2446,college of the atlantic,ex_1990
+2447,college of william mary,ex_1991
+2448,colleges de clinique psychanalytique,ex_1992
+2449,universitatsklinikum schleswig holstein lubeck,ex_1993
+2450,universitatsspital zurich,ex_1994
+2451,universite bordeaux i,ex_1995
+2452,universite catholique de lyon,ex_1996
+2453,universite cheikh anta diop de dakar,ex_1997
+2454,universite d abomey calavi,ex_1998
+2455,clarkson university,ex_1999
+2456,cleveland institute of music,ex_2000
+2457,national research council vancouver,ex_2001
+2458,national sedimentation laboratory,ex_2002
+2459,national university of ireland maynooth,ex_2003
+2460,natural resources canada,ex_2004
+2461,ceske vysoke uceni technicke v praze,ex_2005
+2462,charles darwin university casuarina,ex_2006
+2463,charles sturt university,ex_2007
+2464,charles sturt university campus albury wodonga,ex_2008
+2465,national cancer centre of singapore,ex_2009
+2466,national centers for environmental information ue,ex_2010
+2467,national central university,ex_2011
+2468,national institute for agro environmental sciences,ex_2012
+2469,national institute of informatics,ex_2013
+2470,national institutes of health national institute of environmental health sciences durham,ex_2014
+2471,national oceanic and atmospheric administration,ex_2015
+2472,national physical laboratory,ex_2016
+2473,universite du havre,ex_2017
+2474,universite du quebec montreal,ex_2018
+2475,centrum fizyki teoretycznej polskiej akademii nauk,ex_2019
+2476,centrum regionu hana pro biotechnologicky a zemedelsky vyzkum,ex_2020
+2477,nara institute of science and technology,ex_2021
+2478,nasjonalt folkehelseinstitutt,ex_2022
+2479,nationaal instituut voor subatomaire fysica,ex_2023
+2480,commonwealth scientific and industrial research organisation south australian health and medical research institute,ex_2024
+2481,universite d etat d haiti,ex_2025
+2482,universite de lorraine unite de formation et de recherche en sciences fondamentales et appliquees metz,ex_2026
+2483,universite de nimes,ex_2027
+2484,universite de technologie de belfort montbeliard,ex_2028
+2485,universite de yaounde,ex_2029
+2486,universite des antilles et de la guyane martinique,ex_2030
+2487,centro de estudos sociais aquino de braganca,ex_2031
+2488,centro de investigacao transdisciplinar cultura espaco e memoria,ex_2032
+2489,centro de investigacion agroforestal albaladejito,ex_2033
+2490,centro de investigacion cooperativa em biomateriales,ex_2034
+2491,centro de investigacion y extension forestal andino patagonico,ex_2035
+2492,centro de investigacions marinas,ex_2036
+2493,centro dell attore sinfonico ue,ex_2037
+2494,centro di ricerca e documentazione sull infanzia,ex_2038
+2495,universite strasbourg ii sciences humaines marc bloch,ex_2039
+2496,centre scientifique de monaco,ex_2040
+2497,centro austral de investigaciones cientificas,ex_2041
+2498,centro de estudios cientificos,ex_2042
+2499,centro de estudios monetarios y financieros ue,ex_2043
+2500,centro de estudios y experimentacion de obras publicas,ex_2044
+2501,chulalongkorn university,ex_2045
+2502,cincinnati children s research foundation,ex_2046
+2503,cisco systems,ex_2047
+2504,city of hope,ex_2048
+2505,city university of new york john jay college of criminal justice,ex_2049
+2506,claremont graduate university,ex_2050
+2507,universite lille 2 centre d etude des arts contemporains,ex_2051
+2508,universite lille nord de france,ex_2052
+2509,chestnut health systems,ex_2053
+2510,chiang mai university,ex_2054
+2511,children s national medical center,ex_2055
+2512,china agricultural university,ex_2056
+2513,china european international business school,ex_2057
+2514,china univeristy of political science law,ex_2058
+2515,chongqing medical university,ex_2059
+2516,christ university,ex_2060
+2517,museum victoria,ex_2061
+2518,nagoya institute of technology,ex_2062
+2519,university of alabama huntsville,ex_2063
+2520,carleton college,ex_2064
+2521,carnegie institution of washington,ex_2065
+2522,cary institute of ecosystem studies,ex_2066
+2523,moss landing marine laboratories,ex_2067
+2524,mount holyoke college,ex_2068
+2525,mount sinai hospital,ex_2069
+2526,murdoch childrens research institute,ex_2070
+2527,musee royal de l afrique centrale,ex_2071
+2528,museo nacional de historia natural cubana ue,ex_2072
+2529,museu d art contemporani de barcelona,ex_2073
+2530,museu nacional de etnologia,ex_2074
+2531,mica the school of ideas,ex_2075
+2532,michigan technological university,ex_2076
+2533,mitchell hamline school of law,ex_2077
+2534,modul university vienna,ex_2078
+2535,mondragon unibertsitatea,ex_2079
+2536,monmouth college,ex_2080
+2537,montpellier business school,ex_2081
+2538,moscow art theatre,ex_2082
+2539,centro em rede de investigacao em antropologia,ex_2083
+2540,centro hospitalar de coimbra,ex_2084
+2541,centro internazionale di studi primo levi,ex_2085
+2542,centro latinoamericano de economia humana,ex_2086
+2543,centro nacional de investigaciones de cafe pedro uribe mejia,ex_2087
+2544,universite toulouse jean jaures france ameriques espagne,ex_2088
+2545,universitetet i agder,ex_2089
+2546,universitetet i nordland,ex_2090
+2547,mayo clinic hospital phoenix,ex_2091
+2548,medstar union memorial hospital ue,ex_2092
+2549,meiji university,ex_2093
+2550,memorialul victimelor comunismului si al rezistentei centrul international de studii asupra comunismului,ex_2094
+2551,mercer university,ex_2095
+2552,mercyhurst archaeological institute,ex_2096
+2553,met office exeter,ex_2097
+2554,miami dade college,ex_2098
+2555,magritek ltd ue,ex_2099
+2556,maryland institute college of art,ex_2100
+2557,matforskningsinstituttet,ex_2101
+2558,max planck institut fur astronomie,ex_2102
+2559,max planck institut fur chemie,ex_2103
+2560,max planck institut fur chemische okologie friedrich schiller universitat jena,ex_2104
+2561,max planck institut fur europaische rechtsgeschichte,ex_2105
+2562,max planck institut fur softwaresysteme,ex_2106
+2563,centre d archives d architecture de la cite,ex_2107
+2564,centre d etudes et de documentation economiques juridiques,ex_2108
+2565,centre de recherches en cancerologie de toulouse,ex_2109
+2566,centre for the study of developing societies,ex_2110
+2567,centre hospitalier lyon sud,ex_2111
+2568,centre hospitalier sainte anne ue,ex_2112
+2569,lutheran school of theology at chicago,ex_2113
+2570,madeira interactive technologies institute ue,ex_2114
+2571,casa de velazquez,ex_2115
+2572,center for cooperative research in biomaterials ue,ex_2116
+2573,center for hellenic studies,ex_2117
+2574,center for research and telecommunication experimentations for networked communities,ex_2118
+2575,central connecticut state university,ex_2119
+2576,central washington university,ex_2120
+2577,centralesupelec,ex_2121
+2578,centralesupelec chatenay malabry,ex_2122
+2579,international atomic energy agency,ex_2123
+2580,international centre for the study of the preservation and restoration of cultural property,ex_2124
+2581,loyola university chicago,ex_2125
+2582,ludwig cancer research,ex_2126
+2583,luonnontieteellinen museo,ex_2127
+2584,british school at athens,ex_2128
+2585,broad institute,ex_2129
+2586,instituto tecnologico agrario de castilla y leon,ex_2130
+2587,instituto tecnologico de aguascalientes,ex_2131
+2588,instituto tecnologico y de estudios superiores de monterrey,ex_2132
+2589,instituto universitario de investigacion ortega y gasset,ex_2133
+2590,instituto universitario de oncologia principado de asturias,ex_2134
+2591,instituto valenciano de infertilidad,ex_2135
+2592,instituut voor tropische geneeskunde,ex_2136
+2593,inter american development bank,ex_2137
+2594,university of derby,ex_2138
+2595,university of detroit mercy,ex_2139
+2596,university of indianapolis,ex_2140
+2597,british antarctic survey,ex_2141
+2598,louisiana tech university,ex_2142
+2599,instituto politecnico do cavado e do ave,ex_2143
+2600,instituto superior dom afonso iii,ex_2144
+2601,instituto superior politecnico de sao tome e principe,ex_2145
+2602,centre interuniversitaire recherche d ingeniere de materiaux,ex_2146
+2603,university of bradford,ex_2147
+2604,university of buckingham,ex_2148
+2605,university of calcutta,ex_2149
+2606,university of california extension los angeles,ex_2150
+2607,university of crete,ex_2151
+2608,university of dayton,ex_2152
+2609,lomonosov moscow state university,ex_2153
+2610,london research institute,ex_2154
+2611,los angeles biomedical research institute,ex_2155
+2612,berlin mathematical school,ex_2156
+2613,bern university of applied sciences,ex_2157
+2614,bethesda university of california,ex_2158
+2615,biblioteca nacional de portugal,ex_2159
+2616,lamar university,ex_2160
+2617,laser interferometer gravitational wave observatory ue,ex_2161
+2618,latvijas universitate,ex_2162
+2619,leibniz institut fur tropospharenforschung,ex_2163
+2620,lewis and clark college,ex_2164
+2621,lincoln research centre agresearch,ex_2165
+2622,liverpool hope university,ex_2166
+2623,california institute for medical research,ex_2167
+2624,canadian food inspection agency,ex_2168
+2625,canadian light source,ex_2169
+2626,canadian museum of nature,ex_2170
+2627,carbone savoie ue,ex_2171
+2628,university of keele,ex_2172
+2629,university of london queen mary,ex_2173
+2630,university of london royal veterinary college,ex_2174
+2631,brookhaven national laboratory,ex_2175
+2632,bruker corporation ue,ex_2176
+2633,bryn mawr college,ex_2177
+2634,budapesti mszaki es gazdasagtudomanyi egyetem,ex_2178
+2635,building research establishment,ex_2179
+2636,bureau international des poids et mesures,ex_2180
+2637,business school barcelona ue,ex_2181
+2638,california department of food and agriculture plant pest diagnostics center,ex_2182
+2639,kulturwissenschaftliches institut essen,ex_2183
+2640,kyoto prefectural university of medicine,ex_2184
+2641,kyushu university,ex_2185
+2642,l universita ta malta,ex_2186
+2643,laboratoire des signaux et systemes,ex_2187
+2644,laboratoire m l l occitane,ex_2188
+2645,laboratori nazionali del gran sasso,ex_2189
+2646,laboratori nazionali di frascati,ex_2190
+2647,kmetijski intitut slovenije,ex_2191
+2648,kobe university,ex_2192
+2649,kompetenzzentrum obstbau bodensee,ex_2193
+2650,koninklijk belgisch instituut voor natuurwetenschappen,ex_2194
+2651,koninklijk nederlands instituut voor onderzoek der zee,ex_2195
+2652,koninklijke musea voor kunst en geschiedenis,ex_2196
+2653,konstfack university college of arts crafts and design,ex_2197
+2654,university of nebraska omaha,ex_2198
+2655,kedge business school ue,ex_2199
+2656,keio university,ex_2200
+2657,kelley school of business indianapolis,ex_2201
+2658,kennesaw state university,ex_2202
+2659,kerala agricultural university,ex_2203
+2660,king abdullah university of science and technology,ex_2204
+2661,klima aldaketa ikergai,ex_2205
+2662,biodiversitat und klima forschungszentrum,ex_2206
+2663,biology centre,ex_2207
+2664,biomathematics statistics scotland,ex_2208
+2665,biotechnology and biological sciences research council,ex_2209
+2666,birbal sahni institute of palaeobotany,ex_2210
+2667,bishop s university,ex_2211
+2668,boazici universitesi,ex_2212
+2669,bowdoin college,ex_2213
+2670,istituto firc di oncologia molecolare,ex_2214
+2671,istituto nazionale di astrofisica,ex_2215
+2672,julius kuhn institut siebeldingen,ex_2216
+2673,kaho sint lieven,ex_2217
+2674,kanazawa university,ex_2218
+2675,karlstads universitet,ex_2219
+2676,katholische universitat eichstatt ingolstadt,ex_2220
+2677,internationale hochschule bad honnef,ex_2221
+2678,ionian university,ex_2222
+2679,istituto auxologico italiano,ex_2223
+2680,istituto di analisi dei sistemi ed informatica,ex_2224
+2681,istituto di chimica biomolecolare,ex_2225
+2682,istituto di ricerche sulla combustione,ex_2226
+2683,istituto e museo di storia della scienza museo galileo,ex_2227
+2684,istituto europeo di oncologia,ex_2228
+2685,university of south wales newport,ex_2229
+2686,university of st thomas,ex_2230
+2687,university of tartu,ex_2231
+2688,athabasca university,ex_2232
+2689,augusta university,ex_2233
+2690,international renal research institute of vicenza,ex_2234
+2691,international soil reference and information centre,ex_2235
+2692,university of newcastle upon tyne,ex_2236
+2693,university of north dakota main campus,ex_2237
+2694,university of novi sad,ex_2238
+2695,university of patras,ex_2239
+2696,university of prince edward island,ex_2240
+2697,university of richmond,ex_2241
+2698,university of san diego,ex_2242
+2699,agriculture and agri food canada saint hyacinthe,ex_2243
+2700,a l canada laboratories inc,ex_2244
+2701,agenzia nazionale per le nuove tecnologie l energia e lo sviluppo economico sostenibile,ex_2245
+2702,zhejiang university,ex_2246
+2703,african institute for agrarian studies,ex_2247
+2704,adventist university of health sciences,ex_2248
+2705,accademia nazionale di santa cecilia,ex_2249
+2706,agroscope ettenhausen ue,ex_2250
+2707,appalachian state university,ex_2251
+2708,arbor research collaborative for health ue,ex_2252
+2709,armenian heritage,ex_2253
+2710,arquivo nacional da torre do tombo,ex_2254
+2711,ashland university,ex_2255
+2712,aswan university,ex_2256
+2713,university os miami,ex_2257
+2714,a m gorky institute of world literature of the russian academy of science,ex_2258
+2715,alfred wegener institut,ex_2259
+2716,american institute of physics,ex_2260
+2717,american university of phnom penh,ex_2261
+2718,andrews university,ex_2262
+2719,animal and plant health agency,ex_2263
+2720,ankara universitesi,ex_2264
+2721,anthropologie et histoire des mondes antiques ue,ex_2265
+2722,anton de kom universiteit,ex_2266
+2723,japan advanced institute of science and technology,ex_2267
+2724,japan agency for marine earth science and technology,ex_2268
+2725,jilin university,ex_2269
+2726,johann heinrich von thunen institut,ex_2270
+2727,joint bioenergy institute,ex_2271
+2728,julius kuhn institut berlin,ex_2272
+2729,julius kuhn institut darmstadt,ex_2273
+2730,international psychoanalytic university berlin,ex_2274
+2731,uniwersytet lodzki,ex_2275
+2732,uniwersytet marii curie skodowskiej,ex_2276
+2733,us forest service rocky mountain research station center for landscape science,ex_2277
+2734,versuchs und lehranstalt fur brauerei in berlin e v,ex_2278
+2735,villa san benedetto hospital,ex_2279
+2736,wofford college,ex_2280
+2737,wolfsforschungszentrum,ex_2281
+2738,academia sinica,ex_2282
+2739,western australian museum,ex_2283
+2740,western illinois university macomb,ex_2284
+2741,westminster college,ex_2285
+2742,widener university,ex_2286
+2743,univerza v mariboru,ex_2287
+2744,univerzita hradec kralove,ex_2288
+2745,univerzita komenskeho v bratislave,ex_2289
+2746,uniwersytet ekonomiczny w katowicach,ex_2290
+2747,virginia tech carilion school of medicine roanoke,ex_2291
+2748,virginia tech seafood agricultural research and extension center hampton,ex_2292
+2749,visva bharati university,ex_2293
+2750,vtt teknologiasta liiketoimintaa,ex_2294
+2751,vysoka kola ekonomicka v praze,ex_2295
+2752,walsh university,ex_2296
+2753,waltham centre for pet nutrition,ex_2297
+2754,wellesley college,ex_2298
+2755,aix marseille universite faculte de droit et de science politique,ex_2299
+2756,aix marseille universite faculte des arts lettres langues et sciences humaines,ex_2300
+2757,akademia muzyczna w krakowie,ex_2301
+2758,akademie der bildenden kunste wien,ex_2302
+2759,akademie der kunste berlin,ex_2303
+2760,akademie ved ceske republiky fyziologicky ustav,ex_2304
+2761,albany medical college,ex_2305
+2762,alberta agriculture and forestry,ex_2306

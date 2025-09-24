@@ -1,0 +1,2368 @@
+,nome_ies_destino_norm,pais_ies_destino,frequencia
+0,universidade de lisboa,PORTUGAL,1179
+1,universidade de coimbra,PORTUGAL,855
+2,university of california system,ESTADOS UNIDOS,823
+3,universidade do porto,PORTUGAL,766
+4,universidade do minho,PORTUGAL,587
+5,university of london,REINO UNIDO,583
+6,universite paris nord paris xiii,FRANÇA,431
+7,universidade de sao paulo,BRASIL,429
+8,universidade nova de lisboa,PORTUGAL,404
+9,university of florida,ESTADOS UNIDOS,354
+10,universitat de barcelona,ESPANHA,339
+11,harvard university,ESTADOS UNIDOS,321
+12,universitat autonoma de barcelona,ESPANHA,313
+13,universidade de aveiro,PORTUGAL,288
+14,consejo superior de investigaciones cientificas,ESPANHA,243
+15,university of texas system,ESTADOS UNIDOS,239
+16,universidade estadual paulista julio de mesquita filho sede,BRASIL,232
+17,university of illinois,ESTADOS UNIDOS,224
+18,universite sorbonne nouvelle paris iii,FRANÇA,212
+19,universidade federal do rio grande do sul,BRASIL,201
+20,university of toronto,CANADÁ,200
+21,universidad complutense de madrid,ESPANHA,193
+22,wageningen university,HOLANDA,192
+23,universidad de buenos aires,ARGENTINA,190
+24,universidade federal do rio de janeiro,BRASIL,184
+25,universite pantheon sorbonne paris 1,FRANÇA,179
+26,columbia university,ESTADOS UNIDOS,178
+27,universidade federal de santa catarina,BRASIL,176
+28,universite de montreal,CANADÁ,172
+29,university of cambridge,REINO UNIDO,171
+30,universite paris diderot paris vii,FRANÇA,166
+31,universite de vincennes a saint denis paris viii,FRANÇA,165
+32,universidad de sevilla,ESPANHA,159
+33,universite paris ouest nanterre la defense paris x,FRANÇA,159
+34,texas a m university system office,ESTADOS UNIDOS,157
+35,new york university,ESTADOS UNIDOS,157
+36,mcgill university,CANADÁ,157
+37,universitat de valencia,ESPANHA,149
+38,centre national de la recherche scientifique,FRANÇA,149
+39,universidade de brasilia,BRASIL,147
+40,universite paris sorbonne paris iv,FRANÇA,142
+41,universidad de salamanca,ESPANHA,140
+42,university of oxford,REINO UNIDO,138
+43,universite pierre et marie curie paris vi,FRANÇA,137
+44,university of british columbia,CANADÁ,136
+45,universidade federal de vicosa,BRASIL,135
+46,universidad nacional autonoma de mexico,MÉXICO,133
+47,universidade estadual de campinas,BRASIL,130
+48,university of michigan,ESTADOS UNIDOS,130
+49,universidade federal de minas gerais,BRASIL,129
+50,universidade de evora,PORTUGAL,128
+51,universita di bologna,ITÁLIA,128
+52,university of alberta,CANADÁ,125
+53,universite claude bernard lyon 1,FRANÇA,125
+54,universidad autonoma de madrid,ESPANHA,123
+55,freie universitat berlin,ALEMANHA,123
+56,institut national de la recherche agronomique,FRANÇA,120
+57,university of wisconsin system,ESTADOS UNIDOS,119
+58,university of massachusetts system,ESTADOS UNIDOS,118
+59,universite du quebec,CANADÁ,117
+60,instituto universitario de lisboa,PORTUGAL,116
+61,universidad de santiago de compostela,ESPANHA,110
+62,aix marseille universite,FRANÇA,109
+63,universite grenoble alpes,FRANÇA,108
+64,university of copenhagen,DINAMARCA,107
+65,cornell university,ESTADOS UNIDOS,103
+66,the ohio state university,ESTADOS UNIDOS,102
+67,universitat politecnica de valencia,ESPANHA,102
+68,universite laval,CANADÁ,102
+69,north carolina state university,ESTADOS UNIDOS,100
+70,united states department of agriculture,ESTADOS UNIDOS,98
+71,universite paris descartes paris v,FRANÇA,98
+72,universitat politecnica de catalunya,ESPANHA,94
+73,katholieke universiteit leuven,BÉLGICA,93
+74,university of nottingham,REINO UNIDO,93
+75,universidad de alicante,ESPANHA,92
+76,universidad de la republica uruguay,URUGUAI,92
+77,the university of queensland,AUSTRÁLIA,92
+78,purdue university,ESTADOS UNIDOS,92
+79,universidade federal de pernambuco,BRASIL,91
+80,university of birmingham,REINO UNIDO,90
+81,universidade federal do parana,BRASIL,89
+82,max planck gesellschaft,ALEMANHA,88
+83,institut des sciences et technologies de paris,FRANÇA,87
+84,university of ottawa,CANADÁ,87
+85,universita degli studi di padova,ITÁLIA,86
+86,university of maryland system,ESTADOS UNIDOS,86
+87,city university of new york system,ESTADOS UNIDOS,85
+88,university of minnesota,ESTADOS UNIDOS,84
+89,universidad de zaragoza,ESPANHA,84
+90,universidad de granada,ESPANHA,84
+91,universite de strasbourg,FRANÇA,84
+92,the university of sydney,AUSTRÁLIA,83
+93,universidade catolica portuguesa,PORTUGAL,82
+94,sapienza universitat di roma,ITÁLIA,79
+95,imperial college london,REINO UNIDO,77
+96,university of pennsylvania,ESTADOS UNIDOS,77
+97,university of leeds,REINO UNIDO,75
+98,university of georgia,ESTADOS UNIDOS,75
+99,aarhus universitet,DINAMARCA,75
+100,universita degli studi di firenze,ITÁLIA,75
+101,rutgers university,ESTADOS UNIDOS,75
+102,ludwig maximilians universitat munchen,ALEMANHA,75
+103,university of guelph,CANADÁ,74
+104,massachusetts institute of technology,ESTADOS UNIDOS,73
+105,leibniz gemeinschaft,ALEMANHA,73
+106,university of nebraska lincoln,ESTADOS UNIDOS,73
+107,universite joseph fourier grenoble i,FRANÇA,71
+108,stanford university,ESTADOS UNIDOS,71
+109,helmholtz zentrum geesthacht,ALEMANHA,71
+110,universidade federal fluminense,BRASIL,70
+111,vrije universiteit amsterdam,HOLANDA,70
+112,brown university,ESTADOS UNIDOS,68
+113,state university of new york system,ESTADOS UNIDOS,68
+114,yale university,ESTADOS UNIDOS,68
+115,lancaster university,REINO UNIDO,67
+116,university of southern california,ESTADOS UNIDOS,67
+117,universidade eduardo mondlane,MOÇAMBIQUE,66
+118,universidad nacional de cordoba,ARGENTINA,66
+119,universidade federal de lavras,BRASIL,65
+120,royal botanic gardens,REINO UNIDO,65
+121,universidade da beira interior,PORTUGAL,64
+122,universite de geneve,SUÍÇA,64
+123,universidad de valladolid,ESPANHA,63
+124,universidad carlos iii de madrid,ESPANHA,63
+125,indiana university,ESTADOS UNIDOS,63
+126,universidade federal de sao carlos,BRASIL,63
+127,technische universitat berlin,ALEMANHA,63
+128,universidad nacional de la plata,ARGENTINA,63
+129,universite libre de bruxelles,BÉLGICA,61
+130,the university of manchester,REINO UNIDO,61
+131,pontificia universidade catolica do rio grande do sul,BRASIL,60
+132,universidad de la habana,CUBA,60
+133,goethe universitat frankfurt am main,ALEMANHA,60
+134,universidade do estado do rio de janeiro,BRASIL,59
+135,michigan state university,ESTADOS UNIDOS,59
+136,rheinisch westfaelische technische hochschule aachen,ALEMANHA,58
+137,universite paris sud paris xi,FRANÇA,58
+138,fundacao oswaldo cruz fiocruz,BRASIL,58
+139,duke university,ESTADOS UNIDOS,58
+140,universitat rovira i virgili,ESPANHA,58
+141,pontificia universidade catolica do rio de janeiro,BRASIL,57
+142,university of pittsburgh,ESTADOS UNIDOS,57
+143,universitat pompeu fabra,ESPANHA,57
+144,universite de poitiers,FRANÇA,57
+145,universiteit van amsterdam,HOLANDA,56
+146,louisiana state university system,ESTADOS UNIDOS,56
+147,universidad de castilla la mancha,ESPANHA,55
+148,humboldt universitat zu berlin,ALEMANHA,55
+149,universita degli studi di milano milano,ITÁLIA,55
+150,colorado state university system,ESTADOS UNIDOS,55
+151,centre de cooperation internationale en recherche agronomique pour le developpement,FRANÇA,55
+152,universidade federal da bahia,BRASIL,55
+153,universiteit leiden,HOLANDA,55
+154,universidade do algarve,PORTUGAL,54
+155,universidade federal do rio grande do norte,BRASIL,54
+156,universidad de murcia,ESPANHA,54
+157,university of north carolina,ESTADOS UNIDOS,54
+158,universidade de tras os montes e alto douro,PORTUGAL,54
+159,the university of edinburgh,REINO UNIDO,54
+160,universidad de cordoba,ESPANHA,53
+161,universiteit gent,BÉLGICA,53
+162,universite nice sophia antipolis,FRANÇA,53
+163,national institutes of health,ESTADOS UNIDOS,52
+164,technische universiteit delft,HOLANDA,51
+165,universidade aberta,PORTUGAL,51
+166,universidade federal rural de pernambuco,BRASIL,51
+167,iowa state university,ESTADOS UNIDOS,51
+168,universitat bremen,ALEMANHA,50
+169,universite rennes ii,FRANÇA,50
+170,universite lumiere lyon 2,FRANÇA,50
+171,university of southampton,REINO UNIDO,50
+172,princeton university,ESTADOS UNIDOS,50
+173,university of calgary,CANADÁ,50
+174,university of colorado system administration,ESTADOS UNIDOS,50
+175,universite de versailles saint quentin en yvelines,FRANÇA,49
+176,erasmus universiteit rotterdam,HOLANDA,49
+177,universite catholique de louvain,BÉLGICA,49
+178,pennsylvania state university,ESTADOS UNIDOS,49
+179,albert ludwigs universitat freiburg,ALEMANHA,48
+180,universidad de cadiz,ESPANHA,48
+181,university of kentucky,ESTADOS UNIDOS,48
+182,university of bristol,REINO UNIDO,48
+183,politecnico di milano,ITÁLIA,48
+184,karlsruher institut fur technologie,ALEMANHA,48
+185,university of washington,ESTADOS UNIDOS,47
+186,universite de lorraine,FRANÇA,47
+187,universidad politecnica de madrid,ESPANHA,47
+188,universidade da coruna,ESPANHA,47
+189,western university,CANADÁ,47
+190,universite de rennes i,FRANÇA,47
+191,universidad de alcala,ESPANHA,46
+192,york university,CANADÁ,46
+193,university of arizona,ESTADOS UNIDOS,46
+194,universidade de cabo verde,CABO VERDE,46
+195,universite toulouse iii paul sabatier,FRANÇA,46
+196,conservatoire national des arts et metiers,FRANÇA,46
+197,university of tennessee system,ESTADOS UNIDOS,45
+198,kansas state university,ESTADOS UNIDOS,45
+199,oregon state university,ESTADOS UNIDOS,45
+200,radboud universiteit nijmegen,HOLANDA,45
+201,university of waterloo,CANADÁ,45
+202,westfalische wilhelms universitat munster,ALEMANHA,44
+203,universite paris est creteil val de marne paris xii,FRANÇA,44
+204,ecole normale superieure paris,FRANÇA,44
+205,uppsala universitet,SUÉCIA,44
+206,universita degli studi di torino,ITÁLIA,43
+207,university of chicago,ESTADOS UNIDOS,43
+208,university of miami,ESTADOS UNIDOS,43
+209,university of iowa,ESTADOS UNIDOS,43
+210,the university of melbourne,AUSTRÁLIA,43
+211,johns hopkins university,ESTADOS UNIDOS,43
+212,universidade federal do ceara,BRASIL,43
+213,museum national d histoire naturelle,FRANÇA,42
+214,universite toulouse ii jean jaures,FRANÇA,42
+215,universite de montpellier,FRANÇA,42
+216,the university of sheffield,REINO UNIDO,42
+217,case western reserve university,ESTADOS UNIDOS,42
+218,universidade federal de santa maria,BRASIL,42
+219,universitat bonn,ALEMANHA,42
+220,university of glasgow,REINO UNIDO,41
+221,the university of western australia,AUSTRÁLIA,41
+222,universite lille 1 sciences et technologies,FRANÇA,41
+223,technische universitat dresden,ALEMANHA,41
+224,universite de liege,BÉLGICA,41
+225,virginia tech,ESTADOS UNIDOS,41
+226,university of connecticut,ESTADOS UNIDOS,41
+227,eberhard karls universitat tubingen,ALEMANHA,41
+228,university of new south wales,AUSTRÁLIA,41
+229,consejo nacional de ciencia y tecnologia,MÉXICO,40
+230,university of manitoba,CANADÁ,40
+231,universidad de navarra,ESPANHA,40
+232,universita degli studi di perugia,ITÁLIA,39
+233,universidade federal rural do rio de janeiro,BRASIL,39
+234,universiteit utrecht,HOLANDA,39
+235,technische universitat munchen,ALEMANHA,39
+236,newcastle university,REINO UNIDO,39
+237,universitat hamburg,ALEMANHA,38
+238,universite de nantes,FRANÇA,38
+239,danmarks tekniske universitet,DINAMARCA,38
+240,university of liverpool,REINO UNIDO,38
+241,university of surrey,REINO UNIDO,38
+242,university of kent,REINO UNIDO,38
+243,universita di pisa,ITÁLIA,37
+244,georg august universitat gottingen,ALEMANHA,37
+245,rijksuniversiteit groningen,HOLANDA,37
+246,university of york,REINO UNIDO,37
+247,lunds universitet,SUÉCIA,36
+248,instituto tecnologico de aeronautica,BRASIL,36
+249,tulane university,ESTADOS UNIDOS,36
+250,boston university,ESTADOS UNIDOS,36
+251,ecole des hautes etudes commerciales de montreal,CANADÁ,36
+252,universitat leipzig,ALEMANHA,35
+253,griffith university,AUSTRÁLIA,35
+254,northwestern university,ESTADOS UNIDOS,35
+255,agriculture and agri food canada,CANADÁ,35
+256,concordia university,CANADÁ,35
+257,university of arkansas fayetteville,ESTADOS UNIDOS,35
+258,university of reading,REINO UNIDO,35
+259,universite de bourgogne,FRANÇA,34
+260,universita degli studi di genova,ITÁLIA,34
+261,johns hopkins health system,ESTADOS UNIDOS,34
+262,friedrich schiller universitat jena,ALEMANHA,34
+263,fraunhofer gesellschaft,ALEMANHA,34
+264,universidad del pais vasco,ESPANHA,34
+265,universidad nacional de rosario,ARGENTINA,33
+266,universite paris saclay,FRANÇA,33
+267,johannes gutenberg universitat mainz,ALEMANHA,33
+268,university of st andrews,REINO UNIDO,33
+269,friedrich alexander universitat erlangen nurnberg,ALEMANHA,33
+270,george washington university,ESTADOS UNIDOS,33
+271,georgetown university,ESTADOS UNIDOS,33
+272,universite paul valery montpellier,FRANÇA,33
+273,universidade lusofona de humanidades e tecnologias,PORTUGAL,33
+274,queen s university,CANADÁ,32
+275,universitat jaume i,ESPANHA,32
+276,carleton university,CANADÁ,32
+277,university of east anglia,REINO UNIDO,32
+278,universidad de malaga,ESPANHA,32
+279,university of aberdeen,REINO UNIDO,32
+280,smithsonian national museum of natural history,ESTADOS UNIDOS,31
+281,monash university,AUSTRÁLIA,31
+282,universitat de girona,ESPANHA,31
+283,cardiff university,REINO UNIDO,31
+284,leibniz universitat hannover,ALEMANHA,31
+285,university of delaware,ESTADOS UNIDOS,31
+286,consiglio nazionale delle ricerche,ITÁLIA,31
+287,tufts university,ESTADOS UNIDOS,31
+288,universidad de almeria,ESPANHA,31
+289,university of dublin trinity college dublin,IRLANDA,31
+290,julius maximilians universitat wurzburg,ALEMANHA,30
+291,universite stendhal grenoble iii,FRANÇA,30
+292,ruhr universitat bochum,ALEMANHA,30
+293,university of missouri columbia,ESTADOS UNIDOS,30
+294,university of strathclyde,REINO UNIDO,30
+295,institut national de recherche en informatique et automatique,FRANÇA,30
+296,universidade de vigo,ESPANHA,30
+297,karolinska institutet,SUÉCIA,30
+298,universiteit antwerpen,BÉLGICA,30
+299,durham university,REINO UNIDO,30
+300,universitat hohenheim,ALEMANHA,30
+301,institut nationale de la sante et de le recherche medicale,FRANÇA,30
+302,instituto politecnico de braganca,PORTUGAL,30
+303,universita degli studi di napoli federico ii,ITÁLIA,29
+304,universidade estadual de londrina,BRASIL,29
+305,ohio university,ESTADOS UNIDOS,29
+306,universidade federal do para,BRASIL,29
+307,universidade federal de pelotas,BRASIL,29
+308,university of warwick,REINO UNIDO,29
+309,university of sussex,REINO UNIDO,29
+310,commonwealth science and industrial research organization,AUSTRÁLIA,28
+311,institut de recherche pour le developpement montpellier,FRANÇA,28
+312,the university of kansas,ESTADOS UNIDOS,28
+313,washington state university,ESTADOS UNIDOS,28
+314,university of virginia,ESTADOS UNIDOS,28
+315,universite montpellier ii,FRANÇA,28
+316,institut d etudes politiques de paris,FRANÇA,28
+317,universita degli studi di roma tor vergata,ITÁLIA,28
+318,universitat wien,ÁUSTRIA,28
+319,escola superior de enfermagem do porto,PORTUGAL,28
+320,australian national university,AUSTRÁLIA,27
+321,universite de cergy pontoise,FRANÇA,27
+322,stockholms universitet,SUÉCIA,27
+323,auburn university,ESTADOS UNIDOS,27
+324,universiteit maastricht,HOLANDA,27
+325,university of leicester,REINO UNIDO,27
+326,university of hawaii system,ESTADOS UNIDOS,27
+327,university of gothenburg,SUÉCIA,27
+328,texas tech university,ESTADOS UNIDOS,27
+329,universitat des saarlandes,ALEMANHA,27
+330,generalitat de catalunya,ESPANHA,27
+331,universidad rey juan carlos,ESPANHA,27
+332,mcmaster university,CANADÁ,27
+333,universitat de lleida,ESPANHA,27
+334,universite pantheon sorbonne paris i,FRANÇA,27
+335,universitetet i oslo,NORUEGA,27
+336,university of victoria,CANADÁ,26
+337,smithsonian institution,ESTADOS UNIDOS,26
+338,universite de rouen,FRANÇA,26
+339,university of saskatchewan,CANADÁ,26
+340,west virginia university,ESTADOS UNIDOS,26
+341,universidade federal de uberlandia,BRASIL,26
+342,university of adelaide,AUSTRÁLIA,26
+343,universidade federal de sao paulo,BRASIL,26
+344,university of exeter,REINO UNIDO,26
+345,universidad autonoma metropolitana,MÉXICO,26
+346,universita degli studi roma tre,ITÁLIA,26
+347,georgia institute of technology,ESTADOS UNIDOS,26
+348,utah state university,ESTADOS UNIDOS,25
+349,university of utah,ESTADOS UNIDOS,25
+350,carnegie mellon university,ESTADOS UNIDOS,25
+351,university of south florida,ESTADOS UNIDOS,25
+352,northeastern university,ESTADOS UNIDOS,25
+353,universita ca foscari di venezia,ITÁLIA,25
+354,aalborg universitet,DINAMARCA,25
+355,universite paris est marne la vallee paris xiv,FRANÇA,25
+356,university of new mexico,ESTADOS UNIDOS,25
+357,florida state university,ESTADOS UNIDOS,25
+358,ecole pratique des hautes etudes,FRANÇA,25
+359,universitat zu koln,ALEMANHA,25
+360,universidade federal de goias,BRASIL,25
+361,the new school,ESTADOS UNIDOS,24
+362,university of salford,REINO UNIDO,24
+363,universidad de oviedo,ESPANHA,24
+364,new york botanical garden,ESTADOS UNIDOS,24
+365,international iberian nanotechnology laboratory,PORTUGAL,24
+366,pontificia universidad catolica de chile,CHILE,24
+367,universidad nacional de educacion a distancia,ESPANHA,24
+368,universidad nacional del litoral,ARGENTINA,24
+369,syddansk universitet,DINAMARCA,24
+370,institut national de la recherche agronomique clermont ferrand,FRANÇA,24
+371,simon fraser university,CANADÁ,24
+372,technische universitat darmstadt,ALEMANHA,23
+373,institut pasteur paris,FRANÇA,23
+374,open university,REINO UNIDO,23
+375,justus liebig universitat giessen,ALEMANHA,23
+376,universite de limoges,FRANÇA,23
+377,university of dundee,REINO UNIDO,23
+378,universidad de chile,CHILE,23
+379,technische universitat kaiserslautern,ALEMANHA,23
+380,universite de picardie jules verne,FRANÇA,23
+381,universitat zurich,SUÍÇA,23
+382,universitat potsdam,ALEMANHA,23
+383,ecole polytechnique federale de lausanne,SUÍÇA,23
+384,florida international university,ESTADOS UNIDOS,23
+385,universidade de lisboa instituto de ciencias sociais lisboa,PORTUGAL,23
+386,arizona state university,ESTADOS UNIDOS,23
+387,academisch centrum tandheelkunde amsterdam,HOLANDA,23
+388,linkopings universitet,SUÉCIA,22
+389,kungliga tekniska hogskolan,SUÉCIA,22
+390,university of bath,REINO UNIDO,22
+391,universidade estadual de maringa,BRASIL,22
+392,queen s university belfast,REINO UNIDO,22
+393,brunel university,REINO UNIDO,22
+394,technische universitat braunschweig,ALEMANHA,22
+395,universidad pablo de olavide,ESPANHA,22
+396,universidad nacional de colombia,COLÔMBIA,22
+397,european organization for nuclear research,SUÍÇA,22
+398,university of notre dame,ESTADOS UNIDOS,22
+399,the university of auckland,NOVA ZELÂNDIA,22
+400,universidad nacional de rio cuarto,ARGENTINA,22
+401,universite de lausanne,SUÍÇA,22
+402,universitat stuttgart,ALEMANHA,22
+403,universidad nacional de cuyo,ARGENTINA,21
+404,institut national des sciences appliquees,FRANÇA,21
+405,universita del salento,ITÁLIA,21
+406,universita degli studi di milano bicocca milano,ITÁLIA,21
+407,universita degli studi di ferrara,ITÁLIA,21
+408,universidad nacional del sur,ARGENTINA,21
+409,universite de bordeaux,FRANÇA,21
+410,loughborough university,REINO UNIDO,21
+411,university college dublin,IRLANDA,21
+412,instituto de engenharia de sistemas e computadores,PORTUGAL,21
+413,university of central florida,ESTADOS UNIDOS,21
+414,university of portsmouth,REINO UNIDO,21
+415,associacao instituto nacional de matematica pura e aplicada,BRASIL,21
+416,vanderbilt university,ESTADOS UNIDOS,21
+417,ruprecht karls universitat heidelberg,ALEMANHA,21
+418,universite clermont auvergne,FRANÇA,21
+419,martin luther universitat halle wittenberg,ALEMANHA,21
+420,macquarie university,AUSTRÁLIA,21
+421,clemson university,ESTADOS UNIDOS,21
+422,generalitat valenciana,ESPANHA,20
+423,escola superior de enfermagem de coimbra,PORTUGAL,20
+424,emory university,ESTADOS UNIDOS,20
+425,universita degli studi di parma,ITÁLIA,20
+426,universite lille 3 sciences humaines et sociales,FRANÇA,20
+427,universidad de leon,ESPANHA,20
+428,universitat bayreuth,ALEMANHA,20
+429,university of nevada reno,ESTADOS UNIDOS,20
+430,politecnico di torino,ITÁLIA,20
+431,universita degli studi di pavia,ITÁLIA,20
+432,institut national polytechnique de toulouse,FRANÇA,19
+433,drexel university,ESTADOS UNIDOS,19
+434,technishe universiteit eindhoven,HOLANDA,19
+435,universitat heidelberg,ALEMANHA,19
+436,universitat duisburg essen essen,ALEMANHA,19
+437,universidade federal da paraiba,BRASIL,19
+438,plymouth university,REINO UNIDO,19
+439,universite jean moulin lyon 3,FRANÇA,19
+440,technische universitat hamburg harburg,ALEMANHA,19
+441,deakin university,AUSTRÁLIA,19
+442,universitat regensburg,ALEMANHA,19
+443,james cook university,AUSTRÁLIA,19
+444,university of helsinki,FINLÂNDIA,19
+445,university of essex,REINO UNIDO,19
+446,rice university,ESTADOS UNIDOS,19
+447,university of cape town,ÁFRICA DO SUL,19
+448,universite de caen normandie,FRANÇA,19
+449,university of brighton,REINO UNIDO,19
+450,universite du maine,FRANÇA,18
+451,rothamsted research,REINO UNIDO,18
+452,universite de sherbrooke,CANADÁ,18
+453,universitat bielefeld,ALEMANHA,18
+454,university of oklahoma norman,ESTADOS UNIDOS,18
+455,universitat salzburg,ÁUSTRIA,18
+456,christian albrechts universitat zu kiel,ALEMANHA,18
+457,nhtv internationaal hoger onderwijs breda,HOLANDA,18
+458,universite toulouse i capitole,FRANÇA,18
+459,american museum of natural history,ESTADOS UNIDOS,18
+460,universidade fernando pessoa,PORTUGAL,18
+461,norges teknisk naturvitenskapelige universitet,NORUEGA,18
+462,washington university in st louis,ESTADOS UNIDOS,18
+463,universite de la rochelle,FRANÇA,17
+464,dalhousie university,CANADÁ,17
+465,university of the arts london,REINO UNIDO,17
+466,centers for disease control and prevention,ESTADOS UNIDOS,17
+467,yeshiva university,ESTADOS UNIDOS,17
+468,universidade nova de lisboa faculdade de ciencias sociais e humanas,PORTUGAL,17
+469,oe gaillimh,IRLANDA,17
+470,queensland university of technology,AUSTRÁLIA,17
+471,commissariat a l energie atomique et aux energies alternatives,FRANÇA,17
+472,colorado school of mines,ESTADOS UNIDOS,17
+473,consejo nacional de investigaciones cientificas y tecnicas,ARGENTINA,17
+474,universita degli studi di trento,ITÁLIA,17
+475,eidgenossische technische hochschule zurich,SUÍÇA,17
+476,universita degli studi di roma la sapienza,ITÁLIA,17
+477,oregon health science university,ESTADOS UNIDOS,17
+478,wayne state university,ESTADOS UNIDOS,17
+479,universidad nacional de san martin,ARGENTINA,17
+480,universidad de extremadura,ESPANHA,17
+481,universidad nacional de quilmes,ARGENTINA,17
+482,ryerson university,CANADÁ,17
+483,swansea university,REINO UNIDO,17
+484,universidade pedagogica,MOÇAMBIQUE,17
+485,boston college,ESTADOS UNIDOS,17
+486,forschungszentrum julich,ALEMANHA,17
+487,vrije universiteit brussel,BÉLGICA,17
+488,san diego state university,ESTADOS UNIDOS,16
+489,hanzehogeschool groningen,HOLANDA,16
+490,universidade do vale do itajai,BRASIL,16
+491,universite pierre mendes france grenoble ii,FRANÇA,16
+492,universiteit twente,HOLANDA,16
+493,university of north texas denton,ESTADOS UNIDOS,16
+494,cleveland clinic foundation,ESTADOS UNIDOS,16
+495,university of technology sydney,AUSTRÁLIA,16
+496,coventry university,REINO UNIDO,16
+497,wake forest university,ESTADOS UNIDOS,16
+498,universitat de les illes balears,ESPANHA,16
+499,nederlands instituut voor ecologie,HOLANDA,16
+500,american university,ESTADOS UNIDOS,16
+501,scripps research institute,ESTADOS UNIDOS,16
+502,universidad de oriente,CUBA,15
+503,bundesanstalt fur materialforschung und prufung,ALEMANHA,15
+504,instituto politecnico de lisboa,PORTUGAL,15
+505,philipps universitat marburg,ALEMANHA,15
+506,bangor university,REINO UNIDO,15
+507,kent state university,ESTADOS UNIDOS,15
+508,universitat fur bodenkultur wien,ÁUSTRIA,15
+509,united states geological survey,ESTADOS UNIDOS,15
+510,international institute for applied systems analysis,ÁUSTRIA,15
+511,instituto de investigacao cientifica tropical,PORTUGAL,15
+512,universite paris dauphine paris ix,FRANÇA,14
+513,universite de bordeaux talence,FRANÇA,14
+514,university of cincinnati,ESTADOS UNIDOS,14
+515,universita degli studi di trieste,ITÁLIA,14
+516,el colegio de mexico,MÉXICO,14
+517,lawrence berkeley national laboratory,ESTADOS UNIDOS,14
+518,georgia state university,ESTADOS UNIDOS,14
+519,laboratorio nacional de energia e geologia,PORTUGAL,14
+520,university of south carolina,ESTADOS UNIDOS,14
+521,mississippi state university,ESTADOS UNIDOS,14
+522,instituto politecnico do porto,PORTUGAL,14
+523,universite de reims champagne ardenne,FRANÇA,14
+524,temple university,ESTADOS UNIDOS,14
+525,university of new hampshire,ESTADOS UNIDOS,14
+526,university of tasmania,AUSTRÁLIA,14
+527,universitat kassel,ALEMANHA,14
+528,fundacao universidade federal de mato grosso do sul,BRASIL,14
+529,universidad publica de navarra,ESPANHA,14
+530,institut national de la recherche scientifique,CANADÁ,14
+531,university of mississippi oxford,ESTADOS UNIDOS,14
+532,instituto politecnico de leiria,PORTUGAL,13
+533,aberystwyth university,REINO UNIDO,13
+534,universidade do vale do rio dos sinos,BRASIL,13
+535,universidade do estado de santa catarina,BRASIL,13
+536,universidade do vale do paraiba,BRASIL,13
+537,facultad latinoamericana de ciencias sociales,ARGENTINA,13
+538,universidade estadual do ceara,BRASIL,13
+539,instituto gulbenkian de ciencia,PORTUGAL,13
+540,universite d avignon et des pays de vaucluse,FRANÇA,13
+541,george mason university,ESTADOS UNIDOS,13
+542,hokkaido university,JAPÃO,13
+543,university of otago,NOVA ZELÂNDIA,13
+544,massey university,NOVA ZELÂNDIA,13
+545,universitat ramon llull,ESPANHA,13
+546,university of wollongong,AUSTRÁLIA,13
+547,syracuse university,ESTADOS UNIDOS,13
+548,institut national des sciences appliquees de toulouse,FRANÇA,13
+549,universidade tecnologica federal do parana,BRASIL,13
+550,universidad nacional de san luis,ARGENTINA,13
+551,virginia commonwealth university,ESTADOS UNIDOS,13
+552,universitat ulm,ALEMANHA,13
+553,technische universitat dortmund,ALEMANHA,13
+554,universidad tecnologica de la habana jose antonio echeverria,CUBA,13
+555,universidad nacional de mar del plata,ARGENTINA,13
+556,universidad de cantabria,ESPANHA,13
+557,university of new england armidale,AUSTRÁLIA,12
+558,oklahoma state university stillwater,ESTADOS UNIDOS,12
+559,ollscoil chathair bhaile atha cliath,IRLANDA,12
+560,north dakota state university,ESTADOS UNIDOS,12
+561,pontificia universidade catolica do parana,BRASIL,12
+562,universidade federal do abc,BRASIL,12
+563,aalto yliopisto,FINLÂNDIA,12
+564,instituto superior miguel torga,PORTUGAL,12
+565,university of roehampton,REINO UNIDO,12
+566,universidad de guadalajara,MÉXICO,12
+567,universita degli studi di salerno,ITÁLIA,12
+568,koninklijke nederlandse akademie van wetenschappen,HOLANDA,12
+569,laboratorio nacional de engenharia civil,PORTUGAL,12
+570,rensselaer polytechnic institute,ESTADOS UNIDOS,12
+571,universita degli studi di udine,ITÁLIA,12
+572,universite francois rabelais de tours,FRANÇA,12
+573,georgia regents university,ESTADOS UNIDOS,12
+574,aston university,REINO UNIDO,12
+575,university of vermont,ESTADOS UNIDOS,12
+576,universidad de antioquia,COLÔMBIA,12
+577,manchester metropolitan university,REINO UNIDO,12
+578,universite bordeaux montaigne,FRANÇA,12
+579,universitat tubingen,ALEMANHA,12
+580,universite de pau et des pays de l adour,FRANÇA,12
+581,universita degli studi g d annunzio pescara,ITÁLIA,12
+582,universita degli studi di bari aldo moro,ITÁLIA,12
+583,university of huddersfield,REINO UNIDO,12
+584,ollscoil luimnigh,IRLANDA,11
+585,colaiste na hollscoile corcaigh,IRLANDA,11
+586,universidade nacional timor lorosa e,TIMOR-LESTE,11
+587,universidade federal de ouro preto,BRASIL,11
+588,universite pantheon assas paris ii,FRANÇA,11
+589,universidade federal do tocantins,BRASIL,11
+590,rockefeller university,ESTADOS UNIDOS,11
+591,universite lyon 2,FRANÇA,11
+592,city university of london cass business school,REINO UNIDO,11
+593,universidad de la laguna,ESPANHA,11
+594,forsyth institute,ESTADOS UNIDOS,11
+595,southern illinois university,ESTADOS UNIDOS,11
+596,universitat konstanz,ALEMANHA,11
+597,universitat bern,SUÍÇA,11
+598,universidad nacional del centro de la provincia de buenos aires,ARGENTINA,11
+599,universidad politecnica de cartagena,ESPANHA,11
+600,the university of memphis,ESTADOS UNIDOS,11
+601,curtin university,AUSTRÁLIA,11
+602,turun yliopisto,FINLÂNDIA,11
+603,universitat rostock,ALEMANHA,11
+604,vetagro sup lempdes,FRANÇA,11
+605,assistance publique hopitaux de paris,FRANÇA,11
+606,university of westminster,REINO UNIDO,10
+607,university of rochester,ESTADOS UNIDOS,10
+608,jacobs university bremen,ALEMANHA,10
+609,university of south australia,AUSTRÁLIA,10
+610,heinrich heine universitat dusseldorf,ALEMANHA,10
+611,cranfield university,REINO UNIDO,10
+612,crown research institutes,NOVA ZELÂNDIA,10
+613,national research council canada,CANADÁ,10
+614,university of missouri saint louis,ESTADOS UNIDOS,10
+615,universitat innsbruck,ÁUSTRIA,10
+616,universitat siegen,ALEMANHA,10
+617,fondazione edmund mach di san michele all adige,ITÁLIA,10
+618,instituto de salud carlos iii,ESPANHA,10
+619,royal botanic garden edinburgh,REINO UNIDO,10
+620,universitat basel,SUÍÇA,10
+621,technische universitat bergakademie freiberg,ALEMANHA,10
+622,universita cattolica del sacro cuore,ITÁLIA,10
+623,scotland s rural college,REINO UNIDO,10
+624,universitat augsburg,ALEMANHA,10
+625,universidad nacional de san juan,ARGENTINA,10
+626,iowa state university ames,ESTADOS UNIDOS,10
+627,universidade federal do espirito santo,BRASIL,10
+628,universitetet i bergen,NORUEGA,10
+629,colaiste rioga na mainlea in eirinn,IRLANDA,10
+630,charite universitatsmedizin berlin,ALEMANHA,10
+631,universite d orleans,FRANÇA,10
+632,universita degli studi di siena,ITÁLIA,10
+633,universidad de santiago de chile,CHILE,10
+634,dartmouth college,ESTADOS UNIDOS,10
+635,california academy of sciences,ESTADOS UNIDOS,10
+636,california state university system,ESTADOS UNIDOS,10
+637,college de france,FRANÇA,9
+638,integrated ocean drilling program united states,ESTADOS UNIDOS,9
+639,universitat greifswald,ALEMANHA,9
+640,goddard space flight center nasa greenbelt,ESTADOS UNIDOS,9
+641,institut francais des sciences et technologies des transports de l amenagement et des reseaux,FRANÇA,9
+642,heriot watt university,REINO UNIDO,9
+643,universite de perpignan via domitia,FRANÇA,9
+644,the university of kansas medical center kansas,ESTADOS UNIDOS,9
+645,instituto nacional de investigacao agraria e veterinaria,PORTUGAL,9
+646,assistance publiquehopitaux de paris,FRANÇA,9
+647,university of windsor,CANADÁ,9
+648,victoria university,AUSTRÁLIA,9
+649,florida institute of technology,ESTADOS UNIDOS,9
+650,fundacao getulio vargas rj,BRASIL,9
+651,europa universitat viadrina frankfurt oder,ALEMANHA,9
+652,albert einstein college of medicine ue,ESTADOS UNIDOS,9
+653,universiteit van tilburg,HOLANDA,9
+654,universite savoie mont blanc,FRANÇA,9
+655,universidade federal do oeste do para,BRASIL,9
+656,universidade do extremo sul catarinense,BRASIL,9
+657,agrocampus ouest,FRANÇA,9
+658,observatoire de paris,FRANÇA,9
+659,interuniversitair micro electronica centrum,BÉLGICA,9
+660,iscte instituto universitario de lisboa,PORTUGAL,9
+661,universite de toulon,FRANÇA,9
+662,institutes of technology ireland,IRLANDA,9
+663,universite de technologie de compiegne,FRANÇA,9
+664,instituto politecnico nacional,MÉXICO,9
+665,universite de bretagne occidentale,FRANÇA,9
+666,universidade do algarve gambelas faro,PORTUGAL,9
+667,flinders university,AUSTRÁLIA,9
+668,universidade federal do estado do rio de janeiro,BRASIL,9
+669,universidade estadual do norte fluminense darcy ribeiro,BRASIL,9
+670,universidade federal de alfenas,BRASIL,9
+671,senckenberg gesellschaft fur naturforschung,ALEMANHA,9
+672,universita degli studi di camerino,ITÁLIA,9
+673,universitat der kunste berlin,ALEMANHA,9
+674,universita della calabria,ITÁLIA,9
+675,sveriges lantbruksuniversitet,SUÉCIA,9
+676,sorbonne universite,FRANÇA,9
+677,saint louis university,ESTADOS UNIDOS,9
+678,technische universitat chemnitz,ALEMANHA,9
+679,university of mississippi medical center jackson,ESTADOS UNIDOS,9
+680,university of oregon,ESTADOS UNIDOS,9
+681,institut gustave roussy,FRANÇA,9
+682,universidade nova de lisboa instituto de higiene e medicina tropical lisboa,PORTUGAL,9
+683,university of houston,ESTADOS UNIDOS,9
+684,universita degli studi di messina,ITÁLIA,8
+685,northern arizona university flagstaff,ESTADOS UNIDOS,8
+686,universidade federal de itajuba,BRASIL,8
+687,field museum of natural history,ESTADOS UNIDOS,8
+688,faculdade de ciencias sociais e humanas,PORTUGAL,8
+689,instituto de ciencia animal,CUBA,8
+690,universite de fribourg,SUÍÇA,8
+691,liverpool school of tropical medicine,REINO UNIDO,8
+692,centro nacional de sanidad agropecuaria,CUBA,8
+693,chinese academy of sciences,CHINA,8
+694,illinois institute of technology,ESTADOS UNIDOS,8
+695,the university of northampton,REINO UNIDO,8
+696,universitat osnabruck,ALEMANHA,8
+697,brigham young university,ESTADOS UNIDOS,8
+698,universidad de burgos,ESPANHA,8
+699,bauhaus universitat weimar,ALEMANHA,8
+700,university of waikato,NOVA ZELÂNDIA,8
+701,mayo clinic,ESTADOS UNIDOS,8
+702,icahn school of medicine at mount sinai,ESTADOS UNIDOS,8
+703,trent university,CANADÁ,8
+704,united nations educational scientific and cultural organization,HOLANDA,8
+705,karl franzens universitat graz,ÁUSTRIA,8
+706,argonne national laboratory,ESTADOS UNIDOS,8
+707,university of alabama tuscaloosa,ESTADOS UNIDOS,8
+708,university of california hastings college of the law san francisco,ESTADOS UNIDOS,8
+709,southern cross university,AUSTRÁLIA,8
+710,the james hutton institute,REINO UNIDO,8
+711,bournemouth university,REINO UNIDO,8
+712,university of oxford latin american centre oxford,REINO UNIDO,8
+713,universidad pedagogica nacional de colombia,COLÔMBIA,8
+714,universidad de huelva,ESPANHA,8
+715,california institute of technology,ESTADOS UNIDOS,8
+716,brandenburgische technische universitat cottbus senftenberg,ALEMANHA,8
+717,university of ontario institute of technology,CANADÁ,8
+718,technische universitat wien,ÁUSTRIA,8
+719,university of louisville,ESTADOS UNIDOS,8
+720,universita degli studi di verona,ITÁLIA,8
+721,synchrotron soleil,FRANÇA,8
+722,institut de recherche pour le developpement marseille,FRANÇA,8
+723,consiglio per la ricerca e la sperimentazione in agricoltura,ITÁLIA,7
+724,national institute of allergy and infectious diseases,ESTADOS UNIDOS,7
+725,miami university,ESTADOS UNIDOS,7
+726,university of the west of england,REINO UNIDO,7
+727,university of pretoria,ÁFRICA DO SUL,7
+728,medizinische universitat wien,ÁUSTRIA,7
+729,university of wyoming,ESTADOS UNIDOS,7
+730,the university of tokyo,JAPÃO,7
+731,wirtschaftsuniversitat wien,ÁUSTRIA,7
+732,uniformed services university,ESTADOS UNIDOS,7
+733,moredun research institut,REINO UNIDO,7
+734,national health service management office,REINO UNIDO,7
+735,istituto universitario europeo,ITÁLIA,7
+736,m d anderson cancer center,ESTADOS UNIDOS,7
+737,naturalis biodiversity center,HOLANDA,7
+738,instituto nacional de pesquisas espaciais,BRASIL,7
+739,akademie ved ceske republiky,REPÚBLICA TCHECA,7
+740,university of lincoln,REINO UNIDO,7
+741,university of iowa carver college of medicine,ESTADOS UNIDOS,7
+742,universidad nacional de general sarmiento,ARGENTINA,7
+743,brock university,CANADÁ,7
+744,universidad de los andes,COLÔMBIA,7
+745,scuola superiore sant anna,ITÁLIA,7
+746,institut d investigacions biomediques august pi i sunyer,ESPANHA,7
+747,smithsonian conservation biology institute ue,ESTADOS UNIDOS,7
+748,scuola normale superiore,ITÁLIA,7
+749,deutsches krebsforschungszentrum,ALEMANHA,7
+750,tampereen yliopisto,FINLÂNDIA,7
+751,institut de recherche pour le developpement bondy,FRANÇA,7
+752,institut de science des materiaux de mulhouse,FRANÇA,7
+753,universidad de jaen,ESPANHA,7
+754,copenhagen business school,DINAMARCA,7
+755,universitat oberta de catalunya,ESPANHA,7
+756,universita della svizzera italiana,SUÍÇA,7
+757,cedars sinai medical center,ESTADOS UNIDOS,7
+758,universidade de lurio,MOÇAMBIQUE,7
+759,universidade catolica de brasilia,BRASIL,7
+760,universidade agostinho neto,ANGOLA,7
+761,universidade estadual de feira de santana,BRASIL,7
+762,universidade estadual de ponta grossa,BRASIL,7
+763,universidade federal de campina grande,BRASIL,7
+764,universidade federal de alagoas,BRASIL,7
+765,universita degli studi di sassari,ITÁLIA,7
+766,universidade federal do amazonas,BRASIL,7
+767,centro de investigacion y tecnologia agroalimentaria de aragon,ESPANHA,7
+768,lakehead university,CANADÁ,7
+769,universite du luxembourg,LUXEMBURGO,7
+770,old dominion university,ESTADOS UNIDOS,7
+771,penn state university,ESTADOS UNIDOS,7
+772,pontificia universidade catolica de minas gerais,BRASIL,7
+773,pontificia universidad catolica del peru,PERU,7
+774,oregon university system,ESTADOS UNIDOS,7
+775,jawaharlal nehru university,ÍNDIA,7
+776,worcester polytechnic institute,ESTADOS UNIDOS,7
+777,university of new brunswick,CANADÁ,6
+778,university of rhode island,ESTADOS UNIDOS,6
+779,the hebrew university of jerusalem,ISRAEL,6
+780,bernhard nocht institut fur tropenmedizin,ALEMANHA,6
+781,bergische universitat wuppertal,ALEMANHA,6
+782,texas a m international university,ESTADOS UNIDOS,6
+783,university of stirling,REINO UNIDO,6
+784,universidad de deusto,ESPANHA,6
+785,hochschule fur grafik und buchkunst leipzig,ALEMANHA,6
+786,universidad autonoma del estado de mexico,MÉXICO,6
+787,universita politecnica delle marche,ITÁLIA,6
+788,universitair medisch centrum groningen,HOLANDA,6
+789,universitat trier,ALEMANHA,6
+790,nova southeastern university,ESTADOS UNIDOS,6
+791,washington and lee university,ESTADOS UNIDOS,6
+792,universitat koblenz landau,ALEMANHA,6
+793,middlesex university london,REINO UNIDO,6
+794,technische universitat ilmenau,ALEMANHA,6
+795,the university of maine,ESTADOS UNIDOS,6
+796,san francisco state university,ESTADOS UNIDOS,6
+797,universidad nacional de lanus,ARGENTINA,6
+798,la trobe university,AUSTRÁLIA,6
+799,the university of hong kong,CHINA,6
+800,institut de hautes etudes internationales et du developpement,SUÍÇA,6
+801,universitat paderborn,ALEMANHA,6
+802,university of missouri kansas city,ESTADOS UNIDOS,6
+803,chalmers tekniska hogskola,SUÉCIA,6
+804,memorial sloan kettering cancer center,ESTADOS UNIDOS,6
+805,pontificia universidade catolica de sao paulo,BRASIL,6
+806,malmo hogskola,SUÉCIA,6
+807,stellenbosch university,ÁFRICA DO SUL,6
+808,fermilab fermi national accelerator laboratory,ESTADOS UNIDOS,6
+809,salk institute for biological studies,ESTADOS UNIDOS,6
+810,otto von guericke universitat magdeburg,ALEMANHA,6
+811,ecole superieure d electricite,FRANÇA,6
+812,ecole centrale paris,FRANÇA,6
+813,fox chase cancer center,ESTADOS UNIDOS,6
+814,universita degli studi di palermo,ITÁLIA,6
+815,universidade do estado do amazonas,BRASIL,6
+816,universidade dos acores,PORTUGAL,6
+817,university of athens,GRÉCIA,6
+818,university of colorado,ESTADOS UNIDOS,6
+819,florida atlantic university,ESTADOS UNIDOS,6
+820,universidade federal de mato grosso,BRASIL,6
+821,universita degli studi di cagliari,ITÁLIA,6
+822,carl von ossietzky universitat oldenburg,ALEMANHA,6
+823,university of alabama birmingham,ESTADOS UNIDOS,6
+824,university of canberra,AUSTRÁLIA,6
+825,universite bordeaux iii,FRANÇA,6
+826,universite de franche comte,FRANÇA,6
+827,national center for atmospheric research,ESTADOS UNIDOS,6
+828,universiteit hasselt,BÉLGICA,6
+829,universidad de las palmas de gran canaria,ESPANHA,6
+830,university of the sunshine coast,AUSTRÁLIA,6
+831,john innes centre,REINO UNIDO,6
+832,universitatsklinikum heidelberg,ALEMANHA,6
+833,consejo superior de investigaciones cientificas centro de ciencias humanas y sociales madrid,ESPANHA,6
+834,zoologisches forschungsmuseum alexander koenig,ALEMANHA,5
+835,universite d angers,FRANÇA,5
+836,universidad catolica de valencia san vicente martir,ESPANHA,5
+837,washington university in st louis school of medicine saint louis,ESTADOS UNIDOS,5
+838,the hospital for sick children,CANADÁ,5
+839,univerzita karlova v praze,REPÚBLICA TCHECA,5
+840,joslin diabetes center and joslin clinic,ESTADOS UNIDOS,5
+841,glasgow caledonian university,REINO UNIDO,5
+842,universidad nacional de lujan,ARGENTINA,5
+843,university of kwazulu natal,ÁFRICA DO SUL,5
+844,universidad pontificia comillas,ESPANHA,5
+845,fundacao vale do taquari de educacao e desenvolvimento social fuvates,BRASIL,5
+846,universidad michoacana de san nicolas de hidalgo,MÉXICO,5
+847,london south bank university,REINO UNIDO,5
+848,baylor college of medicine,ESTADOS UNIDOS,5
+849,university of montana missoula,ESTADOS UNIDOS,5
+850,universidad de la frontera,CHILE,5
+851,universitat flensburg,ALEMANHA,5
+852,pace university,ESTADOS UNIDOS,5
+853,observatorio nacional,BRASIL,5
+854,oe gaillimh maynooth,IRLANDA,5
+855,masarykova univerzita,REPÚBLICA TCHECA,5
+856,paul drude institut fur festkorperelektronik,ALEMANHA,5
+857,ecole nationale superieure d architecture de paris la villette,FRANÇA,5
+858,east carolina university,ESTADOS UNIDOS,5
+859,memorial university of newfoundland,CANADÁ,5
+860,stiftung institut fur werkstofftechnik,ALEMANHA,5
+861,universidade de coimbra centro de estudos de linguistica geral e aplicada,PORTUGAL,5
+862,universidad pedagogica nacional,MÉXICO,5
+863,universita degli studi di modena e reggio emilia,ITÁLIA,5
+864,universita iuav di venezia,ITÁLIA,5
+865,medizinische hochschule hannover,ALEMANHA,5
+866,centro brasileiro de pesquisas fisicas,BRASIL,5
+867,bremer institut fur produktion und logistik,ALEMANHA,5
+868,universidad nacional de tucuman,ARGENTINA,5
+869,stiftung tierarztliche hochschule hannover,ALEMANHA,5
+870,universidad catolica san antonio de murcia,ESPANHA,5
+871,universidad de talca,CHILE,5
+872,universidad de costa rica,COSTA RICA,5
+873,universidad de holguin,CUBA,5
+874,technische universitat graz,ÁUSTRIA,5
+875,institiuid teicneolaiochta bhaile atha cliath,IRLANDA,5
+876,the university of akron,ESTADOS UNIDOS,5
+877,universidade federal do reconcavo da bahia,BRASIL,5
+878,lincoln university christchurch,NOVA ZELÂNDIA,5
+879,university of denver,ESTADOS UNIDOS,5
+880,libera universita di bolzano,ITÁLIA,5
+881,institut francais de recherche pour l exploitation de la mer,FRANÇA,5
+882,institut national de recherche en sciences et technologies pour l environement et l agriculture,FRANÇA,5
+883,universitat de vic,ESPANHA,5
+884,deutsches zentrum fur luft und raumfahrt,ALEMANHA,5
+885,university of hertfordshire,REINO UNIDO,5
+886,mount sinai medical center,ESTADOS UNIDOS,5
+887,university health network,CANADÁ,5
+888,instituto superior de psicologia aplicada,PORTUGAL,5
+889,universita degli studi del piemonte orientale amedeo avogadro,ITÁLIA,5
+890,centre international de recherche sur le cancer,FRANÇA,5
+891,universidade federal do rio grande,BRASIL,5
+892,universidade federal de juiz de fora,BRASIL,5
+893,leuphana universitat luneburg,ALEMANHA,5
+894,universidad veracruzana,MÉXICO,5
+895,roskilde universitet,DINAMARCA,5
+896,royal college of art,REINO UNIDO,5
+897,qimr berghofer medical research institute,AUSTRÁLIA,5
+898,universitetet i stavanger,NORUEGA,5
+899,universitat mannheim,ALEMANHA,5
+900,missouri botanical garden,ESTADOS UNIDOS,5
+901,universite d avignon,FRANÇA,5
+902,nottingham trent university,REINO UNIDO,5
+903,universitat autonoma de barcelona institut catala de nanociencia y nanotecnologia,ESPANHA,5
+904,de montfort university,REINO UNIDO,5
+905,columbia university teachers college,ESTADOS UNIDOS,5
+906,instituto nacional de investigacion y tecnologia agraria y alimentaria,ESPANHA,5
+907,universite catholique de lille,FRANÇA,5
+908,veterinarmedizinische universitat wien,ÁUSTRIA,5
+909,instituto nacional de antropologia e historia,MÉXICO,5
+910,national institute of standards and technology,ESTADOS UNIDOS,5
+911,universidad autonoma de yucatan,MÉXICO,5
+912,u s food and drug administration,ESTADOS UNIDOS,5
+913,umea universitet,SUÉCIA,5
+914,university of wolverhampton,REINO UNIDO,5
+915,wits university,ÁFRICA DO SUL,4
+916,united nations university,JAPÃO,4
+917,antoni van leeuwenhoek nederlands kanker instituut,HOLANDA,4
+918,university of winnipeg,CANADÁ,4
+919,universite du littoral cote d opale,FRANÇA,4
+920,it universitetet i kbenhavn,DINAMARCA,4
+921,university of the pacific,ESTADOS UNIDOS,4
+922,bayer group,ESTADOS UNIDOS,4
+923,woods hole research center,ESTADOS UNIDOS,4
+924,clark university,ESTADOS UNIDOS,4
+925,universitatsklinikum jena,ALEMANHA,4
+926,universitatsklinikum munster,ALEMANHA,4
+927,universitat passau,ALEMANHA,4
+928,instituto politecnico de portalegre,PORTUGAL,4
+929,instituto nacional de pesquisas da amazonia,BRASIL,4
+930,yokohama national university,JAPÃO,4
+931,montana state university bozeman,ESTADOS UNIDOS,4
+932,missouri university of science and technology,ESTADOS UNIDOS,4
+933,universite de neuchatel,SUÍÇA,4
+934,universite de lyon,FRANÇA,4
+935,universite de mons,BÉLGICA,4
+936,commissariat a l energie atomique,FRANÇA,4
+937,commissariat a l energie atomique et aux energies alternatives grenoble,FRANÇA,4
+938,murdoch university,AUSTRÁLIA,4
+939,nsw government nsw department of primary industries,AUSTRÁLIA,4
+940,northern illinois university,ESTADOS UNIDOS,4
+941,northumbria university newcastle,REINO UNIDO,4
+942,norges milj og biovitenskapelige universitet,NORUEGA,4
+943,universitat vechta,ALEMANHA,4
+944,universita degli studi di urbino,ITÁLIA,4
+945,university of greenwich,REINO UNIDO,4
+946,universidade onze de novembro,ANGOLA,4
+947,universidade presbiteriana mackenzie,BRASIL,4
+948,escola superior de enfermagem de lisboa,PORTUGAL,4
+949,universidade nova de lisboa faculdade de ciencias e tecnologia caparica,PORTUGAL,4
+950,edinburgh napier university,REINO UNIDO,4
+951,edith cowan university,AUSTRÁLIA,4
+952,universitetet i troms,NORUEGA,4
+953,nagoya university,JAPÃO,4
+954,lulea tekniska universitet,SUÉCIA,4
+955,instituto universitario de pesquisa do rio de janeiro,BRASIL,4
+956,pontificia universita lateranense,ITÁLIA,4
+957,pontificia universita gregoriana,ITÁLIA,4
+958,instituto de arte design e empresa,PORTUGAL,4
+959,universidade federal rural do semi arido,BRASIL,4
+960,florida agricultural and mechanical university,ESTADOS UNIDOS,4
+961,universidade federal da grande dourados,BRASIL,4
+962,princeton theological seminary,ESTADOS UNIDOS,4
+963,universidade lusiada de lisboa,PORTUGAL,4
+964,universidade lusiada de porto,PORTUGAL,4
+965,universidade lusofona do porto,PORTUGAL,4
+966,leeds beckett university leeds,REINO UNIDO,4
+967,universidade estadual da paraiba,BRASIL,4
+968,universidade estadual do oeste do parana,BRASIL,4
+969,royal ontario museum,CANADÁ,4
+970,rush university,ESTADOS UNIDOS,4
+971,university of canterbury,NOVA ZELÂNDIA,4
+972,university of chichester,REINO UNIDO,4
+973,university of bedfordshire,REINO UNIDO,4
+974,liverpool john moores university,REINO UNIDO,4
+975,university of east london,REINO UNIDO,4
+976,universita degli studi di brescia,ITÁLIA,4
+977,oxford brookes university,REINO UNIDO,4
+978,observatoire de la cote d azur,FRANÇA,4
+979,universitat hildesheim,ALEMANHA,4
+980,medizinische universitat innsbruck,ÁUSTRIA,4
+981,physikalisch technische bundesanstalt berlin,ALEMANHA,4
+982,centre wallon de recherches agronomiques,BÉLGICA,4
+983,centro agronomico tropical de investigacion y ensenanza,COSTA RICA,4
+984,universite paris sud faculte de pharmacie chatenay malabry,FRANÇA,4
+985,royal melbourne institute of technology university,AUSTRÁLIA,4
+986,pontificia universidad javeriana,COLÔMBIA,4
+987,birmingham city university,REINO UNIDO,4
+988,universidade do estado de mato grosso,BRASIL,4
+989,universidade da madeira,PORTUGAL,4
+990,universidade de coimbra faculdade de direito de coimbra,PORTUGAL,4
+991,suomen ymparistokeskus,FINLÂNDIA,4
+992,kyoto university,JAPÃO,4
+993,keele university,REINO UNIDO,4
+994,h lee moffitt cancer center research institute,ESTADOS UNIDOS,4
+995,scuola internazionale superiore di studi avanzati,ITÁLIA,4
+996,fundacao universidade federal do piaui,BRASIL,4
+997,university of louisiana lafayette,ESTADOS UNIDOS,4
+998,brunel university london,REINO UNIDO,4
+999,swiss tropical and public health institute,SUÍÇA,4
+1000,infectious disease research institute,ESTADOS UNIDOS,4
+1001,universidad nacional de costa rica campus omar dengo heredia,COSTA RICA,4
+1002,the pirbright institute,REINO UNIDO,4
+1003,institut curie,FRANÇA,4
+1004,swinburne university of technology,AUSTRÁLIA,4
+1005,istituto di ricerche farmacologiche mario negri,ITÁLIA,4
+1006,istituto di scienza e tecnologie dell informazione alessandro faedo,ITÁLIA,4
+1007,tel aviv university,ISRAEL,4
+1008,telefonaktiebolaget lm ericsson ue,SUÉCIA,4
+1009,benemerita universidad autonoma de puebla,MÉXICO,4
+1010,bentley university,ESTADOS UNIDOS,4
+1011,istituto italiano di tecnologia,ITÁLIA,4
+1012,universidad de magallanes,CHILE,4
+1013,the catholic university of america,ESTADOS UNIDOS,4
+1014,birkbeck university of london,REINO UNIDO,4
+1015,polska akademia nauk,POLONIA,4
+1016,hochschule fur angewandte wissenschaften hamburg,ALEMANHA,4
+1017,universidad de camaguey ignacio agramonte loynaz,CUBA,4
+1018,hgskolen i oslo og akershus,NORUEGA,4
+1019,hiroshima university,JAPÃO,4
+1020,ibm research yorktown heights,ESTADOS UNIDOS,4
+1021,university of north texas health science center fort worth,ESTADOS UNIDOS,4
+1022,university of newcastle,AUSTRÁLIA,4
+1023,universidad autonoma metropolitana unidad azcapotzalco,MÉXICO,4
+1024,agroscope,SUÍÇA,4
+1025,the royal botanic gardens,AUSTRÁLIA,4
+1026,the texas state university system,ESTADOS UNIDOS,4
+1027,hochschule osnabruck,ALEMANHA,4
+1028,auckland university of technology,NOVA ZELÂNDIA,4
+1029,university of western sydney,AUSTRÁLIA,4
+1030,university of tsukuba,JAPÃO,4
+1031,univerza v ljubljani,ESLOVÊNIA,4
+1032,univerzita palackeho v olomouci,REPÚBLICA TCHECA,4
+1033,universita di macerata,ITÁLIA,4
+1034,vysoka kola chemicko technologicka v praze,REPÚBLICA TCHECA,3
+1035,the national hellenic research foundation,GRÉCIA,3
+1036,the methodist hospital research institute,ESTADOS UNIDOS,3
+1037,western michigan university,ESTADOS UNIDOS,3
+1038,acreo ab electrum,SUÉCIA,3
+1039,weizmann institute of science,ISRAEL,3
+1040,zentrum fur literatur und kulturforschung berlin,ALEMANHA,3
+1041,agence nationale de securite sanitaire de l alimentation de l environnement et du travail,FRANÇA,3
+1042,university of new orleans,ESTADOS UNIDOS,3
+1043,universidad autonoma de nuevo leon,MÉXICO,3
+1044,hogskolan i halmstad,SUÉCIA,3
+1045,the george institute for global health,AUSTRÁLIA,3
+1046,ti food and nutrition,HOLANDA,3
+1047,istituti fisioterapici ospitalieri istituto nazionale tumori regina elena ue,ITÁLIA,3
+1048,baylor university,ESTADOS UNIDOS,3
+1049,bard college,ESTADOS UNIDOS,3
+1050,university of plymouth,REINO UNIDO,3
+1051,university of north florida,ESTADOS UNIDOS,3
+1052,istituto di studi ecumenici san bernardino,ITÁLIA,3
+1053,universite de bordeaux pessac,FRANÇA,3
+1054,universitatsklinikum freiburg,ALEMANHA,3
+1055,instituto nacional de saude dr ricardo jorge,PORTUGAL,3
+1056,instituto nacional de tecnologia agropecuaria,ARGENTINA,3
+1057,consejo superior de investigaciones cientificas instituto de biologia molecular y celular de plantas valencia,ESPANHA,3
+1058,coastal carolina university,ESTADOS UNIDOS,3
+1059,virginia institute of marine science,ESTADOS UNIDOS,3
+1060,universidad autonoma de queretaro,MÉXICO,3
+1061,woods hole oceanographic institution,ESTADOS UNIDOS,3
+1062,wright state university,ESTADOS UNIDOS,3
+1063,universidad autonoma del estado de hidalgo,MÉXICO,3
+1064,universidad austral de chile,CHILE,3
+1065,universidad de la rioja,ESPANHA,3
+1066,universidad de matanzas camilo cienfuegos,CUBA,3
+1067,istituto nazionale di fisica nucleare amministrazione centrale,ITÁLIA,3
+1068,howard university,ESTADOS UNIDOS,3
+1069,ibero amerikanische institut preuischer kulturbesitz,ALEMANHA,3
+1070,universidad del norte,COLÔMBIA,3
+1071,universidad de concepcion,CHILE,3
+1072,universidad miguel hernandez de elche,ESPANHA,3
+1073,universidad nacional de asuncion,PARAGUAI,3
+1074,universidad de pinar del rio hermanos saiz montes de oca,CUBA,3
+1075,universidad mayor de san andres,BOLÍVIA,3
+1076,swiss federal research institute wsl birmensdorf,SUÍÇA,3
+1077,institut de ciencies fotoniques,ESPANHA,3
+1078,kreftregisteret ue,NORUEGA,3
+1079,technische hochschule koln,ALEMANHA,3
+1080,boise state university,ESTADOS UNIDOS,3
+1081,bowling green state university,ESTADOS UNIDOS,3
+1082,brandeis university,ESTADOS UNIDOS,3
+1083,university of nebraska medical center omaha,ESTADOS UNIDOS,3
+1084,universite de namur,BÉLGICA,3
+1085,centrum voor studie en documentatie van latijns amerika,HOLANDA,3
+1086,universite vincennes saint denis paris 8,FRANÇA,3
+1087,new mexico state university,ESTADOS UNIDOS,3
+1088,nihon university,JAPÃO,3
+1089,universite de la reunion,FRANÇA,3
+1090,national institutes of health national cancer institute,ESTADOS UNIDOS,3
+1091,national museum of nature and science,JAPÃO,3
+1092,universite de valenciennes et du hainaut cambresis,FRANÇA,3
+1093,universite de bretagne sud,FRANÇA,3
+1094,national center for genetic resources preservation,ESTADOS UNIDOS,3
+1095,naturhistoriska riksmuseet,SUÉCIA,3
+1096,university of michigan dearborn,ESTADOS UNIDOS,3
+1097,kyushu institute of technology,JAPÃO,3
+1098,kingston university,REINO UNIDO,3
+1099,california polytechnic state university san luis obispo,ESTADOS UNIDOS,3
+1100,south dakota state university,ESTADOS UNIDOS,3
+1101,bryant university,ESTADOS UNIDOS,3
+1102,laurentian university,CANADÁ,3
+1103,university of lethbridge,CANADÁ,3
+1104,fondazione bruno kessler,ITÁLIA,3
+1105,sanofi en france ue,FRANÇA,3
+1106,garvan institute,AUSTRÁLIA,3
+1107,scuola universitaria professionale della svizzera italiana,SUÍÇA,3
+1108,discourse unit,REINO UNIDO,3
+1109,paul scherrer institut,SUÍÇA,3
+1110,pennington biomedical research center,ESTADOS UNIDOS,3
+1111,ottawa hospital research institute,CANADÁ,3
+1112,otto friedrich universitat bamberg,ALEMANHA,3
+1113,oulun yliopisto,FINLÂNDIA,3
+1114,universita degli studi della basilicata,ITÁLIA,3
+1115,plymouth marine laboratory,REINO UNIDO,3
+1116,handelshogskolan i stockholm,SUÉCIA,3
+1117,harper adams university college,REINO UNIDO,3
+1118,fundacao univ federal de ciencias da saude de porto alegre,BRASIL,3
+1119,fordham university,ESTADOS UNIDOS,3
+1120,universidad nacional mayor de san marcos,PERU,3
+1121,hafencity universitat hamburg,ALEMANHA,3
+1122,universidad pontificia de salamanca,ESPANHA,3
+1123,fundacao universidade de passo fundo,BRASIL,3
+1124,university of hull,REINO UNIDO,3
+1125,university of idaho,ESTADOS UNIDOS,3
+1126,rutgers the state university of new jersey,ESTADOS UNIDOS,3
+1127,leeds metropolitan university,REINO UNIDO,3
+1128,university of central lancashire,REINO UNIDO,3
+1129,university of baltimore,ESTADOS UNIDOS,3
+1130,institut superieur de gestion,FRANÇA,3
+1131,universidade de lisboa faculdade de arquitetura,PORTUGAL,3
+1132,state university of new york buffalo,ESTADOS UNIDOS,3
+1133,university of florida range cattle research and education center ona,ESTADOS UNIDOS,3
+1134,institut national d histoire de l art,FRANÇA,3
+1135,institut national de recherche en informatique et automatiqu,FRANÇA,3
+1136,institut protestant de theologie paris,FRANÇA,3
+1137,royal military college of canada,CANADÁ,3
+1138,russian academy of sciences,RÚSSIA,3
+1139,universidade tiradentes,BRASIL,3
+1140,universita commerciale luigi bocconi,ITÁLIA,3
+1141,universidade federal de sao joao del rei,BRASIL,3
+1142,ecole nationale veterinaire agroalimentaire et de l alimentation nantes atlantique,FRANÇA,3
+1143,ecole nationale veterinaire d alfort,FRANÇA,3
+1144,ecole normale superieure paris saclay,FRANÇA,3
+1145,pontificia universidade catolica de campinas,BRASIL,3
+1146,medizinische universitat graz,ÁUSTRIA,3
+1147,ecole nationale veterinaire agroalimentaire et de l aliment,FRANÇA,3
+1148,universidade metodista de piracicaba,BRASIL,3
+1149,universidade nilton lins,BRASIL,3
+1150,centre tecnologic de telecomunicacions de catalunya,ESPANHA,3
+1151,universita degli studi di teramo,ITÁLIA,3
+1152,ecole superieure d ingenieurs en electronique et electrotechnique amiens,FRANÇA,3
+1153,orebro universitet,SUÉCIA,3
+1154,universitat zu lubeck,ALEMANHA,3
+1155,universitat zurich vetsuisse fakultat,SUÍÇA,3
+1156,universidade do porto faculdade de psicologia e de ciencias da educacao,PORTUGAL,3
+1157,faculdade de psicologia e de ciencias da educacao ue,PORTUGAL,3
+1158,instituto portugues do mar e da atmosfera ue,PORTUGAL,3
+1159,faculdades pequeno principe,BRASIL,3
+1160,integrated ocean drilling program,COSTA RICA,3
+1161,eidgenossische anstalt fur wasserversorgung abwasserreinigung und gewasserschutz dubendorf,SUÍÇA,3
+1162,universidade nove de julho,BRASIL,3
+1163,centre de recherche sur le travail et le developpement,FRANÇA,3
+1164,centre for addiction and mental health,CANADÁ,3
+1165,universita degli studi di catania,ITÁLIA,3
+1166,international centre for genetic engineering and biotechnology,ITÁLIA,3
+1167,medical college of wisconsin,ESTADOS UNIDOS,3
+1168,medical university of south carolina,ESTADOS UNIDOS,3
+1169,instituto de telecomunicacoes,PORTUGAL,3
+1170,instituto espanol de oceanografia,ESPANHA,3
+1171,cespu instituto superior de ciencias da saude gandra,PORTUGAL,3
+1172,national university of singapore,SINGAPURA,3
+1173,natural history museum of los angeles,ESTADOS UNIDOS,3
+1174,manchester business school,REINO UNIDO,3
+1175,marquette university,ESTADOS UNIDOS,3
+1176,centre de recherche medecine sciences sante sante mentale societe,FRANÇA,3
+1177,international livestock research institute,QUÊNIA,3
+1178,jiho eska univerzita v eskych bud jovicich,REPÚBLICA TCHECA,3
+1179,universidad autonoma de san luis potosi,MÉXICO,3
+1180,algoma university,CANADÁ,3
+1181,universidad de artes y ciencias sociales,CHILE,3
+1182,universidad catolica de cordoba,ARGENTINA,3
+1183,universidad catolica del norte,CHILE,3
+1184,hochschule fur musik franz liszt weimar,ALEMANHA,3
+1185,hochschule fur musik theater und medien hannover,ALEMANHA,3
+1186,bath spa university,REINO UNIDO,3
+1187,uniwersytet warszawski,POLONIA,3
+1188,agriculture and food development authority,IRLANDA,3
+1189,united states department of agriculture fort collins,ESTADOS UNIDOS,3
+1190,universidad agraria de la habana,CUBA,3
+1191,ulster university,REINO UNIDO,3
+1192,agresearch ltd invermay ue,NOVA ZELÂNDIA,3
+1193,at t labs research,ESTADOS UNIDOS,3
+1194,hochschule mannheim,ALEMANHA,2
+1195,agricultural research organization the volcani center,ISRAEL,2
+1196,yamaguchi university,JAPÃO,2
+1197,artesis plantijn hogeschool antwerpen,BÉLGICA,2
+1198,university of worcester,REINO UNIDO,2
+1199,architectural association school of architecture,REINO UNIDO,2
+1200,aristotle university of thessaloniki,GRÉCIA,2
+1201,universidad andina simon bolivar,EQUADOR,2
+1202,johannes kepler universitat linz,ÁUSTRIA,2
+1203,istituto superiore di sanita,ITÁLIA,2
+1204,istituto universitario sophia,ITÁLIA,2
+1205,istituto zooprofilattico sperimentale dell abruzzo e del molise g caporale,ITÁLIA,2
+1206,istituto nazionale di oceanografia e di geofisica sperimentale,ITÁLIA,2
+1207,national institute for bioprocessing research and training,IRLANDA,2
+1208,national institute of agricultural botany,REINO UNIDO,2
+1209,nasjonalt institutt for ernrings og sjmatforskning,NORUEGA,2
+1210,abo akademi turku,FINLÂNDIA,2
+1211,university of the west of scotland,REINO UNIDO,2
+1212,university of the western cape,ÁFRICA DO SUL,2
+1213,university of thessaly,GRÉCIA,2
+1214,instituto nacional de neurologia y neurocirugia,MÉXICO,2
+1215,instituto nacional de recursos biologicos,PORTUGAL,2
+1216,naval postgraduate school,ESTADOS UNIDOS,2
+1217,instituto madrileno de estudios avanzados en materiales,ESPANHA,2
+1218,national centers for environmental prediction,ESTADOS UNIDOS,2
+1219,national defense university,ESTADOS UNIDOS,2
+1220,universite catholique de paris institut catholique de paris,FRANÇA,2
+1221,london metropolitan university,REINO UNIDO,2
+1222,victoria university of wellington,NOVA ZELÂNDIA,2
+1223,instituto politecnico de setubal,PORTUGAL,2
+1224,instituto politecnico de viana do castelo,PORTUGAL,2
+1225,instituto politecnico de viana do castelo escola superior de tecnologia e gestao,PORTUGAL,2
+1226,new jersey institute of technology,ESTADOS UNIDOS,2
+1227,padagogische hochschule karlsruhe,ALEMANHA,2
+1228,instituto nacional de cancer jose alencar gomes da silva,BRASIL,2
+1229,instituto nacional de ciencias agricolas,CUBA,2
+1230,kagawa university,JAPÃO,2
+1231,ben gurion university of the negev,ISRAEL,2
+1232,loma linda university,ESTADOS UNIDOS,2
+1233,tsinghua university,CHINA,2
+1234,world health organization geneva,SUÍÇA,2
+1235,universidad antonio de nebrija dehesa de la villa,ESPANHA,2
+1236,universidad autonoma chapingo,MÉXICO,2
+1237,universidad autonoma de aguascalientes,MÉXICO,2
+1238,ie business school madrid,ESPANHA,2
+1239,hospital universitari vall d hebron institut de recerca,ESPANHA,2
+1240,beuth hochschule fur technik berlin,ALEMANHA,2
+1241,university of nebraska,ESTADOS UNIDOS,2
+1242,universidad de guanajuato,MÉXICO,2
+1243,the buck institute for research on aging,ESTADOS UNIDOS,2
+1244,the center for forensic science research and education,ESTADOS UNIDOS,2
+1245,universidad de los lagos,CHILE,2
+1246,fachhochschule frankfurt am main,ALEMANHA,2
+1247,fachhochschule oberosterreich,ÁUSTRIA,2
+1248,lehigh university,ESTADOS UNIDOS,2
+1249,leibniz institut fur alternsforschung fritz lipmann institute ev,ALEMANHA,2
+1250,rijksinstituut voor volksgezondheid en milieu,HOLANDA,2
+1251,robert gordon university,REINO UNIDO,2
+1252,universidade estadual de mato grosso do sul,BRASIL,2
+1253,universidade do estado do rio grande do norte,BRASIL,2
+1254,european molecular biology laboratory,REINO UNIDO,2
+1255,universidade politecnica,MOÇAMBIQUE,2
+1256,escola tecnica superior d arquitectura de barcelona,ESPANHA,2
+1257,escuela andaluza de salud publica,ESPANHA,2
+1258,instituto portugues de oncologia do porto fg,PORTUGAL,2
+1259,european university institute,ITÁLIA,2
+1260,exeter college,REINO UNIDO,2
+1261,fachhochschule aachen,ALEMANHA,2
+1262,cardiff metropolitan university,REINO UNIDO,2
+1263,instituto superior de ciencias da educacao,ANGOLA,2
+1264,instituto superior de tecnologias y ciencias aplicadas,CUBA,2
+1265,university of haifa,ISRAEL,2
+1266,international centre for the study of the preservation and r,ITÁLIA,2
+1267,loyola university,ESTADOS UNIDOS,2
+1268,instituut voor landbouw en visserijonderzoek,BÉLGICA,2
+1269,internationaal instituut voor sociale geschiedenis,HOLANDA,2
+1270,instituto de tecnologia quimica e biologica antonio xavier,PORTUGAL,2
+1271,institutet for livsmedel och bioteknik ab,SUÉCIA,2
+1272,european molecular biology laboratory,ALEMANHA,2
+1273,universidade regional de blumenau,BRASIL,2
+1274,university of alaska fairbanks,ESTADOS UNIDOS,2
+1275,museum d histoire naturelle geneve,SUÍÇA,2
+1276,museum fur naturkunde berlin ue,ALEMANHA,2
+1277,nanyang technological university,SINGAPURA,2
+1278,professionshjskolen kbenhavn,DINAMARCA,2
+1279,russian state university for the humanities,RÚSSIA,2
+1280,universita cattolica del sacro cuore roma,ITÁLIA,2
+1281,universidade jean piaget de cabo verde,CABO VERDE,2
+1282,universidade lueji a nkonde,ANGOLA,2
+1283,universidade mandume ya ndemufayo instituto superior politecnico da huila,ANGOLA,2
+1284,universidade federal do amapa,BRASIL,2
+1285,saint petersburg state university,RÚSSIA,2
+1286,ecole nationale superieure des industries chimiques nancy,FRANÇA,2
+1287,empresa brasileira de pesquisa agropecuaria,BRASIL,2
+1288,universite lille 2 droit et sante,FRANÇA,2
+1289,universite saint louis bruxelles,BÉLGICA,2
+1290,centre pompidou,FRANÇA,2
+1291,cincinnati children s hospital medical center,ESTADOS UNIDOS,2
+1292,city university of london,REINO UNIDO,2
+1293,chiba university,JAPÃO,2
+1294,osterreichische akademie der wissenschaften,ÁUSTRIA,2
+1295,oak ridge national laboratory,ESTADOS UNIDOS,2
+1296,oakland university,ESTADOS UNIDOS,2
+1297,universitair medisch centrum utrecht,HOLANDA,2
+1298,universitat berlim,ALEMANHA,2
+1299,universitat internacional de catalunya,ESPANHA,2
+1300,institute for systems biology,ESTADOS UNIDOS,2
+1301,universita degli studi di napoli l orientale napoli,ITÁLIA,2
+1302,universidade do mindelo,CABO VERDE,2
+1303,universidade do sul de santa catarina,BRASIL,2
+1304,royal college of music,REINO UNIDO,2
+1305,queen margaret university,REINO UNIDO,2
+1306,renal research institute,ESTADOS UNIDOS,2
+1307,private universitat fur gesundheitswissenschaften medizinis,ÁUSTRIA,2
+1308,osservatorio astrofisico di catania,ITÁLIA,2
+1309,universitat erfurt,ALEMANHA,2
+1310,haute ecole specialisee de suisse occidentale,SUÍÇA,2
+1311,universidad nacional de tres de febrero,ARGENTINA,2
+1312,hanyang university,COREIA DO SUL,2
+1313,gymnastik och idrottshogskolan,SUÉCIA,2
+1314,friedrich loeffler institut bundesforschungsinstitut fur tiergesundheit,ALEMANHA,2
+1315,forest products laboratory,ESTADOS UNIDOS,2
+1316,centro internacional de estudios superiores de comunicacion para america latina,EQUADOR,2
+1317,centro de investigaciones energeticas medioambientales y tec,ESPANHA,2
+1318,libera universita di lingue e comunicazione,ITÁLIA,2
+1319,linneuniversitetet,SUÉCIA,2
+1320,universidad torcuato di tella,ARGENTINA,2
+1321,universidad nacional del comahue,ARGENTINA,2
+1322,universidad nacional del nordeste,ARGENTINA,2
+1323,kennedy krieger institute,ESTADOS UNIDOS,2
+1324,san jose state university,ESTADOS UNIDOS,2
+1325,sanford burnham medical research institute orlando,ESTADOS UNIDOS,2
+1326,british columbia cancer agency ue,CANADÁ,2
+1327,university of delhi,ÍNDIA,2
+1328,leibniz institut fur werkstofforientierte technologien,ALEMANHA,2
+1329,leiden universitair medisch centrum,HOLANDA,2
+1330,laboratorio nacional de computacao cientifica,BRASIL,2
+1331,langston university,ESTADOS UNIDOS,2
+1332,lappeenrannan teknillinen yliopisto,FINLÂNDIA,2
+1333,los alamos national laboratory,ESTADOS UNIDOS,2
+1334,salem state university,ESTADOS UNIDOS,2
+1335,institut polytechnique lasalle beauvais,FRANÇA,2
+1336,universidade de franca,BRASIL,2
+1337,institut national d etudes demographiques,FRANÇA,2
+1338,faculdade de letras,PORTUGAL,2
+1339,faculdade de motricidade humana,PORTUGAL,2
+1340,saint mary s university,CANADÁ,2
+1341,university of arizona college of agriculture and life sciences,ESTADOS UNIDOS,2
+1342,saxion university of applied sciences,HOLANDA,2
+1343,fraunhofer institut fur umwelt sicherheits und energietechnik,ALEMANHA,2
+1344,fred hutchinson cancer research center,ESTADOS UNIDOS,2
+1345,universidade de mogi das cruzes,BRASIL,2
+1346,florida institute for human and machine cognition,ESTADOS UNIDOS,2
+1347,fondazione istituto gramsci,ITÁLIA,2
+1348,sanofi en france ue,ALEMANHA,2
+1349,fundacao universidade federal de sergipe,BRASIL,2
+1350,ecole des hautes etudes en sciences de l information et de la communication,FRANÇA,2
+1351,ecole francaise de rome,ITÁLIA,2
+1352,ecole nationale superieure d architecture de paris la vill,FRANÇA,2
+1353,depaul university,ESTADOS UNIDOS,2
+1354,det nationale forskningscenter for arbejdsmilj,DINAMARCA,2
+1355,universita per stranieri di siena,ITÁLIA,2
+1356,smithsonian conservation biology institute front royal,ESTADOS UNIDOS,2
+1357,santa clara university,ESTADOS UNIDOS,2
+1358,consejo superior de investigaciones cientificas instituto de quimica avanzada de cataluna,ESPANHA,2
+1359,conservatoire et jardin botaniques de la ville de geneve,SUÍÇA,2
+1360,pittsburg state university pittsburg,ESTADOS UNIDOS,2
+1361,politechnika gdanska,POLONIA,2
+1362,pecsi tudomanyegyetem,HUNGRIA,2
+1363,max planck instituut,HOLANDA,2
+1364,ontario institute for cancer research,CANADÁ,2
+1365,ecole des hautes etudes en sante publique,FRANÇA,2
+1366,centro de investigaciones energeticas medioambientales y tecnologicas,ESPANHA,2
+1367,montanuniversitat leoben,ÁUSTRIA,2
+1368,padagogische hochschule weingarten,ALEMANHA,2
+1369,pan american health organization,ESTADOS UNIDOS,2
+1370,ostbayerische technische hochschule regensburg,ALEMANHA,2
+1371,universitatsklinikum carl gustav carus,ALEMANHA,2
+1372,universitatsklinikum essen,ALEMANHA,2
+1373,creighton university,ESTADOS UNIDOS,2
+1374,missouri state university,ESTADOS UNIDOS,2
+1375,commonwealth scientific and industrial research organisation,AUSTRÁLIA,2
+1376,centrum wiskunde informatica,HOLANDA,2
+1377,consiglio nazionale delle ricerche istituto di scienze applicate e sistemi intelligenti unita di lecce,ITÁLIA,2
+1378,universite toulouse jean jaures,FRANÇA,2
+1379,centro de investigaciones y estudios superiores en antropolo,MÉXICO,2
+1380,university of johannesburg,ÁFRICA DO SUL,2
+1381,budapesti muszaki es gazdasagtudomanyi egyetem,HUNGRIA,2
+1382,national renewable energy laboratory,ESTADOS UNIDOS,2
+1383,national research council montreal,CANADÁ,2
+1384,universite de technologie troyes,FRANÇA,2
+1385,universite de caen basse normandie,FRANÇA,2
+1386,north carolina agricultural and technical state university,ESTADOS UNIDOS,2
+1387,czech academy of sciences,REPÚBLICA TCHECA,2
+1388,montclair state university,ESTADOS UNIDOS,2
+1389,morgan state university,ESTADOS UNIDOS,2
+1390,fundacion medina,ESPANHA,2
+1391,koninklijk museum voor midden afrika,BÉLGICA,2
+1392,universitatsklinikum hamburg eppendorf,ALEMANHA,2
+1393,universitatsklinikum schleswig holstein,ALEMANHA,2
+1394,colegio de postgraduados,MÉXICO,2
+1395,cleveland state university,ESTADOS UNIDOS,2
+1396,universite evry val d essonne,FRANÇA,2
+1397,universite jean monnet,FRANÇA,2
+1398,fundacao universitaria de cardiologia,BRASIL,2
+1399,fundacion fernando ortiz,CUBA,2
+1400,southern methodist university,ESTADOS UNIDOS,2
+1401,st boniface hospital research,CANADÁ,2
+1402,st lawrence river institute of environmental sciences,CANADÁ,2
+1403,international centre for genetic engineering and biotechnology cape town,ÁFRICA DO SUL,2
+1404,university of macau,CHINA,2
+1405,california institute of the arts,ESTADOS UNIDOS,2
+1406,geodeettinen laitos,FINLÂNDIA,2
+1407,universidad de valparaiso,CHILE,2
+1408,universidad del cauca,COLÔMBIA,2
+1409,universidad del salvador,ARGENTINA,2
+1410,universidad del valle,COLÔMBIA,2
+1411,universidad de cienfuegos,CUBA,2
+1412,the wellcome trust sanger institute,REINO UNIDO,2
+1413,thomas jefferson university,ESTADOS UNIDOS,2
+1414,institiuid teicneolaiochta dhun dealgan,IRLANDA,2
+1415,instituit nacional de recherche agronomique centre de poitou charentes lusignan ue,FRANÇA,2
+1416,universidad de mendoza,ARGENTINA,2
+1417,universidad de puerto rico,PORTO RICO,2
+1418,universidad diego portales,CHILE,2
+1419,universidad juarez autonoma de tabasco,MÉXICO,2
+1420,sodertorns hogskola,SUÉCIA,2
+1421,sophia university,JAPÃO,2
+1422,texas state university san marcos,ESTADOS UNIDOS,2
+1423,tennessee technological university,ESTADOS UNIDOS,2
+1424,technion israel institute of technology,ISRAEL,2
+1425,istituto di scienze e tecnologie della cognizione,ITÁLIA,2
+1426,illinois state university,ESTADOS UNIDOS,2
+1427,indian institute of technology council system,ÍNDIA,2
+1428,institut de recherches sur la catalyse et l environnement de lyon,FRANÇA,2
+1429,instit nac metrologia normalizacao e qualidade industrial,BRASIL,2
+1430,butler university,ESTADOS UNIDOS,2
+1431,britsh museum natural history,REINO UNIDO,2
+1432,bioversity international,ITÁLIA,2
+1433,university of north carolina at charlotte,ESTADOS UNIDOS,2
+1434,la jolla institute,ESTADOS UNIDOS,2
+1435,technische universitat clausthal,ALEMANHA,2
+1436,the children s hospital of philadelphia springfield,ESTADOS UNIDOS,2
+1437,texas a m university texas agrilife research amarillo,ESTADOS UNIDOS,2
+1438,hochschule rhein waal,ALEMANHA,2
+1439,the jikei university school of medicine,JAPÃO,2
+1440,alcatel thales iii v lab,FRANÇA,2
+1441,the murray darling freshwater research centre,AUSTRÁLIA,2
+1442,the nathan s kline institute for psychiatric research,ESTADOS UNIDOS,2
+1443,acadia university,CANADÁ,2
+1444,vlaams instituut voor biotechnologie,BÉLGICA,2
+1445,university of toledo,ESTADOS UNIDOS,2
+1446,university of tampa,ESTADOS UNIDOS,2
+1447,at t labs research new york city,ESTADOS UNIDOS,2
+1448,hogskolan i boras,SUÉCIA,2
+1449,hogskolan i jonkoping,SUÉCIA,2
+1450,univerzita pavla jozefa afarika v koiciach,ESLOVÁQUIA,2
+1451,agence nationale de securite sanitaire de lalimentation de lenvironnement et du travail,FRANÇA,2
+1452,zoological society of london,REINO UNIDO,2
+1453,wilfrid laurier university,CANADÁ,2
+1454,the new school for social research,ESTADOS UNIDOS,2
+1455,the francis crick institute,REINO UNIDO,2
+1456,hochschule hannover,ALEMANHA,2
+1457,university of northern colorado,ESTADOS UNIDOS,2
+1458,university of oklahoma health sciences center oklahoma,ESTADOS UNIDOS,2
+1459,university of pennsylvania school of dental medicine,ESTADOS UNIDOS,2
+1460,university of nevada las vegas,ESTADOS UNIDOS,2
+1461,university of new england portland,ESTADOS UNIDOS,2
+1462,long island university,ESTADOS UNIDOS,2
+1463,blekinge tekniska hogskola,SUÉCIA,2
+1464,blood systems research institute,ESTADOS UNIDOS,2
+1465,international rice research institute,FILIPINAS,2
+1466,interuniversity research centre,CANADÁ,2
+1467,istituti di ricovero e cura a carattere scientifico,ITÁLIA,2
+1468,balsillie school of international affairs,CANADÁ,2
+1469,university of san francisco,ESTADOS UNIDOS,2
+1470,alanus hochschule,ALEMANHA,2
+1471,arkansas state university jonesboro,ESTADOS UNIDOS,2
+1472,vancouver island university,CANADÁ,2
+1473,national severe storms laboratory,ESTADOS UNIDOS,2
+1474,luxembourg institute of science and technology,LUXEMBURGO,2
+1475,university of british columbia okanagan campus,CANADÁ,2
+1476,max rubner institut,ALEMANHA,2
+1477,carnegie museum of natural history,ESTADOS UNIDOS,2
+1478,zurcher hochschulen fur angewandte wissenschaften,SUÍÇA,2
+1479,aix marseille universite faculte des sciences marseille,FRANÇA,2
+1480,joint research centre,ITÁLIA,2
+1481,zoologische staatssammlung munchen,ALEMANHA,2
+1482,international centre for theoretical physics,ITÁLIA,2
+1483,international maize and wheat improvement center,MÉXICO,2
+1484,jihoeska univerzita v eskych budjovicich,REPÚBLICA TCHECA,2
+1485,akademie vd eske republiky,REPÚBLICA TCHECA,2
+1486,hochschule fur fernsehen und film munchen,ALEMANHA,2
+1487,universidad ceu cardenal herrera,ESPANHA,2
+1488,universidad ceu san pablo,ESPANHA,2
+1489,ames research center nasa mountain view,ESTADOS UNIDOS,2
+1490,anglia ruskin university,REINO UNIDO,2
+1491,accademia di belle arti di firenze,ITÁLIA,2
+1492,university of tulsa,ESTADOS UNIDOS,2
+1493,university of wales trinity saint david,REINO UNIDO,2
+1494,basf the chemical company ue,ALEMANHA,2
+1495,uniwersytet jagiellonski,POLONIA,2
+1496,uniwersytet wroclawski,POLONIA,2
+1497,tokyo medical and dental university,JAPÃO,2
+1498,hogskolan i skovde,SUÉCIA,2
+1499,universidad central de venezuela,VENEZUELA,2
+1500,universidad central marta abreu de las villas,CUBA,2
+1501,universidad de ciencias y artes de chiapas,MÉXICO,2
+1502,accademia della crusca,ITÁLIA,1
+1503,winthrop university,ESTADOS UNIDOS,1
+1504,istituto nazionale di geofisica e vulcanologia,ITÁLIA,1
+1505,istituto nazionale di oceanografia e di geofisica sperimenta,ITÁLIA,1
+1506,istituto nazionale di ottica,ITÁLIA,1
+1507,istituto nazionale di ricerca metrologica,ITÁLIA,1
+1508,istituto zooprofilattico sperimentale delle venezie,ITÁLIA,1
+1509,ita suomen yliopisto,FINLÂNDIA,1
+1510,ithaca college,ESTADOS UNIDOS,1
+1511,basf se ue,ALEMANHA,1
+1512,basque center of applied mathematics,ESPANHA,1
+1513,basque center on cognition brain and language,ESPANHA,1
+1514,beijing university of chinese medicine,CHINA,1
+1515,university of the free state,ÁFRICA DO SUL,1
+1516,university of the ryukyus,JAPÃO,1
+1517,william paterson university of new jersey,ESTADOS UNIDOS,1
+1518,williams college,ESTADOS UNIDOS,1
+1519,avans hogeschool,HOLANDA,1
+1520,azti tecnalia,ESPANHA,1
+1521,babson college,ESTADOS UNIDOS,1
+1522,ball state university,ESTADOS UNIDOS,1
+1523,banaras hindu university,ÍNDIA,1
+1524,bantry marine research station,IRLANDA,1
+1525,barcelona graduate school of economics,ESPANHA,1
+1526,barry university,ESTADOS UNIDOS,1
+1527,katolicka univerzita v ruzomberku,ESLOVÁQUIA,1
+1528,kbenhavns universitet,DINAMARCA,1
+1529,kedge business school,FRANÇA,1
+1530,augustana hochschule neuendettelsau,ALEMANHA,1
+1531,australian catholic university,AUSTRÁLIA,1
+1532,australian institute of marine science,AUSTRÁLIA,1
+1533,australian museum,AUSTRÁLIA,1
+1534,australian water quality centre,AUSTRÁLIA,1
+1535,universidad autonoma de campeche,MÉXICO,1
+1536,universidad autonoma de chiapas,MÉXICO,1
+1537,universidad autonoma de ciudad juarez,MÉXICO,1
+1538,universidad autonoma de la ciudad de mexico,MÉXICO,1
+1539,universidad autonoma de sinaloa,MÉXICO,1
+1540,universidad autonoma de zacatecas,MÉXICO,1
+1541,universidad autonoma del estado de morelos,MÉXICO,1
+1542,universidad autonoma metropolitana iztapalapa,MÉXICO,1
+1543,united nations university,ALEMANHA,1
+1544,united nations university,HOLANDA,1
+1545,united nations university institute on comparative regional integration studies,BÉLGICA,1
+1546,united states department of agriculture horticultural crops research corvallis,ESTADOS UNIDOS,1
+1547,united states environmental protection agency,ESTADOS UNIDOS,1
+1548,universidad adolfo ibanez,CHILE,1
+1549,universidad alberto hurtado,CHILE,1
+1550,universidad andres bello,CHILE,1
+1551,tyoterveyslaitos,FINLÂNDIA,1
+1552,u s department of health human services,ESTADOS UNIDOS,1
+1553,ultradent products inc ue,ESTADOS UNIDOS,1
+1554,unfallkrankenhaus berlin,ALEMANHA,1
+1555,unite mixte de physique cnrs thales,FRANÇA,1
+1556,united kingdom astronomy technology centre,REINO UNIDO,1
+1557,united nations convention to combat desertification,ALEMANHA,1
+1558,united nations educational scientific and cultural organization,FRANÇA,1
+1559,yahoo research lab,ESPANHA,1
+1560,tohoku university,JAPÃO,1
+1561,tokyo gakugei university,JAPÃO,1
+1562,tokyo institute of technology,JAPÃO,1
+1563,tomsk state university,RÚSSIA,1
+1564,toyohashi university of technology,JAPÃO,1
+1565,tufts university friedman school of nutrition science and policy,ESTADOS UNIDOS,1
+1566,tuskegee university,ESTADOS UNIDOS,1
+1567,heidelberg institut fur theoretische studien,ALEMANHA,1
+1568,heidelberg university,ESTADOS UNIDOS,1
+1569,hgskolen pa vestlandet,NORUEGA,1
+1570,hgskulen i sogn og fjordane,NORUEGA,1
+1571,hirosaki university,JAPÃO,1
+1572,hochschule bonn rhein sieg,ALEMANHA,1
+1573,hochschule bremen,ALEMANHA,1
+1574,hochschule bremerhaven,ALEMANHA,1
+1575,hudsonalpha institute for biotechnology,ESTADOS UNIDOS,1
+1576,humber college,CANADÁ,1
+1577,ifakara health institute,TANZÂNIA,1
+1578,the university of winchester,REINO UNIDO,1
+1579,the walter and eliza hall institute of medical research,AUSTRÁLIA,1
+1580,thomas jefferson school of law,ESTADOS UNIDOS,1
+1581,thomson reuters markets norge,NORUEGA,1
+1582,thunderbird school of global management,ESTADOS UNIDOS,1
+1583,hopital edouard herriot lyon,FRANÇA,1
+1584,hopital femme mere enfant ue,FRANÇA,1
+1585,hopital kirchberg hopitaux robert schuman,LUXEMBURGO,1
+1586,hospital de la santa creu i sant pau,ESPANHA,1
+1587,hospital general universitario gregorio maranon,ESPANHA,1
+1588,hospital regional universitario de malaga,ESPANHA,1
+1589,hospital universitario marques de valdecilla,ESPANHA,1
+1590,howard hughes medical institute,ESTADOS UNIDOS,1
+1591,universidad bernardo o higgins,CHILE,1
+1592,universidad catolica de santa fe,ARGENTINA,1
+1593,universidad centroamericana,NICARÁGUA,1
+1594,hogeschool inholland,HOLANDA,1
+1595,hogeschool voor de kunsten utrecht,HOLANDA,1
+1596,holy family university philadelphia,ESTADOS UNIDOS,1
+1597,homo ludens laboratoire de recherche en medias socionumeriques et ludification,CANADÁ,1
+1598,hong kong baptist university,HONG KONG,1
+1599,hochschule trier,ALEMANHA,1
+1600,hochschule weihenstephan triesdorf,ALEMANHA,1
+1601,hofstra university,ESTADOS UNIDOS,1
+1602,technical university of varna,BULGÁRIA,1
+1603,technion international,ISRAEL,1
+1604,technische hochschule wildau,ALEMANHA,1
+1605,technophage,PORTUGAL,1
+1606,teesside university middlesbrough,REINO UNIDO,1
+1607,the jackson laboratory,ESTADOS UNIDOS,1
+1608,the oliver zangwill centre,REINO UNIDO,1
+1609,the royal central school of speech and drama,REINO UNIDO,1
+1610,the royal melbourne hospital,AUSTRÁLIA,1
+1611,the samuel roberts noble foundation,ESTADOS UNIDOS,1
+1612,the university health network,CANADÁ,1
+1613,the university of alabama system,ESTADOS UNIDOS,1
+1614,hochschule schmalkalden,ALEMANHA,1
+1615,hochschule fur technik und wirtschaft,ALEMANHA,1
+1616,hochschule ruhr west,ALEMANHA,1
+1617,universidad de ciego de avila,CUBA,1
+1618,the european graduate school leuk stadt,SUÍÇA,1
+1619,the fraunhofer center for experimental software engineering,ESTADOS UNIDOS,1
+1620,the glasgow school of art,REINO UNIDO,1
+1621,the hong kong polytechnic university,HONG KONG,1
+1622,the hong kong university of science and technology,CHINA,1
+1623,hochschule der bildenden kunste saar,ALEMANHA,1
+1624,hochschule der medien stuttgart,ALEMANHA,1
+1625,hochschule emden leer,ALEMANHA,1
+1626,hochschule fulda fulda university of applied sciences,ALEMANHA,1
+1627,hochschule fur angewandte wissenschaften munchen,ALEMANHA,1
+1628,hochschule fur film und fernsehen,ALEMANHA,1
+1629,hochschule fur musik und darstellende kunst frankfurt am main,ALEMANHA,1
+1630,hochschule fur musik und tanz koln,ALEMANHA,1
+1631,universidad externado de colombia,COLÔMBIA,1
+1632,universidad francisco de vitoria,ESPANHA,1
+1633,universidad industrial de santander,COLÔMBIA,1
+1634,universidad jesuita de guadalajara,MÉXICO,1
+1635,universidad la salle mexico,MÉXICO,1
+1636,universidad marista de merida,MÉXICO,1
+1637,universidad nacional agraria la molina,PERU,1
+1638,universidad nacional de avellaneda,ARGENTINA,1
+1639,universidad de medellin,COLÔMBIA,1
+1640,universidad de oriente venezuela,VENEZUELA,1
+1641,universidad de san martin de porres,PERU,1
+1642,universidad de santiago de compostela facultad de farmacia santiago de compostela,ESPANHA,1
+1643,universidad del bio bio,CHILE,1
+1644,universidad del pais vasco leioa,ESPANHA,1
+1645,universidad del rosario,COLÔMBIA,1
+1646,universidad europea de madrid,ESPANHA,1
+1647,the center for kinesthetic education,ESTADOS UNIDOS,1
+1648,the connecticut agricultural experiment station,ESTADOS UNIDOS,1
+1649,the cooper union,ESTADOS UNIDOS,1
+1650,the defiance college,ESTADOS UNIDOS,1
+1651,universidad de colima,MÉXICO,1
+1652,universidad de la serena,CHILE,1
+1653,universidad de las artes,CUBA,1
+1654,universidad de las ciencias informaticas,CUBA,1
+1655,teknologian tutkimuskeskus,FINLÂNDIA,1
+1656,tennessee state university,ESTADOS UNIDOS,1
+1657,texas a m agrilife research extension center,ESTADOS UNIDOS,1
+1658,texas a m university college of liberal arts department of communication college station,ESTADOS UNIDOS,1
+1659,texas a m university texas agrilife research stephenville,ESTADOS UNIDOS,1
+1660,texas biomedical research institute,ESTADOS UNIDOS,1
+1661,texas christian university,ESTADOS UNIDOS,1
+1662,the british school at rome,ITÁLIA,1
+1663,institut des hautes etudes sur la justice,FRANÇA,1
+1664,tallinn university of technology,ESTÔNIA,1
+1665,tampa general hospital,ESTADOS UNIDOS,1
+1666,tampereen teknillinen yliopisto,FINLÂNDIA,1
+1667,tata institute of fundamental research,ÍNDIA,1
+1668,tavistock clinic,REINO UNIDO,1
+1669,technical university of crete,GRÉCIA,1
+1670,graduate theological union,ESTADOS UNIDOS,1
+1671,institut armand frappier research centre,CANADÁ,1
+1672,institut catala d investigacio quimica,ESPANHA,1
+1673,institut clement ader ue,FRANÇA,1
+1674,institut d etudes avancees de paris,FRANÇA,1
+1675,institut de hautes etudes internationales et du developpemen,SUÍÇA,1
+1676,institut de la vision centre de recherche,FRANÇA,1
+1677,institut de recherche en sante environnement et travail equipe d epidemiologie en sante au travail et ergonomie,FRANÇA,1
+1678,institut del teatre,ESPANHA,1
+1679,german institute of human nutrition potsdam rehbruecke,ALEMANHA,1
+1680,getty center j paul getty museum,ESTADOS UNIDOS,1
+1681,gifu university,JAPÃO,1
+1682,glaxosmithkline ue,ESPANHA,1
+1683,goteborgs universitet,SUÉCIA,1
+1684,indiana state university terre haute,ESTADOS UNIDOS,1
+1685,insitituto superior de estudios humanisticos y filosoficos san francisco javier ue,PARAGUAI,1
+1686,inst de ensino e pesquisa da santa casa de belo horizonte,BRASIL,1
+1687,universidad nacional de costa rica campus omar dengo here,COSTA RICA,1
+1688,universidad nacional de entre rios,ARGENTINA,1
+1689,universidad nacional de la amazonia peruana,PERU,1
+1690,universidad nacional de la patagonia san juan bosco,ARGENTINA,1
+1691,universidad nacional de la plata facultad de bellas artes,ARGENTINA,1
+1692,universidad nacional de las artes,ARGENTINA,1
+1693,universidad nacional de misiones,ARGENTINA,1
+1694,universidad nacional de rio quarto,ARGENTINA,1
+1695,fundacion instituto leloir,ARGENTINA,1
+1696,fundacion miguel lillo,ARGENTINA,1
+1697,fundacion para investigaciones biologicas aplicadas,ARGENTINA,1
+1698,fundacion publica galega de medicina xenomica,ESPANHA,1
+1699,gabbett performance solutions ue,AUSTRÁLIA,1
+1700,gallaudet university,ESTADOS UNIDOS,1
+1701,gemini observatory southern operations center,CHILE,1
+1702,geoparkea,ESPANHA,1
+1703,universidad nacional experimental simon rodriguez,VENEZUELA,1
+1704,universidad pedagogica experimental libertador,VENEZUELA,1
+1705,universidad peruana cayetano heredia,PERU,1
+1706,universidad santo tomas,COLÔMBIA,1
+1707,universidad tecnica federico santa maria,CHILE,1
+1708,universidad tecnologica nacional,ARGENTINA,1
+1709,fundacao universidade federal de ciencias da saude de porto alegre,BRASIL,1
+1710,fundacion escuela venezolana de planificacion,VENEZUELA,1
+1711,haskoli islands,ISLÂNDIA,1
+1712,haute ecole specialisee de suisse occidentale haute ecole du paysage d ingenierie et d architecture de geneve,SUÍÇA,1
+1713,havforskningsinstituttet,NORUEGA,1
+1714,hawaii pacific university,ESTADOS UNIDOS,1
+1715,health economics and health technology assessment,REINO UNIDO,1
+1716,universidad nacional de salta,ARGENTINA,1
+1717,universidad nacional de san antonio abad del cusco,PERU,1
+1718,universidad nacional de villa maria,ARGENTINA,1
+1719,greenwood genetic center,ESTADOS UNIDOS,1
+1720,groupe eac paris,FRANÇA,1
+1721,hacettepe universitesi,TURQUIA,1
+1722,haigazian university,LÍBANO,1
+1723,hamburger institut fur sozialforschung,ALEMANHA,1
+1724,hartford hospital,ESTADOS UNIDOS,1
+1725,hartford seminary,ESTADOS UNIDOS,1
+1726,harvey mudd college,ESTADOS UNIDOS,1
+1727,sveucilite u zagrebu,CROÁCIA,1
+1728,swarthmore college,ESTADOS UNIDOS,1
+1729,universidade anhanguera de sao paulo,BRASIL,1
+1730,universidade autonoma de lisboa,PORTUGAL,1
+1731,universidade ceuma,BRASIL,1
+1732,universidade de lisboa faculdade de belas artes,PORTUGAL,1
+1733,universidade de pernambuco,BRASIL,1
+1734,fondazione don carlo gnocchi,ITÁLIA,1
+1735,staffordshire university,REINO UNIDO,1
+1736,stanford graduate school of business,ESTADOS UNIDOS,1
+1737,statens serum institut,DINAMARCA,1
+1738,stazione zoologica anton dohrn,ITÁLIA,1
+1739,stevens institute of technology,ESTADOS UNIDOS,1
+1740,stiftelsen for industriell og teknisk forskning ue,NORUEGA,1
+1741,studiecentrum voor kernenergie,BÉLGICA,1
+1742,sveuciliste u zagrebu,CROÁCIA,1
+1743,south australian research and development institute,AUSTRÁLIA,1
+1744,south carolina state university,ESTADOS UNIDOS,1
+1745,south china university of technology,CHINA,1
+1746,south dakota school of mines and technology,ESTADOS UNIDOS,1
+1747,southeast missouri state university,ESTADOS UNIDOS,1
+1748,southern oregon university,ESTADOS UNIDOS,1
+1749,southwest fisheries science center mississippi labs pascagoula ue,ESTADOS UNIDOS,1
+1750,st olaf college,ESTADOS UNIDOS,1
+1751,george washington university foggy bottom washington,ESTADOS UNIDOS,1
+1752,geotop,CANADÁ,1
+1753,german centre for integrative biodiversity research idiv halle jena leipzig,ALEMANHA,1
+1754,universidade aberta delegacao do porto porto,PORTUGAL,1
+1755,universidade amilcar cabral,GUINÉ-BISSAU,1
+1756,solabia group,FRANÇA,1
+1757,soproni egyetem,HUNGRIA,1
+1758,sorbonne universite laboratoire de biologie du developpement,FRANÇA,1
+1759,shizuoka university,JAPÃO,1
+1760,silver lake college of the holy family,ESTADOS UNIDOS,1
+1761,singapore botanic gardens,SINGAPURA,1
+1762,sir alister hardy foundation for ocean science,REINO UNIDO,1
+1763,skema business school,FRANÇA,1
+1764,skidmore college,ESTADOS UNIDOS,1
+1765,smithsonian tropical research institute,PANAMÁ,1
+1766,universidade do estado de minas gerais,BRASIL,1
+1767,semmelweis egyetem,HUNGRIA,1
+1768,seoul national university,COREIA DO SUL,1
+1769,servicio de hidrografia naval ue,ARGENTINA,1
+1770,servicio regional investigacion desarrollo agroalimentario,ESPANHA,1
+1771,seton hall university,ESTADOS UNIDOS,1
+1772,shanghai university,CHINA,1
+1773,sheffield hallam university,REINO UNIDO,1
+1774,shinshu university,JAPÃO,1
+1775,fuller theological seminary,ESTADOS UNIDOS,1
+1776,sandvik coromant sverige ab ue,SUÉCIA,1
+1777,sanford burnham prebys medical discovery institute,ESTADOS UNIDOS,1
+1778,sanofi en france ue,ESTADOS UNIDOS,1
+1779,sciensano institut,BÉLGICA,1
+1780,scottish universities environmental research centre,REINO UNIDO,1
+1781,seattle biomedical research institute,ESTADOS UNIDOS,1
+1782,seattle university,ESTADOS UNIDOS,1
+1783,fondazione poliambulanza istituto ospedaliero,ITÁLIA,1
+1784,food and agriculture organization of the united nations,ITÁLIA,1
+1785,forschungsinstitut zur zukunft der arbeit,ALEMANHA,1
+1786,forschungszentrum borstel,ALEMANHA,1
+1787,freie universitat berlin fachbereich biologie chemie pharmazie,ALEMANHA,1
+1788,friedrich loeffler institut bundesforschungsinstitut fur tie,ALEMANHA,1
+1789,fritz haber institut der max planck gesellschaft,ALEMANHA,1
+1790,fudan university,CHINA,1
+1791,institut pasteur,FRANÇA,1
+1792,institut pasteur,GUADALUPE,1
+1793,institut pasteur,URUGUAI,1
+1794,institut superieur de mecanique de paris saint ouen,FRANÇA,1
+1795,saint petersburg state conservatory,RÚSSIA,1
+1796,salisbury university,ESTADOS UNIDOS,1
+1797,salud madrid,ESPANHA,1
+1798,san diego zoo,ESTADOS UNIDOS,1
+1799,institut des sciences de la terre d orleans,FRANÇA,1
+1800,institut fur deutsche sprache el,ALEMANHA,1
+1801,institut laue langevin,FRANÇA,1
+1802,institut mines telecom business school,FRANÇA,1
+1803,institut national de recherche en sciences et technologies,FRANÇA,1
+1804,institut national des langues et civilisations orientales,FRANÇA,1
+1805,institut national du patrimoine,FRANÇA,1
+1806,institut paoli calmettes centre de lutte contre le cancer,FRANÇA,1
+1807,fachhochschule salzburg puch urstein salzburg,ÁUSTRIA,1
+1808,faculdade de belas artes,PORTUGAL,1
+1809,facultad de medicina,ESPANHA,1
+1810,facultad de teologia de granada,ESPANHA,1
+1811,facultad latinoamericana de ciencias sociales,EQUADOR,1
+1812,rutgers university new brunswick,ESTADOS UNIDOS,1
+1813,sa pathology,AUSTRÁLIA,1
+1814,saint joseph s university,ESTADOS UNIDOS,1
+1815,universidade do porto faculdade de medicina,PORTUGAL,1
+1816,universidade estadual de goias,BRASIL,1
+1817,universidade estadual de santa cruz,BRASIL,1
+1818,universidade estadual do maranhao,BRASIL,1
+1819,european space research and technology centre,HOLANDA,1
+1820,european synchrotron radiation facility,FRANÇA,1
+1821,evangelische hochschule freiburg,ALEMANHA,1
+1822,fachhochschule nordwestschweiz,SUÍÇA,1
+1823,rhode island school of design,ESTADOS UNIDOS,1
+1824,robert koch institut,ALEMANHA,1
+1825,rochester institute of technology,ESTADOS UNIDOS,1
+1826,rosalind franklin university of medicine and science,ESTADOS UNIDOS,1
+1827,royal roads university,CANADÁ,1
+1828,russian state institute of performing arts,RÚSSIA,1
+1829,ecole superieure de commerce de grenoble,FRANÇA,1
+1830,edge hill university ormskirk,REINO UNIDO,1
+1831,private universitat fur gesundheitswissenschaften medizinische informatik und technik tirol,ÁUSTRIA,1
+1832,private universitat witten herdecke ggmbh,ALEMANHA,1
+1833,public health england,REINO UNIDO,1
+1834,ramapo college of new jersey,ESTADOS UNIDOS,1
+1835,real escuela superior de arte dramatico,ESPANHA,1
+1836,reed college,ESTADOS UNIDOS,1
+1837,renmin university of china,CHINA,1
+1838,rheinische fachhochschule koln,ALEMANHA,1
+1839,universidade europeia campus de santos,PORTUGAL,1
+1840,universidade federal do acre,BRASIL,1
+1841,universidade federal rural da amazonia,BRASIL,1
+1842,universidade feevale,BRASIL,1
+1843,universidade gama filho,BRASIL,1
+1844,universidade kimpa vita,ANGOLA,1
+1845,universidade metodista de angola,ANGOLA,1
+1846,presbyterian college,ESTADOS UNIDOS,1
+1847,facultad latinoamericana de ciencias sociales,MÉXICO,1
+1848,faculte de medecine paris descartes,FRANÇA,1
+1849,faculte de sciences humaines et sociales sorbonne,FRANÇA,1
+1850,federal aviation administration,ESTADOS UNIDOS,1
+1851,federazione italiana giuoco calcio ue,ITÁLIA,1
+1852,filmakademie baden wurttemberg,ALEMANHA,1
+1853,flatiron institute,ESTADOS UNIDOS,1
+1854,universidade estadual paulista julio de mesquita filho duplicidade com cod 56,BRASIL,1
+1855,instituto de investigacion en biomedicina de buenos aires,ARGENTINA,1
+1856,instituto de investigacion sanitaria de la fundacion jimenez diaz,ESPANHA,1
+1857,instituto de investigacion y formacion agraria y pesquera,ESPANHA,1
+1858,instituto de medicina tropical pedro kouri,CUBA,1
+1859,instituto de reproduccion animal uruguay,URUGUAI,1
+1860,instituto de soldadura e qualidade,PORTUGAL,1
+1861,instituto federal de educacao ciencia e tecn da paraiba,BRASIL,1
+1862,instituto interamericano de cooperacion para la agricultura mexico,MÉXICO,1
+1863,institutionen for livsmedelsteknik,SUÉCIA,1
+1864,instituto butantan,BRASIL,1
+1865,instituto cubano de investigacion cultural juan marinello,CUBA,1
+1866,instituto de biologia experimental e tecnologica,PORTUGAL,1
+1867,instituto de ciencias de la vid y del vino,ESPANHA,1
+1868,instituto de desarrollo economico y social,ARGENTINA,1
+1869,instituto de ensino e pesquisa da santa casa de belo horizonte,BRASIL,1
+1870,instituto de estudos sociais e economicos,MOÇAMBIQUE,1
+1871,escuela internacional de cine y television,CUBA,1
+1872,escuela nacional de salud publica de cuba,CUBA,1
+1873,estacion biologia de donana,ESPANHA,1
+1874,european association for education law and policy,BÉLGICA,1
+1875,european molecular biology laboratory,FRANÇA,1
+1876,universidade portucalense infante dom henrique,PORTUGAL,1
+1877,institute of food research,REINO UNIDO,1
+1878,institute of medical and veterinary science,AUSTRÁLIA,1
+1879,el colegio de tlaxcala a c,MÉXICO,1
+1880,el colegio mexiquense a c,MÉXICO,1
+1881,emerson college,ESTADOS UNIDOS,1
+1882,environment and climate change canada,CANADÁ,1
+1883,eotvos lorand tudomanyegyetem,HUNGRIA,1
+1884,eps ville evrard,FRANÇA,1
+1885,escola superior de artes e design,PORTUGAL,1
+1886,escola superior de educacao de paula frassinetti,PORTUGAL,1
+1887,parco tecnologico padano,ITÁLIA,1
+1888,peking university,CHINA,1
+1889,pennsylvania state system of higher education,ESTADOS UNIDOS,1
+1890,perimeter institute for theoretical physics,CANADÁ,1
+1891,petrified forest national park ue,ESTADOS UNIDOS,1
+1892,physikalisch meteorologisches observatorium davos und weltstrahlungszentrum,SUÍÇA,1
+1893,plantentuin meise,BÉLGICA,1
+1894,politechnika krakowska im tadeusza kociuszki,POLONIA,1
+1895,east china normal university,CHINA,1
+1896,east tennessee state university,ESTADOS UNIDOS,1
+1897,eastern institute of technology,NOVA ZELÂNDIA,1
+1898,eastern oregon university,ESTADOS UNIDOS,1
+1899,ecole d ingenieurs la rochelle lagord,FRANÇA,1
+1900,ecole nat sup d infor et de mathema appliq de grenoble,FRANÇA,1
+1901,ecole nationale superieure d architecture paris malaquais,FRANÇA,1
+1902,pannon egyetem,HUNGRIA,1
+1903,universita degli studi del molise,ITÁLIA,1
+1904,universita degli studi dell aquila,ITÁLIA,1
+1905,universita degli studi dell insubria,ITÁLIA,1
+1906,universita degli studi della campania luigi vanvitelli,ITÁLIA,1
+1907,universita degli studi di bergamo,ITÁLIA,1
+1908,universita degli studi di cassino e del lazio meridionale,ITÁLIA,1
+1909,universita degli studi di foggia,ITÁLIA,1
+1910,earlham institute,REINO UNIDO,1
+1911,pontificia universita urbaniana,ITÁLIA,1
+1912,pontificio istituto biblico,ITÁLIA,1
+1913,pontificio istituto orientale,ITÁLIA,1
+1914,portland state university,ESTADOS UNIDOS,1
+1915,potsdam institut fur klimafolgenforschung,ALEMANHA,1
+1916,poundbury cancer institute,REINO UNIDO,1
+1917,prairie view a m university,ESTADOS UNIDOS,1
+1918,universidade regional do cariri,BRASIL,1
+1919,dartmouth college geisel school of medicine,ESTADOS UNIDOS,1
+1920,davis college,ESTADOS UNIDOS,1
+1921,de nationale geologiske undersgelser for danmark og grnland,DINAMARCA,1
+1922,debreceni egyetem,HUNGRIA,1
+1923,delaware state university,ESTADOS UNIDOS,1
+1924,deltares,HOLANDA,1
+1925,department of agriculture and food,AUSTRÁLIA,1
+1926,det kongelige danske kunstakademis skoler for arkitektur design og konservering,DINAMARCA,1
+1927,universita degli studi di scienze gastronomiche di pollenzo,ITÁLIA,1
+1928,universita di corsica pasquale paoli,FRANÇA,1
+1929,universita mediterranea di reggio calabria,ITÁLIA,1
+1930,universita per stranieri di perugia,ITÁLIA,1
+1931,universitat autonoma de barcelona fundacio institut catala de farmacologia,ESPANHA,1
+1932,universitat bonn rheinische friedrich wilhelms,ALEMANHA,1
+1933,universitat der bundeswehr munchen,ALEMANHA,1
+1934,danmarks tekniske universitet institut for akvastiske ressourcer,DINAMARCA,1
+1935,institute for defence studies and analyses,ÍNDIA,1
+1936,institute for human centered design,ESTADOS UNIDOS,1
+1937,ecole nationale superieure d architecture paris val de seine,FRANÇA,1
+1938,ecole nationale superieure de chimie de rennes,FRANÇA,1
+1939,ecole nationale superieure des technologies et industries du bois,FRANÇA,1
+1940,ecole superieure d art d avignon,FRANÇA,1
+1941,universita degli studi di modena e reggio emilia reggio emilia,ITÁLIA,1
+1942,universita degli studi di roma foro italico,ITÁLIA,1
+1943,politechnika warszawska,POLONIA,1
+1944,politecnico di bari,ITÁLIA,1
+1945,pomona college,ESTADOS UNIDOS,1
+1946,pontificia facolta teologica dell italia meridionale,ITÁLIA,1
+1947,pontificia universidad catolica argentina,ARGENTINA,1
+1948,pontificia universidad catolica de valparaiso,CHILE,1
+1949,pontificia universidad catolica del ecuador,EQUADOR,1
+1950,pontificia universidade catolica de goias,BRASIL,1
+1951,pacific university,ESTADOS UNIDOS,1
+1952,padagogische hochschule freiburg,ALEMANHA,1
+1953,padagogische hochschule schwabisch gmund,ALEMANHA,1
+1954,universitat st gallen,SUÍÇA,1
+1955,consejo superior de investigaciones cientificas instituto de agricultura sostenible,ESPANHA,1
+1956,consejo superior de investigaciones cientificas instituto de investigaciones marinas,ESPANHA,1
+1957,conservatoire de musique de geneve,SUÍÇA,1
+1958,consiglio nazionale delle ricerche istituto di chimica del riconoscimento molecolare,ITÁLIA,1
+1959,okinawa institute of science and technology graduate university,JAPÃO,1
+1960,open universiteit nederland,HOLANDA,1
+1961,osaka university,JAPÃO,1
+1962,oslomet storbyuniversitetet,NORUEGA,1
+1963,ospedale pediatrico bambino gesu,ITÁLIA,1
+1964,ostbayerische technische hochschule amberg weiden,ALEMANHA,1
+1965,pacific ecoinformatics and computational ecology lab,ESTADOS UNIDOS,1
+1966,pacific northwest national laboratory,ESTADOS UNIDOS,1
+1967,doshisha university,JAPÃO,1
+1968,dr margarete fischer bosch institut fur klinische pharmakologie,ALEMANHA,1
+1969,drake university,ESTADOS UNIDOS,1
+1970,dupont agricultural products,ESTADOS UNIDOS,1
+1971,observatoire oceanologique de villefranche sur mer ue,FRANÇA,1
+1972,occidental college,ESTADOS UNIDOS,1
+1973,office national d etudes et de recherches aerospatiales chatillon,FRANÇA,1
+1974,ohio wesleyan university,ESTADOS UNIDOS,1
+1975,deutsche sporthochschule koln,ALEMANHA,1
+1976,deutsches institut fur entwicklungspolitik,ALEMANHA,1
+1977,deutsches institut fur kautschuktechnologie,ALEMANHA,1
+1978,deutsches zentrum fur integrative biodiversitatsforschung,ALEMANHA,1
+1979,deutsches zentrum fur neurodegenerative erkrankungen,ALEMANHA,1
+1980,diakonhjemmet hogskole,NORUEGA,1
+1981,dokkyo medical university,JAPÃO,1
+1982,donostia international physics center,ESPANHA,1
+1983,norwegian institute of bioeconomy research,NORUEGA,1
+1984,nova school of business and economics,PORTUGAL,1
+1985,novartis vaccines diagnostics,ITÁLIA,1
+1986,nxp semiconductors holanda ue,HOLANDA,1
+1987,obafemi awolowo university,NIGÉRIA,1
+1988,oberlin college,ESTADOS UNIDOS,1
+1989,obihiro university of agriculture and veterinary medicine,JAPÃO,1
+1990,universitatsklinikum giessen und marburg,ALEMANHA,1
+1991,norsk institutt for biokonomi,NORUEGA,1
+1992,norsk institutt for luftforskning,NORUEGA,1
+1993,norsk institutt for vannforskning,NORUEGA,1
+1994,north carolina central university,ESTADOS UNIDOS,1
+1995,north shore lij the feinstein institute for medical resear,ESTADOS UNIDOS,1
+1996,northeastern university united states,ESTADOS UNIDOS,1
+1997,northwest hydraulic consultants,CANADÁ,1
+1998,northwest research associates,ESTADOS UNIDOS,1
+1999,cours de civilisation francaise de la sorbonne el,FRANÇA,1
+2000,cubaeduca,CUBA,1
+2001,new mexico state university las cruces,ESTADOS UNIDOS,1
+2002,new york eye and ear infirmary of mount sinai,ESTADOS UNIDOS,1
+2003,new york institute of technology,ESTADOS UNIDOS,1
+2004,nhl hogeschool,HOLANDA,1
+2005,niagara college,CANADÁ,1
+2006,norges idrettshgskole,NORUEGA,1
+2007,consiglio nazionale delle ricerche istituto di ricerche sulla popolazione e le politiche sociali salerno,ITÁLIA,1
+2008,consiglio nazionale delle ricerche istituto di scienze dell atmosfera e del clima bologna,ITÁLIA,1
+2009,consiglio nazionale delle ricerche istituto di scienze marine bologna,ITÁLIA,1
+2010,consiglio nazionale delle ricerche istituto per i polimeri compositi e biomateriali catania,ITÁLIA,1
+2011,consiglio nazionale delle ricerche istituto per la protezione sostenibile delle piante portici,ITÁLIA,1
+2012,consiglio per la ricerca in agricoltura e l analisi dell ecnomia agraria centro di ricerca agricoltura e ambiente,ITÁLIA,1
+2013,consorci de salut i social de catalunya,ESPANHA,1
+2014,consorcio sanitario del maresme hospital de mataro,ESPANHA,1
+2015,instituto nacional de telecomunicacoes,BRASIL,1
+2016,instituto nacional del carbon,ESPANHA,1
+2017,instituto politecnico da guarda escola superior de saude,PORTUGAL,1
+2018,instituto politecnico de beja,PORTUGAL,1
+2019,instituto politecnico de coimbra,PORTUGAL,1
+2020,instituto politecnico de viana do castelo escola superior agraria,PORTUGAL,1
+2021,new mexico highlands university,ESTADOS UNIDOS,1
+2022,new mexico museum of natural history and science,ESTADOS UNIDOS,1
+2023,nederlandse organisatie voor wetenschappelijk onderzoek,HOLANDA,1
+2024,instituto latinoamericano y del caribe deplanificacion economica y social,CHILE,1
+2025,instituto madrileno de estudios avanzados en alimentacion,ESPANHA,1
+2026,instituto mexicano de investigaciones cinematograficas y hum,MÉXICO,1
+2027,instituto milenio para la investigacion en depresion y personalidad,CHILE,1
+2028,instituto nacional de higiene epidemiologia y microbiologia,CUBA,1
+2029,instituto nacional de investigaciones forestales agricolas,MÉXICO,1
+2030,instituto nacional de saude doutor ricardo jorge lisboa,PORTUGAL,1
+2031,cognosco anexa animal health fvc ue,NOVA ZELÂNDIA,1
+2032,colby college,ESTADOS UNIDOS,1
+2033,cold spring harbor laboratory,ESTADOS UNIDOS,1
+2034,colgate university,ESTADOS UNIDOS,1
+2035,college of charleston,ESTADOS UNIDOS,1
+2036,college of the atlantic,ESTADOS UNIDOS,1
+2037,college of william mary,ESTADOS UNIDOS,1
+2038,colleges de clinique psychanalytique,FRANÇA,1
+2039,universitatsklinikum schleswig holstein lubeck,ALEMANHA,1
+2040,universitatsspital zurich,SUÍÇA,1
+2041,universite bordeaux i,FRANÇA,1
+2042,universite catholique de lyon,FRANÇA,1
+2043,universite cheikh anta diop de dakar,SENEGAL,1
+2044,universite d abomey calavi,BENIM,1
+2045,clarkson university,ESTADOS UNIDOS,1
+2046,cleveland institute of music,ESTADOS UNIDOS,1
+2047,national research council vancouver,CANADÁ,1
+2048,national sedimentation laboratory,ESTADOS UNIDOS,1
+2049,national university of ireland maynooth,IRLANDA,1
+2050,natural resources canada,CANADÁ,1
+2051,ceske vysoke uceni technicke v praze,REPÚBLICA TCHECA,1
+2052,charles darwin university casuarina,AUSTRÁLIA,1
+2053,charles sturt university,AUSTRÁLIA,1
+2054,charles sturt university campus albury wodonga,AUSTRÁLIA,1
+2055,national cancer centre of singapore,SINGAPURA,1
+2056,national centers for environmental information ue,ESTADOS UNIDOS,1
+2057,national central university,TAIWAN,1
+2058,national institute for agro environmental sciences,JAPÃO,1
+2059,national institute of informatics,JAPÃO,1
+2060,national institutes of health national institute of environmental health sciences durham,ESTADOS UNIDOS,1
+2061,national oceanic and atmospheric administration,ESTADOS UNIDOS,1
+2062,national physical laboratory,REINO UNIDO,1
+2063,universite du havre,FRANÇA,1
+2064,universite du quebec montreal,CANADÁ,1
+2065,centrum fizyki teoretycznej polskiej akademii nauk,POLONIA,1
+2066,centrum regionu hana pro biotechnologicky a zemedelsky vyzkum,REPÚBLICA TCHECA,1
+2067,nara institute of science and technology,JAPÃO,1
+2068,nasjonalt folkehelseinstitutt,NORUEGA,1
+2069,nationaal instituut voor subatomaire fysica,HOLANDA,1
+2070,national aeronautics and space administration,ESTADOS UNIDOS,1
+2071,commonwealth scientific and industrial research organisation south australian health and medical research institute,AUSTRÁLIA,1
+2072,universite d artois,FRANÇA,1
+2073,universite d etat d haiti,HAITI,1
+2074,universite de lorraine unite de formation et de recherche en sciences fondamentales et appliquees metz,FRANÇA,1
+2075,universite de nimes,FRANÇA,1
+2076,universite de technologie de belfort montbeliard,FRANÇA,1
+2077,universite de yaounde,CAMARÕES,1
+2078,universite des antilles et de la guyane martinique,MARTINICA,1
+2079,centro de estudos sociais aquino de braganca,MOÇAMBIQUE,1
+2080,centro de investigacao transdisciplinar cultura espaco e memoria,PORTUGAL,1
+2081,centro de investigacion agroforestal albaladejito,ESPANHA,1
+2082,centro de investigacion cooperativa em biomateriales,ESPANHA,1
+2083,centro de investigacion y extension forestal andino patagonico,ARGENTINA,1
+2084,centro de investigacions marinas,ESPANHA,1
+2085,centro dell attore sinfonico ue,ITÁLIA,1
+2086,centro di ricerca e documentazione sull infanzia,ITÁLIA,1
+2087,universite strasbourg ii sciences humaines marc bloch,FRANÇA,1
+2088,centre national de la recherche scientifique,GUIANA FRANCESA,1
+2089,centre scientifique de monaco,MÔNACO,1
+2090,centro austral de investigaciones cientificas,ARGENTINA,1
+2091,centro de desenvolvimento da tecnologia nuclear,BRASIL,1
+2092,centro de estudios cientificos,CHILE,1
+2093,centro de estudios monetarios y financieros ue,ESPANHA,1
+2094,centro de estudios y experimentacion de obras publicas,ESPANHA,1
+2095,chulalongkorn university,TAILÂNDIA,1
+2096,cincinnati children s research foundation,ESTADOS UNIDOS,1
+2097,cisco systems,ESTADOS UNIDOS,1
+2098,city of hope,ESTADOS UNIDOS,1
+2099,city university of new york john jay college of criminal justice,ESTADOS UNIDOS,1
+2100,claremont graduate university,ESTADOS UNIDOS,1
+2101,universite lille 2 centre d etude des arts contemporains,FRANÇA,1
+2102,universite lille nord de france,FRANÇA,1
+2103,chestnut health systems,ESTADOS UNIDOS,1
+2104,chiang mai university,TAILÂNDIA,1
+2105,children s national medical center,ESTADOS UNIDOS,1
+2106,china agricultural university,CHINA,1
+2107,china european international business school,CHINA,1
+2108,china univeristy of political science law,CHINA,1
+2109,chongqing medical university,CHINA,1
+2110,christ university,ÍNDIA,1
+2111,museum victoria,AUSTRÁLIA,1
+2112,nagoya institute of technology,JAPÃO,1
+2113,university medical center rotterdam,HOLANDA,1
+2114,university of alabama huntsville,ESTADOS UNIDOS,1
+2115,university of alaska anchorage,ESTADOS UNIDOS,1
+2116,carleton college,ESTADOS UNIDOS,1
+2117,carnegie institution of washington,ESTADOS UNIDOS,1
+2118,cary institute of ecosystem studies,ESTADOS UNIDOS,1
+2119,moss landing marine laboratories,ESTADOS UNIDOS,1
+2120,mount holyoke college,ESTADOS UNIDOS,1
+2121,mount sinai hospital,CANADÁ,1
+2122,murdoch childrens research institute,AUSTRÁLIA,1
+2123,musee royal de l afrique centrale,BÉLGICA,1
+2124,museo nacional de historia natural cubana ue,CUBA,1
+2125,museu d art contemporani de barcelona,ESPANHA,1
+2126,museu nacional de etnologia,PORTUGAL,1
+2127,mica the school of ideas,ÍNDIA,1
+2128,michigan technological university,ESTADOS UNIDOS,1
+2129,mitchell hamline school of law,ESTADOS UNIDOS,1
+2130,modul university vienna,ÁUSTRIA,1
+2131,mondragon unibertsitatea,ESPANHA,1
+2132,monmouth college,ESTADOS UNIDOS,1
+2133,montpellier business school,FRANÇA,1
+2134,moscow art theatre,RÚSSIA,1
+2135,centro em rede de investigacao em antropologia,PORTUGAL,1
+2136,centro hospitalar de coimbra,PORTUGAL,1
+2137,centro internazionale di studi primo levi,ITÁLIA,1
+2138,centro latinoamericano de economia humana,URUGUAI,1
+2139,centro nacional de investigaciones de cafe pedro uribe mejia,COLÔMBIA,1
+2140,universite toulouse jean jaures france ameriques espagne,FRANÇA,1
+2141,universitetet i agder,NORUEGA,1
+2142,universitetet i nordland,NORUEGA,1
+2143,mayo clinic hospital phoenix,ESTADOS UNIDOS,1
+2144,medstar union memorial hospital ue,ESTADOS UNIDOS,1
+2145,meiji university,JAPÃO,1
+2146,memorialul victimelor comunismului si al rezistentei centrul international de studii asupra comunismului,ROMÊNIA,1
+2147,mercer university,ESTADOS UNIDOS,1
+2148,mercyhurst archaeological institute,ESTADOS UNIDOS,1
+2149,met office exeter,REINO UNIDO,1
+2150,miami dade college,ESTADOS UNIDOS,1
+2151,magritek ltd ue,ALEMANHA,1
+2152,maryland institute college of art,ESTADOS UNIDOS,1
+2153,matforskningsinstituttet,NORUEGA,1
+2154,max planck institut fur astronomie,ALEMANHA,1
+2155,max planck institut fur chemie,ALEMANHA,1
+2156,max planck institut fur chemische okologie friedrich schiller universitat jena,ALEMANHA,1
+2157,max planck institut fur europaische rechtsgeschichte,ALEMANHA,1
+2158,max planck institut fur softwaresysteme,ALEMANHA,1
+2159,centre d archives d architecture de la cite,FRANÇA,1
+2160,centre d etudes et de documentation economiques juridiques,EGITO,1
+2161,centre de recherches en cancerologie de toulouse,FRANÇA,1
+2162,centre for the study of developing societies,ÍNDIA,1
+2163,centre hospitalier lyon sud,FRANÇA,1
+2164,centre hospitalier sainte anne ue,FRANÇA,1
+2165,lutheran school of theology at chicago,ESTADOS UNIDOS,1
+2166,madeira interactive technologies institute ue,PORTUGAL,1
+2167,casa de velazquez,ESPANHA,1
+2168,center for cooperative research in biomaterials ue,ESPANHA,1
+2169,center for hellenic studies,GRÉCIA,1
+2170,center for research and telecommunication experimentations for networked communities,ITÁLIA,1
+2171,central connecticut state university,ESTADOS UNIDOS,1
+2172,central washington university,ESTADOS UNIDOS,1
+2173,centralesupelec,FRANÇA,1
+2174,centralesupelec chatenay malabry,FRANÇA,1
+2175,interdaf leipzig el,ALEMANHA,1
+2176,international atomic energy agency,ÁUSTRIA,1
+2177,international centre for the study of the preservation and restoration of cultural property,ITÁLIA,1
+2178,loyola university chicago,ESTADOS UNIDOS,1
+2179,ludwig cancer research,ESTADOS UNIDOS,1
+2180,luonnontieteellinen museo,FINLÂNDIA,1
+2181,british school at athens,GRÉCIA,1
+2182,broad institute,ESTADOS UNIDOS,1
+2183,instituto tecnologico agrario de castilla y leon,ESPANHA,1
+2184,instituto tecnologico de aguascalientes,MÉXICO,1
+2185,instituto tecnologico y de estudios superiores de monterrey,MÉXICO,1
+2186,instituto universitario de investigacion ortega y gasset,ESPANHA,1
+2187,instituto universitario de oncologia principado de asturias,ESPANHA,1
+2188,instituto valenciano de infertilidad,ESPANHA,1
+2189,instituut voor tropische geneeskunde,BÉLGICA,1
+2190,inter american development bank,ESTADOS UNIDOS,1
+2191,university of derby,REINO UNIDO,1
+2192,university of detroit mercy,ESTADOS UNIDOS,1
+2193,university of indianapolis,ESTADOS UNIDOS,1
+2194,british antarctic survey,REINO UNIDO,1
+2195,louisiana tech university,ESTADOS UNIDOS,1
+2196,instituto politecnico do cavado e do ave,PORTUGAL,1
+2197,instituto superior dom afonso iii,PORTUGAL,1
+2198,instituto superior politecnico de sao tome e principe,SÃO TOMÉ E PRÍNCIPE,1
+2199,centre interuniversitaire recherche d ingeniere de materiaux,FRANÇA,1
+2200,university of belgrade,SÉRVIA,1
+2201,university of bradford,REINO UNIDO,1
+2202,university of buckingham,REINO UNIDO,1
+2203,university of calcutta,ÍNDIA,1
+2204,university of california extension los angeles,ESTADOS UNIDOS,1
+2205,university of crete,GRÉCIA,1
+2206,university of dayton,ESTADOS UNIDOS,1
+2207,lomonosov moscow state university,RÚSSIA,1
+2208,london research institute,REINO UNIDO,1
+2209,los angeles biomedical research institute,ESTADOS UNIDOS,1
+2210,berlin mathematical school,ALEMANHA,1
+2211,bern university of applied sciences,SUÍÇA,1
+2212,bethesda university of california,ESTADOS UNIDOS,1
+2213,biblioteca nacional de portugal,PORTUGAL,1
+2214,bilkent universitesi,TURQUIA,1
+2215,laboratorio de instrumentacao e fisica experimental de particulas,PORTUGAL,1
+2216,lamar university,ESTADOS UNIDOS,1
+2217,laser interferometer gravitational wave observatory ue,ESTADOS UNIDOS,1
+2218,latvijas universitate,LETÔNIA,1
+2219,leibniz institut fur tropospharenforschung,ALEMANHA,1
+2220,lewis and clark college,ESTADOS UNIDOS,1
+2221,lincoln research centre agresearch,NOVA ZELÂNDIA,1
+2222,liverpool hope university,REINO UNIDO,1
+2223,california institute for medical research,ESTADOS UNIDOS,1
+2224,canadian food inspection agency,CANADÁ,1
+2225,canadian light source,CANADÁ,1
+2226,canadian museum of nature,CANADÁ,1
+2227,carbone savoie ue,FRANÇA,1
+2228,university of keele,REINO UNIDO,1
+2229,university of london queen mary,REINO UNIDO,1
+2230,university of london royal veterinary college,REINO UNIDO,1
+2231,brookhaven national laboratory,ESTADOS UNIDOS,1
+2232,bruker corporation ue,ESTADOS UNIDOS,1
+2233,bryn mawr college,ESTADOS UNIDOS,1
+2234,budapesti mszaki es gazdasagtudomanyi egyetem,HUNGRIA,1
+2235,building research establishment,REINO UNIDO,1
+2236,bureau international des poids et mesures,FRANÇA,1
+2237,business school barcelona ue,ESPANHA,1
+2238,california department of food and agriculture plant pest diagnostics center,ESTADOS UNIDOS,1
+2239,kulturwissenschaftliches institut essen,ALEMANHA,1
+2240,kyoto prefectural university of medicine,JAPÃO,1
+2241,kyushu university,JAPÃO,1
+2242,l universita ta malta,MALTA,1
+2243,laboratoire des signaux et systemes,FRANÇA,1
+2244,laboratoire m l l occitane,FRANÇA,1
+2245,laboratori nazionali del gran sasso,ITÁLIA,1
+2246,laboratori nazionali di frascati,ITÁLIA,1
+2247,kmetijski intitut slovenije,ESLOVÊNIA,1
+2248,kobe university,JAPÃO,1
+2249,kompetenzzentrum obstbau bodensee,ALEMANHA,1
+2250,koninklijk belgisch instituut voor natuurwetenschappen,BÉLGICA,1
+2251,koninklijk nederlands instituut voor onderzoek der zee,HOLANDA,1
+2252,koninklijke musea voor kunst en geschiedenis,BÉLGICA,1
+2253,konstfack university college of arts crafts and design,SUÉCIA,1
+2254,korea advanced institute of science and technology,COREIA DO SUL,1
+2255,university of nebraska omaha,ESTADOS UNIDOS,1
+2256,kedge business school ue,FRANÇA,1
+2257,keio university,JAPÃO,1
+2258,kelley school of business indianapolis,ESTADOS UNIDOS,1
+2259,kennesaw state university,ESTADOS UNIDOS,1
+2260,kerala agricultural university,ÍNDIA,1
+2261,king abdullah university of science and technology,ARÁBIA SAUDITA,1
+2262,klima aldaketa ikergai,ESPANHA,1
+2263,biodiversitat und klima forschungszentrum,ALEMANHA,1
+2264,biology centre,REPÚBLICA TCHECA,1
+2265,biomathematics statistics scotland,REINO UNIDO,1
+2266,biotechnology and biological sciences research council,REINO UNIDO,1
+2267,birbal sahni institute of palaeobotany,ÍNDIA,1
+2268,bishop s university,CANADÁ,1
+2269,boazici universitesi,TURQUIA,1
+2270,bowdoin college,ESTADOS UNIDOS,1
+2271,istituto firc di oncologia molecolare,ITÁLIA,1
+2272,istituto nazionale di astrofisica,ITÁLIA,1
+2273,julius kuhn institut siebeldingen,ALEMANHA,1
+2274,jyvaskylan yliopisto,FINLÂNDIA,1
+2275,kaho sint lieven,BÉLGICA,1
+2276,kanazawa university,JAPÃO,1
+2277,karlstads universitet,SUÉCIA,1
+2278,katholische universitat eichstatt ingolstadt,ALEMANHA,1
+2279,internationale hochschule bad honnef,ALEMANHA,1
+2280,ionian university,GRÉCIA,1
+2281,istituto auxologico italiano,ITÁLIA,1
+2282,istituto di analisi dei sistemi ed informatica,ITÁLIA,1
+2283,istituto di chimica biomolecolare,ITÁLIA,1
+2284,istituto di ricerche sulla combustione,ITÁLIA,1
+2285,istituto e museo di storia della scienza museo galileo,ITÁLIA,1
+2286,istituto europeo di oncologia,ITÁLIA,1
+2287,university of south africa,ÁFRICA DO SUL,1
+2288,university of south wales newport,REINO UNIDO,1
+2289,university of st thomas,ESTADOS UNIDOS,1
+2290,university of tartu,ESTÔNIA,1
+2291,athabasca university,CANADÁ,1
+2292,augusta university,ESTADOS UNIDOS,1
+2293,international renal research institute of vicenza,ITÁLIA,1
+2294,international soil reference and information centre,HOLANDA,1
+2295,university of newcastle upon tyne,REINO UNIDO,1
+2296,university of north dakota main campus,ESTADOS UNIDOS,1
+2297,university of novi sad,SÉRVIA,1
+2298,university of oulu,FINLÂNDIA,1
+2299,university of patras,GRÉCIA,1
+2300,university of prince edward island,CANADÁ,1
+2301,university of richmond,ESTADOS UNIDOS,1
+2302,university of san diego,ESTADOS UNIDOS,1
+2303,agriculture and agri food canada saint hyacinthe,CANADÁ,1
+2304,a l canada laboratories inc,CANADÁ,1
+2305,agenzia nazionale per le nuove tecnologie l energia e lo sviluppo economico sostenibile,ITÁLIA,1
+2306,zhejiang university,CHINA,1
+2307,african institute for agrarian studies,ZIMBÁBUE,1
+2308,adventist university of health sciences,ESTADOS UNIDOS,1
+2309,accademia nazionale di santa cecilia,ITÁLIA,1
+2310,agroscope ettenhausen ue,SUÍÇA,1
+2311,appalachian state university,ESTADOS UNIDOS,1
+2312,arbor research collaborative for health ue,ESTADOS UNIDOS,1
+2313,armenian heritage,ARMÉNIA,1
+2314,arquivo nacional da torre do tombo,PORTUGAL,1
+2315,ashland university,ESTADOS UNIDOS,1
+2316,aswan university,EGITO,1
+2317,university os miami,ESTADOS UNIDOS,1
+2318,a m gorky institute of world literature of the russian academy of science,RÚSSIA,1
+2319,alfred wegener institut,ALEMANHA,1
+2320,american institute of physics,ESTADOS UNIDOS,1
+2321,american university of phnom penh,CAMBOJA,1
+2322,andrews university,ESTADOS UNIDOS,1
+2323,animal and plant health agency,REINO UNIDO,1
+2324,ankara universitesi,TURQUIA,1
+2325,anthropologie et histoire des mondes antiques ue,FRANÇA,1
+2326,anton de kom universiteit,SURINAME,1
+2327,japan advanced institute of science and technology,JAPÃO,1
+2328,japan agency for marine earth science and technology,JAPÃO,1
+2329,jilin university,CHINA,1
+2330,johann heinrich von thunen institut,ALEMANHA,1
+2331,joint bioenergy institute,ESTADOS UNIDOS,1
+2332,julius kuhn institut berlin,ALEMANHA,1
+2333,julius kuhn institut darmstadt,ALEMANHA,1
+2334,international psychoanalytic university berlin,ALEMANHA,1
+2335,uniwersytet lodzki,POLONIA,1
+2336,uniwersytet marii curie skodowskiej,POLONIA,1
+2337,us forest service rocky mountain research station center for landscape science,ESTADOS UNIDOS,1
+2338,versuchs und lehranstalt fur brauerei in berlin e v,ALEMANHA,1
+2339,villa san benedetto hospital,ITÁLIA,1
+2340,wofford college,ESTADOS UNIDOS,1
+2341,wolfsforschungszentrum,ÁUSTRIA,1
+2342,academia sinica,TAIWAN,1
+2343,western australian museum,AUSTRÁLIA,1
+2344,western illinois university macomb,ESTADOS UNIDOS,1
+2345,westminster college,ESTADOS UNIDOS,1
+2346,widener university,ESTADOS UNIDOS,1
+2347,univerza v mariboru,ESLOVÊNIA,1
+2348,univerzita hradec kralove,REPÚBLICA TCHECA,1
+2349,univerzita komenskeho v bratislave,ESLOVÁQUIA,1
+2350,uniwersytet ekonomiczny w katowicach,POLONIA,1
+2351,virginia tech carilion school of medicine roanoke,ESTADOS UNIDOS,1
+2352,virginia tech seafood agricultural research and extension center hampton,ESTADOS UNIDOS,1
+2353,visva bharati university,ÍNDIA,1
+2354,vtt teknologiasta liiketoimintaa,FINLÂNDIA,1
+2355,vysoka kola ekonomicka v praze,REPÚBLICA TCHECA,1
+2356,walsh university,ESTADOS UNIDOS,1
+2357,waltham centre for pet nutrition,REINO UNIDO,1
+2358,wellesley college,ESTADOS UNIDOS,1
+2359,aix marseille universite faculte de droit et de science politique,FRANÇA,1
+2360,aix marseille universite faculte des arts lettres langues et sciences humaines,FRANÇA,1
+2361,akademia muzyczna w krakowie,POLONIA,1
+2362,akademie der bildenden kunste wien,ÁUSTRIA,1
+2363,akademie der kunste berlin,ALEMANHA,1
+2364,akademie ved ceske republiky fyziologicky ustav,REPÚBLICA TCHECA,1
+2365,albany medical college,ESTADOS UNIDOS,1
+2366,alberta agriculture and forestry,CANADÁ,1
