@@ -1,7 +1,11 @@
 import numpy as np
 import pandas as pd
 import statsmodels.api as sm
+import matplotlib.pyplot as plt
+import seaborn as sns
 from constantes import LINGUA_UNIVERSIDADES
+from constantes import MASSA_UNVERSIDADES_BR
+from constantes import MASSA_UNIVERSIDADES_EX
 
 
 def main():
@@ -10,8 +14,6 @@ def main():
     lingua_universidades = LINGUA_UNIVERSIDADES
 
     """
-    Prepara os dados e executa um modelo gravitacional de mobilidade.
-
     Args:
         mat_fluxo (pd.DataFrame): Matriz com fluxos de pesquisadores (origem BR, destino EX).
         mat_distancias (pd.DataFrame): Matriz com as distâncias entre as universidades.
@@ -42,6 +44,14 @@ def main():
         massa_destino
     )
 
+    df_gravitacional["Massa_BR"] = df_gravitacional["BR_Origem"].map(
+        MASSA_UNVERSIDADES_BR
+    )
+
+    df_gravitacional["Massa_EX"] = df_gravitacional["EX_Destino"].map(
+        MASSA_UNIVERSIDADES_EX
+    )
+
     # 3. Filtrar dados e aplicar logaritmo
     # O modelo log-linear não funciona com valores nulos ou zero.
     # Filtramos pares sem fluxo e onde a massa ou distância seja zero.
@@ -50,6 +60,8 @@ def main():
         & (df_gravitacional["Massa_Origem"] > 0)
         & (df_gravitacional["Massa_Destino"] > 0)
         & (df_gravitacional["Distancia"] > 0)
+        & (df_gravitacional["Massa_BR"] > 0)
+        & (df_gravitacional["Massa_EX"] > 0)
     ].copy()
 
     # Aplicar logaritmo natural. Usamos np.log1p (log(1+x)) para estabilidade,
@@ -63,6 +75,12 @@ def main():
     )
     df_gravitacional["log_Distancia"] = np.log(
         df_gravitacional["Distancia"].astype(float)
+    )
+    df_gravitacional["log_Massa_BR"] = np.log(
+        df_gravitacional["Massa_BR"].astype(float)
+    )
+    df_gravitacional["log_Massa_EX"] = np.log(
+        df_gravitacional["Massa_EX"].astype(float)
     )
 
     print(
@@ -85,7 +103,14 @@ def main():
 
     # Variáveis independentes (X) e dependente (y)
     X = df_gravitacional[
-        ["log_Massa_Origem", "log_Massa_Destino", "log_Distancia", "Mesma_Lingua"]
+        [
+            "log_Massa_Origem",
+            "log_Massa_Destino",
+            "log_Massa_BR",
+            "log_Massa_EX",
+            "Mesma_Lingua",
+            "log_Distancia",
+        ]
     ]
     y = df_gravitacional["log_Fluxo"]
 
@@ -108,6 +133,30 @@ def main():
         - Mesma_Lingua (delta): Impacto de ter a mesma língua principal nas universidades de origem e destino. Um coeficiente positivo indica que a mesma língua aumenta o fluxo.
     - P>|t|: O p-valor. Se for baixo (ex: < 0.05), o coeficiente é estatisticamente significativo.
     """)
+
+    # Adicionar previsões ao dataframe
+    df_gravitacional["Predito_log_Fluxo"] = modelo.predict(X)
+    df_gravitacional["Predito_Fluxo"] = np.exp(df_gravitacional["Predito_log_Fluxo"])
+    print("\nAmostra dos dados com previsões do modelo:")
+    print(df_gravitacional.head())
+
+    # Plotar valores reais vs. previstos
+    plt.figure(figsize=(10, 6))
+    sns.scatterplot(
+        x="Fluxo", y="Predito_Fluxo", data=df_gravitacional, hue="Mesma_Lingua", s=100
+    )
+    plt.plot(
+        [0, df_gravitacional["Fluxo"].max()],
+        [0, df_gravitacional["Fluxo"].max()],
+        "r--",
+        label="Linha de Perfeição (y=x)",
+    )
+    plt.title("Fluxo Real vs. Fluxo Predito pelo Modelo Gravitacional")
+    plt.xlabel("Fluxo Real de Pesquisadores")
+    plt.ylabel("Fluxo Predito de Pesquisadores")
+    plt.legend()
+    plt.grid(True)
+    plt.show()
 
 
 if __name__ == "__main__":
