@@ -174,7 +174,7 @@ LINGUA_UNIVERSIDADES = {
     "ex_99": "Francês",
 }
 
-MASSA_UNVERSIDADES_BR = {
+MASSA_UNIVERSIDADES_BR = {
     "br_1": 100.00,
     "br_2": 82.50,
     "br_3": 88.08,

@@ -2,23 +2,71 @@ import numpy as np
 import pandas as pd
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
-import seaborn as sns
 from constantes import LINGUA_UNIVERSIDADES
-from constantes import MASSA_UNVERSIDADES_BR
+from constantes import MASSA_UNIVERSIDADES_BR
 from constantes import MASSA_UNIVERSIDADES_EX
+
+
+def criar_dummies_lingua(df):
+    """Cria variáveis dummy para cada língua"""
+    linguas_destino = df["EX_Destino"].map(LINGUA_UNIVERSIDADES).fillna("Desconhecido")
+    dummies_lingua = pd.get_dummies(linguas_destino, prefix="lingua").astype(float)
+    return pd.concat([df, dummies_lingua], axis=1)
+
+
+def processar_areas(dataset_capes):
+    """Cria um dicionário com todas as áreas de cada universidade"""
+    areas_por_univ = {}
+    for _, row in dataset_capes.iterrows():
+        origem = row["codigo_origem"]
+        destino = row["codigo_destino"]
+        area = row["area_avaliacao"]
+
+        if pd.notna(area):
+            if origem not in areas_por_univ:
+                areas_por_univ[origem] = set()
+            if destino not in areas_por_univ:
+                areas_por_univ[destino] = set()
+
+            areas_por_univ[origem].add(area)
+            areas_por_univ[destino].add(area)
+
+    return areas_por_univ
+
+
+def calcular_similaridade_areas(row, areas_por_univ):
+    """Calcula índice de Jaccard para similaridade entre áreas"""
+    origem = row["BR_Origem"]
+    destino = row["EX_Destino"]
+
+    areas_origem = areas_por_univ.get(origem, set())
+    areas_destino = areas_por_univ.get(destino, set())
+
+    if not areas_origem or not areas_destino:
+        return 0.0
+
+    # Índice de Jaccard: intersecção / união
+    intersecao = len(areas_origem.intersection(areas_destino))
+    uniao = len(areas_origem.union(areas_destino))
+
+    return float(intersecao) / float(uniao) if uniao > 0 else 0.0
 
 
 def main():
     mat_fluxo = pd.read_csv("./dados/mat_br_to_ex.csv", index_col=0)
     mat_distancias = pd.read_csv("./dados/matriz_distancias.csv", index_col=0)
-    lingua_universidades = LINGUA_UNIVERSIDADES
+    dataset_capes = pd.read_csv("./dados/br-capes-filtrado.csv", index_col=0)
 
     """
     Args:
         mat_fluxo (pd.DataFrame): Matriz com fluxos de pesquisadores (origem BR, destino EX).
         mat_distancias (pd.DataFrame): Matriz com as distâncias entre as universidades.
         lingua_universidades (pd.Series): Série com a língua principal de cada universidade.
+        dataset_capes (pd.DataFrame): Dataset da CAPES com informações de mobilidade.
     """
+
+    # Processar áreas e calcular similaridades
+    areas_por_univ = processar_areas(dataset_capes)
 
     # 1. Preparar os dados para a regressão
     # Transformar as matrizes em um formato "longo" (uma linha por par origem-destino)
@@ -45,7 +93,7 @@ def main():
     )
 
     df_gravitacional["Massa_BR"] = df_gravitacional["BR_Origem"].map(
-        MASSA_UNVERSIDADES_BR
+        MASSA_UNIVERSIDADES_BR
     )
 
     df_gravitacional["Massa_EX"] = df_gravitacional["EX_Destino"].map(
@@ -64,24 +112,18 @@ def main():
         & (df_gravitacional["Massa_EX"] > 0)
     ].copy()
 
-    # Aplicar logaritmo natural. Usamos np.log1p (log(1+x)) para estabilidade,
-    # mas como já filtramos os zeros, np.log também funcionaria.
-    df_gravitacional["log_Fluxo"] = np.log(df_gravitacional["Fluxo"].astype(float))
-    df_gravitacional["log_Massa_Origem"] = np.log(
-        df_gravitacional["Massa_Origem"].astype(float)
-    )
-    df_gravitacional["log_Massa_Destino"] = np.log(
-        df_gravitacional["Massa_Destino"].astype(float)
-    )
-    df_gravitacional["log_Distancia"] = np.log(
-        df_gravitacional["Distancia"].astype(float)
-    )
-    df_gravitacional["log_Massa_BR"] = np.log(
-        df_gravitacional["Massa_BR"].astype(float)
-    )
-    df_gravitacional["log_Massa_EX"] = np.log(
-        df_gravitacional["Massa_EX"].astype(float)
-    )
+    # Aplicar logaritmos
+    colunas_log = [
+        ("Fluxo", "log_Fluxo"),
+        ("Massa_Origem", "log_Massa_Origem"),
+        ("Massa_Destino", "log_Massa_Destino"),
+        ("Distancia", "log_Distancia"),
+        ("Massa_BR", "log_Massa_BR"),
+        ("Massa_EX", "log_Massa_EX"),
+    ]
+
+    for col_orig, col_log in colunas_log:
+        df_gravitacional[col_log] = np.log(df_gravitacional[col_orig].astype(float))
 
     print(
         f"\nNúmero de observações (pares universidade) para o modelo: {len(df_gravitacional)}"
@@ -89,29 +131,40 @@ def main():
     print("Amostra dos dados preparados para regressão:")
     print(df_gravitacional.head())
 
-    # Adicionar a variável de língua
-    # Para universidades brasileiras (origem) a língua é sempre "Português"
-    # Para universidades estrangeiras (destino) usamos o dicionário LINGUA_UNIVERSIDADES
-    df_gravitacional["Mesma_Lingua"] = (
-        df_gravitacional["EX_Destino"].map(lingua_universidades) == "Português"
-    ).astype(int)
+    # Criar dummies para línguas
+    df_gravitacional = criar_dummies_lingua(df_gravitacional)
 
-    # 4. Executar o Modelo de Regressão Linear (OLS)
+    # Calcular similaridade de áreas
+    df_gravitacional["Similaridade_Areas"] = df_gravitacional.apply(
+        lambda row: calcular_similaridade_areas(row, areas_por_univ), axis=1
+    )
+
+    # 4. Preparar variáveis para o modelo
+    colunas_lingua = [
+        col for col in df_gravitacional.columns if col.startswith("lingua_")
+    ]
+    colunas_modelo = [
+        "log_Massa_Origem",
+        "log_Massa_Destino",
+        "log_Massa_BR",
+        "log_Massa_EX",
+        "Similaridade_Areas",
+        "log_Distancia",
+    ] + colunas_lingua
+
+    # Verificar e converter todas as variáveis para float
+    for col in colunas_modelo:
+        df_gravitacional[col] = pd.to_numeric(df_gravitacional[col], errors="coerce")
+
+    # Remover linhas com valores nulos
+    df_gravitacional = df_gravitacional.dropna(subset=colunas_modelo)
+
     if len(df_gravitacional) < 4:
         print("\nNão há dados suficientes para executar o modelo de regressão.")
         return
 
-    # Variáveis independentes (X) e dependente (y)
-    X = df_gravitacional[
-        [
-            "log_Massa_Origem",
-            "log_Massa_Destino",
-            "log_Massa_BR",
-            "log_Massa_EX",
-            "Mesma_Lingua",
-            "log_Distancia",
-        ]
-    ]
+    # Preparar variáveis para o modelo
+    X = df_gravitacional[colunas_modelo]
     y = df_gravitacional["log_Fluxo"]
 
     # Adicionar uma constante (intercepto) ao modelo
@@ -125,13 +178,16 @@ def main():
     print(modelo.summary())
     print("""
     --- INTERPRETAÇÃO DOS RESULTADOS ---
-    - R-squared: Indica a proporção da variância do fluxo de pesquisadores que é explicada pelas massas e distância.
+    - R-squared: Indica a proporção da variância do fluxo explicada pelo modelo.
     - Coeficientes (coef):
-        - log_Massa_Origem (alpha): Elasticidade do fluxo em relação à massa de origem. Um aumento de 1% na massa de origem leva a uma mudança de ~alpha% no fluxo.
-        - log_Massa_Destino (beta): Elasticidade do fluxo em relação à massa de destino.
-        - log_Distancia (gamma): Elasticidade do fluxo em relação à distância. Espera-se um valor negativo, indicando que o fluxo diminui com a distância.
-        - Mesma_Lingua (delta): Impacto de ter a mesma língua principal nas universidades de origem e destino. Um coeficiente positivo indica que a mesma língua aumenta o fluxo.
-    - P>|t|: O p-valor. Se for baixo (ex: < 0.05), o coeficiente é estatisticamente significativo.
+        - log_Massa_*: Elasticidade do fluxo em relação às diferentes massas.
+        - lingua_*: Efeito específico de cada língua no fluxo de pesquisadores.
+        - Similaridade_Areas: Impacto da sobreposição de áreas de pesquisa (0 a 1).
+            Um valor positivo indica que maior similaridade aumenta o fluxo.
+            O valor representa a mudança percentual no fluxo para cada aumento
+            de 1 ponto no índice de similaridade.
+        - log_Distancia: Elasticidade do fluxo em relação à distância.
+    - P>|t|: Significância estatística dos coeficientes (p < 0.05 é significativo).
     """)
 
     # Adicionar previsões ao dataframe
@@ -141,10 +197,16 @@ def main():
     print(df_gravitacional.head())
 
     # Plotar valores reais vs. previstos
+    # Plotar valores reais vs. previstos
     plt.figure(figsize=(10, 6))
-    sns.scatterplot(
-        x="Fluxo", y="Predito_Fluxo", data=df_gravitacional, hue="Mesma_Lingua", s=100
+    scatter = plt.scatter(
+        df_gravitacional["Fluxo"],
+        df_gravitacional["Predito_Fluxo"],
+        c=df_gravitacional["Similaridade_Areas"],
+        cmap="viridis",
+        s=100,
     )
+    plt.colorbar(scatter, label="Similaridade de Áreas")
     plt.plot(
         [0, df_gravitacional["Fluxo"].max()],
         [0, df_gravitacional["Fluxo"].max()],
