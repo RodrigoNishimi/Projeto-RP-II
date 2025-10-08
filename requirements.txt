@@ -25,3 +25,4 @@ statsmodels==0.14.5
 threadpoolctl==3.6.0
 tzdata==2025.2
 seaborn
+plotly==5.24.1
