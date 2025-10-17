@@ -1,4 +1,7 @@
 rp2_outros/
 venv/
+.venv/
+artigos/
+dados/
 __pycache__/
 *.pyc
