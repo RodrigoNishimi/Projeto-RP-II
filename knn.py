@@ -1,15 +1,14 @@
 import pandas as pd
 import ast
-
 from collections import Counter
-
 import numpy as np
 from rich import print
-
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder, LabelEncoder
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
+
+from sklearn.neighbors import KNeighborsClassifier
+
+from sklearn.metrics import classification_report, f1_score
 from sklearn.model_selection import GridSearchCV
 
 PRED_MODO = "br2ex"
@@ -22,15 +21,9 @@ DROP_EX_OUTROS = True
 FILTER_HISTORY_BY_MODE = True
 
 
-def run_random_forest_full_trajectory():
-    """
-    Executa o Random Forest usando a trajetória completa do pesquisador
-    para prever a última universidade.
-    """
+def run_classification_full_trajectory():
     df_tabela_sequencias = pd.read_csv("./dados/df_tabela_sequencias.csv")
-    df_tabela_sequencias["universidade_lista"] = df_tabela_sequencias[
-        "universidade_lista"
-    ].apply(ast.literal_eval)
+    df_tabela_sequencias["universidade_lista"] = df_tabela_sequencias["universidade_lista"].apply(ast.literal_eval)
 
     X_raw, y_raw = [], []
 
@@ -65,13 +58,12 @@ def run_random_forest_full_trajectory():
         print("Nenhuma amostra válida foi gerada após a filtragem. Encerrando.")
         return
 
-
     max_len = max(len(h) for h in X_raw)
-
     X_padded = [["0"] * (max_len - len(h)) + h for h in X_raw]
 
     X = pd.DataFrame(X_padded, columns=[f"passo_{i + 1}" for i in range(max_len)])
     y = pd.Series(y_raw, name="proximo_codigo")
+    print(X)
 
     if COLLAPSE_RARE and len(y) > 0:
         freq = Counter(y)
@@ -104,8 +96,11 @@ def run_random_forest_full_trajectory():
         stratify=stratify_y,
     )
 
+    try:
+        ohe = OneHotEncoder(handle_unknown="ignore", sparse_output=True)
+    except TypeError:
+        ohe = OneHotEncoder(handle_unknown="ignore", sparse=True)
 
-    ohe = OneHotEncoder(handle_unknown="ignore", sparse_output=True)
     X_train_enc = ohe.fit_transform(X_train)
     X_test_enc = ohe.transform(X_test)
 
@@ -115,35 +110,34 @@ def run_random_forest_full_trajectory():
     y_train_enc = le_y.transform(y_train)
     y_test_enc = le_y.transform(y_test)
 
+    knn = KNeighborsClassifier(n_jobs=-1)
+
     param_grid = {
-        "n_estimators": [100, 250],
-        "max_depth": [None, 10],
-        "max_samples": [0.5, None],
-        "min_samples_leaf": [1, 3],
-        "max_features": ["sqrt", "log2"],
+        'n_neighbors': [1, 3, 5, 7, 9, 11],
+        'weights': ['uniform', 'distance'],
+        'metric': ['euclidean', 'manhattan', 'minkowski']
     }
 
-    rf_grid = RandomForestClassifier(random_state=42, class_weight="balanced")
-
-    grid_search = GridSearchCV(
-        estimator=rf_grid,
+    clf = GridSearchCV(
+        estimator=knn,
         param_grid=param_grid,
         cv=5,
-        scoring="f1_macro",
-        return_train_score=True,
+        scoring='f1_macro',
         n_jobs=-1,
-        verbose=0,
+        verbose=1
     )
 
-    grid_search.fit(X_train_enc, y_train_enc)
+    clf.fit(X_train_enc, y_train_enc)
 
+    print("Melhores Parâmetros Encontrados:")
+    print(clf.best_params_)
 
-    y_pred_enc = grid_search.predict(X_test_enc)
+    y_pred_enc = clf.predict(X_test_enc)
 
     labels_todos = np.arange(len(le_y.classes_))
     nomes_classes = le_y.classes_
 
-    print("Relatório de Classificação:")
+    print("Relatório de Classificação (KNN):")
     print(
         classification_report(
             y_test_enc,
@@ -156,4 +150,4 @@ def run_random_forest_full_trajectory():
 
 
 if __name__ == "__main__":
-    run_random_forest_full_trajectory()
+    run_classification_full_trajectory()

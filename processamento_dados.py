@@ -86,24 +86,16 @@ def map_universities(df_final):
         university = r["nome_ies_origem_norm"]
         local = r["uf_ies_origem"]
         if university not in inverted_map:
-            if local in ESTADOS_BRASILEIROS:
+            if local in ESTADOS_BRASILEIROS and br_counter < 30:
                 code = f"br_{br_counter}"
                 inverted_map[university] = code
                 br_counter += 1
-            else:
-                code = f"ex_{ex_counter}"
-                inverted_map[university] = code
-                ex_counter += 1
 
     for _, r in df_destino_ordenado.iterrows():
         university = r["nome_ies_destino_norm"]
         local = r["pais_ies_destino"]
         if university not in inverted_map:
-            if local == "BRASIL":
-                code = f"br_{br_counter}"
-                inverted_map[university] = code
-                br_counter += 1
-            else:
+            if local != "BRASIL" and ex_counter < 30:
                 code = f"ex_{ex_counter}"
                 inverted_map[university] = code
                 ex_counter += 1
@@ -207,25 +199,58 @@ def data_processing():
     )
     df_mapeado = df_mapeado.rename(columns={"codigo": "codigo_destino"})
     df_mapeado = df_mapeado.drop(columns=["nome_universidade"])
+    df_mapeado["codigo_origem"] = df_mapeado["codigo_origem"].fillna("0")
+    df_mapeado["codigo_destino"] = df_mapeado["codigo_destino"].fillna("0")
 
     df_mapeado.to_csv("dados/br-capes-filtrado.csv")
 
     result = []
     for name, grp in df_mapeado.groupby("nome_beneficiario", sort=False):
-        start = grp["ano_inicio_bolsa"].min()
-        end = grp["ano_fim_bolsa"].max()
 
-        univ = []
+        if grp.empty:
+            continue
+
+        start = int(grp["ano_inicio_bolsa"].min())
+        end = int(grp["ano_fim_bolsa"].max())
+
+        br_origins = grp[
+            (grp["codigo_origem"].str.startswith("br_")) &
+            (grp["codigo_origem"] != "0")
+        ]["codigo_origem"]
+
+        base_univ = "0"
+        if not br_origins.empty:
+            base_univ = br_origins.mode().iloc[0]
+
+        yearly_univs = {year: base_univ for year in range(start, end + 1)}
+
         for _, r in grp.iterrows():
-            univ.append(r["codigo_origem"])
-            univ.append(r["codigo_destino"])
+            dest_univ = r["codigo_destino"]
+            if dest_univ == "0":
+                continue
+
+            start_bolsa = int(r["ano_inicio_bolsa"])
+            end_bolsa = int(r["ano_fim_bolsa"])
+
+            for year in range(start_bolsa, end_bolsa + 1):
+                if year in yearly_univs:
+                    yearly_univs[year] = dest_univ
+
+        sorted_years = sorted(yearly_univs.keys())
+        univ_lista = [yearly_univs[year] for year in sorted_years]
+
+        if (base_univ.startswith("br_") and
+            univ_lista and
+            univ_lista[0].startswith("ex_")):
+
+            univ_lista.insert(0, base_univ)
 
         result.append(
             {
                 "nome_beneficiario": name,
                 "AnoInicio": start,
                 "AnoFim": end,
-                "universidade_lista": univ,
+                "universidade_lista": univ_lista,
             }
         )
 
@@ -245,8 +270,8 @@ def data_processing():
                     flux_br_to_ex[(ori, dst)] += 1
 
     # Ordem fixa para BRs e EXs
-    ordem_br = [f"br_{i}" for i in range(1, 100)] + ["br_outros"]
-    ordem_ex = [f"ex_{i}" for i in range(1, 100)] + ["ex_outros"]
+    ordem_br = [f"br_{i}" for i in range(1, 30)] + ["br_outros"]
+    ordem_ex = [f"ex_{i}" for i in range(1, 30)] + ["ex_outros"]
 
     # Aplica com ordem fixa
     mat_br_to_ex = flux_to_pivot(
