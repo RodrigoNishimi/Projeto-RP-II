@@ -18,6 +18,19 @@ def normalize_text(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
 
 
+MAPA_UNIVERSIDADES_BR_NORM = {
+    code: [normalize_text(v) for v in vals]
+    for code, vals in MAPA_UNIVERSIDADES_BR.items()
+}
+MAPA_UNIVERSIDADES_EX_NORM = {
+    code: [normalize_text(v) for v in vals]
+    for code, vals in MAPA_UNIVERSIDADES_EX.items()
+}
+
+_MEMO_MAP_BR = {}
+_MEMO_MAP_EX = {}
+
+
 def eh_hospital_universitario(nome_up: str) -> bool:
     return ("HOSPITAL" in nome_up and "UNIVERS" in nome_up) or (
         "HOSPITAL UNIVERSIT" in nome_up
@@ -33,13 +46,10 @@ def eh_laboratorio_universitario(nome_up: str) -> bool:
 def classificar_instituicao_universidade(nome_up: str) -> str:
     universidade_patterns = re.compile("|".join(UNIVERSIDADE_KEYWORDS), re.IGNORECASE)
 
-    # exceções que puxam para Universidade
     if eh_hospital_universitario(nome_up) or eh_laboratorio_universitario(nome_up):
         return "Universidade"
-    # somente universidade neste passo
     if re.search(universidade_patterns, nome_up):
         return "Universidade"
-    # (Governo/Indústria ficam para depois, para acelerar a iteração)
     return "Outro"
 
 
@@ -53,49 +63,33 @@ def atribuir_codigo_universidade_explicito_norm(row):
     cex = codigo_ex_ou_none_from_norm(n_norm)
     if cex:
         return cex
-    return None  # ainda não mapeado (resolver no fallback)
+    return None
 
 
 def codigo_br_ou_none_from_norm(n_norm: str):
-    mapa_universidades_br_norm = {
-        code: [normalize_text(v) for v in vals]
-        for code, vals in MAPA_UNIVERSIDADES_BR.items()
-    }
-
-    _memo_map_br = {}
-    if n_norm in _memo_map_br:
-        return _memo_map_br[n_norm]
-    for code, norms in mapa_universidades_br_norm.items():
+    if n_norm in _MEMO_MAP_BR:
+        return _MEMO_MAP_BR[n_norm]
+    for code, norms in MAPA_UNIVERSIDADES_BR_NORM.items():
         if any(v and v in n_norm for v in norms):
-            _memo_map_br[n_norm] = code
+            _MEMO_MAP_BR[n_norm] = code
             return code
-    _memo_map_br[n_norm] = None
+    _MEMO_MAP_BR[n_norm] = None
     return None
 
 
 def codigo_ex_ou_none_from_norm(n_norm: str):
-    mapa_universidades_ex_norm = {
-        code: [normalize_text(v) for v in vals]
-        for code, vals in MAPA_UNIVERSIDADES_EX.items()
-    }
-
-    _memo_map_ex = {}
-    if n_norm in _memo_map_ex:
-        return _memo_map_ex[n_norm]
-    for code, norms in mapa_universidades_ex_norm.items():
+    if n_norm in _MEMO_MAP_EX:
+        return _MEMO_MAP_EX[n_norm]
+    for code, norms in MAPA_UNIVERSIDADES_EX_NORM.items():
         if any(v and v in n_norm for v in norms):
-            _memo_map_ex[n_norm] = code
+            _MEMO_MAP_EX[n_norm] = code
             return code
-    _memo_map_ex[n_norm] = None
+    _MEMO_MAP_EX[n_norm] = None
     return None
 
 
 def data_processing():
-    # === Importa a base ===
-
     df = pd.read_csv(CAMINHO)
-
-    # === AGRUPA INSTITUIÇÕES ===
 
     parts = []
     for t in DOUTOR_TERMS:
@@ -116,7 +110,7 @@ def data_processing():
     df["Instituicao_up"] = df["Instituicao"].str.upper()
     df["Instituicao_norm"] = df["Instituicao"].map(
         normalize_text
-    )  # para matching de dicionários
+    )
 
     df["GrupoInstituicao"] = df["Instituicao_up"].map(
         classificar_instituicao_universidade
