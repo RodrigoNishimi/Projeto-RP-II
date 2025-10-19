@@ -8,9 +8,11 @@ from constantes import MASSA_UNIVERSIDADES_EX
 
 
 def criar_dummies_lingua(df):
-    """Cria variáveis dummy para cada língua"""
+    """Cria variáveis dummy para cada língua, usando Português como referência"""
     linguas_destino = df["EX_Destino"].map(LINGUA_UNIVERSIDADES).fillna("Desconhecido")
     dummies_lingua = pd.get_dummies(linguas_destino, prefix="lingua").astype(float)
+    if "lingua_Português" in dummies_lingua.columns:
+        dummies_lingua = dummies_lingua.drop("lingua_Português", axis=1)
     return pd.concat([df, dummies_lingua], axis=1)
 
 
@@ -176,23 +178,10 @@ def main():
     # 5. Exibir os resultados
     print("\n\n--- RESULTADOS DO MODELO GRAVITACIONAL ---")
     print(modelo.summary())
-    print("""
-    --- INTERPRETAÇÃO DOS RESULTADOS ---
-    - R-squared: Indica a proporção da variância do fluxo explicada pelo modelo.
-    - Coeficientes (coef):
-        - log_Massa_*: Elasticidade do fluxo em relação às diferentes massas.
-        - lingua_*: Efeito específico de cada língua no fluxo de pesquisadores.
-        - Similaridade_Areas: Impacto da sobreposição de áreas de pesquisa (0 a 1).
-            Um valor positivo indica que maior similaridade aumenta o fluxo.
-            O valor representa a mudança percentual no fluxo para cada aumento
-            de 1 ponto no índice de similaridade.
-        - log_Distancia: Elasticidade do fluxo em relação à distância.
-    - P>|t|: Significância estatística dos coeficientes (p < 0.05 é significativo).
-    """)
 
     # Adicionar previsões ao dataframe
-    df_gravitacional["Predito_log_Fluxo"] = modelo.predict(X)
-    df_gravitacional["Predito_Fluxo"] = np.exp(df_gravitacional["Predito_log_Fluxo"])
+    predito_log_fluxo = modelo.predict(X)
+    df_gravitacional["Predito_Fluxo"] = np.exp(predito_log_fluxo)
     print("\nAmostra dos dados com previsões do modelo:")
     print(df_gravitacional.head())
 
